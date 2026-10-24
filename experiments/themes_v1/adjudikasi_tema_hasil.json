@@ -1,0 +1,24 @@
+{
+  "n_adjudicated": 45,
+  "sided_with_validator": 16,
+  "sided_with_claude": 25,
+  "neither": 4,
+  "final_counts": {
+    "KV": 26,
+    "PK": 19,
+    "KO": 18,
+    "EJ": 14,
+    "AK": 11,
+    "AU": 9,
+    "HC": 3
+  },
+  "claude_v1_vs_final": {
+    "agree": 80,
+    "kappa": 0.753
+  },
+  "validator_vs_final": {
+    "agree": 71,
+    "kappa": 0.65
+  },
+  "blind_kappa_validator_vs_claude": 0.452
+}

@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "version": "v1",
+    "script_version": "1.0",
+    "created_at_utc": "2026-09-30T04:11:54Z",
+    "input": "data\\20260930\\comments.csv",
+    "collection_started_utc": "2026-09-30T02:13:43Z",
+    "output": "data\\interim\\comments_quality_v1.csv",
+    "lingua_version": "2.2.0"
+  },
+  "parameters": {
+    "MIN_WORDS": 3,
+    "INDONESIAN_THRESHOLD": 0.5,
+    "FOREIGN_THRESHOLD": 0.5
+  },
+  "validation": [
+    {
+      "level": "record",
+      "rule": "commentId tidak kosong",
+      "n_fail": 0,
+      "total": 3307,
+      "status": "PASS"
+    },
+    {
+      "level": "record",
+      "rule": "commentId unik",
+      "n_fail": 0,
+      "total": 3307,
+      "status": "PASS"
+    },
+    {
+      "level": "record",
+      "rule": "videoId ada di manifest",
+      "n_fail": 0,
+      "total": 3307,
+      "status": "PASS"
+    },
+    {
+      "level": "record",
+      "rule": "textOriginal tidak null",
+      "n_fail": 0,
+      "total": 3307,
+      "status": "PASS"
+    },
+    {
+      "level": "record",
+      "rule": "likeCount >= 0 dan numerik",
+      "n_fail": 0,
+      "total": 3307,
+      "status": "PASS"
+    },
+    {
+      "level": "record",
+      "rule": "publishedAt timestamp valid",
+      "n_fail": 0,
+      "total": 3307,
+      "status": "PASS"
+    },
+    {
+      "level": "record",
+      "rule": "updatedAt timestamp valid",
+      "n_fail": 0,
+      "total": 3307,
+      "status": "PASS"
+    },
+    {
+      "level": "record",
+      "rule": "authorHash tidak kosong",
+      "n_fail": 0,
+      "total": 3307,
+      "status": "PASS"
+    },
+    {
+      "level": "record",
+      "rule": "isReply konsisten dengan parentId",
+      "n_fail": 0,
+      "total": 3307,
+      "status": "PASS"
+    },
+    {
+      "level": "dataset",
+      "rule": "setiap reply punya parent di data",
+      "n_fail": 0,
+      "total": 899,
+      "status": "PASS"
+    },
+    {
+      "level": "dataset",
+      "rule": "jumlah reply per thread = totalReplyCount",
+      "n_fail": 0,
+      "total": 2408,
+      "status": "PASS"
+    },
+    {
+      "level": "dataset",
+      "rule": "jumlah baris per video = collection_log",
+      "n_fail": 0,
+      "total": 8,
+      "status": "PASS"
+    },
+    {
+      "level": "dataset",
+      "rule": "jumlah baris per video = commentCount YouTube",
+      "n_fail": 0,
+      "total": 8,
+      "status": "PASS"
+    },
+    {
+      "level": "dataset",
+      "rule": "komentar tidak lebih awal dari upload video",
+      "n_fail": 0,
+      "total": 3307,
+      "status": "PASS"
+    },
+    {
+      "level": "dataset",
+      "rule": "komentar tidak lebih baru dari waktu pengambilan",
+      "n_fail": 0,
+      "total": 3307,
+      "status": "PASS"
+    },
+    {
+      "level": "dataset",
+      "rule": "updatedAt >= publishedAt",
+      "n_fail": 0,
+      "total": 3307,
+      "status": "PASS"
+    },
+    {
+      "level": "dataset",
+      "rule": "kolom kasus sama dengan manifest",
+      "n_fail": 0,
+      "total": 3307,
+      "status": "PASS"
+    }
+  ],
+  "funnel": [
+    {
+      "step": "Total komentar",
+      "removed": 0,
+      "remaining": 3307
+    },
+    {
+      "step": "Komentar pemilik channel",
+      "flag": "flag_owner",
+      "removed": 42,
+      "remaining": 3265
+    },
+    {
+      "step": "Tanpa isi teks (kosong / emoji / simbol / timestamp saja)",
+      "flag": "flag_no_content",
+      "removed": 38,
+      "remaining": 3227
+    },
+    {
+      "step": "Spam (judi online / promosi / link)",
+      "flag": "flag_spam",
+      "removed": 8,
+      "remaining": 3219
+    },
+    {
+      "step": "Teks sama berulang dari penulis yang sama (setelah yang pertama)",
+      "flag": "flag_same_author_repeat",
+      "removed": 14,
+      "remaining": 3205
+    },
+    {
+      "step": "Bukan bahasa Indonesia",
+      "flag": "flag_non_indonesian",
+      "removed": 60,
+      "remaining": 3145
+    }
+  ],
+  "flag_counts": {
+    "flag_owner": 42,
+    "flag_no_content": 42,
+    "flag_short": 398,
+    "flag_edited": 302,
+    "flag_spam": 10,
+    "flag_same_author_repeat": 17,
+    "flag_non_indonesian": 61,
+    "flag_lang_uncertain": 0
+  },
+  "balance": {
+    "Per tipe organisasi": [
+      {
+        "org_type": "commercial",
+        "total": 899,
+        "eligible": 856,
+        "pct_eligible": 95.2,
+        "share_of_eligible": 27.2
+      },
+      {
+        "org_type": "government",
+        "total": 2408,
+        "eligible": 2289,
+        "pct_eligible": 95.1,
+        "share_of_eligible": 72.8
+      }
+    ],
+    "Per tipe video": [
+      {
+        "video_type": "reupload_archive",
+        "total": 982,
+        "eligible": 924,
+        "pct_eligible": 94.1,
+        "share_of_eligible": 29.4
+      },
+      {
+        "video_type": "third_party",
+        "total": 2325,
+        "eligible": 2221,
+        "pct_eligible": 95.5,
+        "share_of_eligible": 70.6
+      }
+    ],
+    "Per kasus": [
+      {
+        "case_id": "C01",
+        "org_type": "commercial",
+        "video_type": "third_party",
+        "verification_status": "credible_media",
+        "total": 647,
+        "eligible": 630,
+        "pct_eligible": 97.4,
+        "share_of_eligible": 20.0
+      },
+      {
+        "case_id": "C02",
+        "org_type": "government",
+        "video_type": "third_party",
+        "verification_status": "credible_media",
+        "total": 172,
+        "eligible": 135,
+        "pct_eligible": 78.5,
+        "share_of_eligible": 4.3
+      },
+      {
+        "case_id": "C03",
+        "org_type": "government",
+        "video_type": "reupload_archive",
+        "verification_status": "to_verify",
+        "total": 730,
+        "eligible": 698,
+        "pct_eligible": 95.6,
+        "share_of_eligible": 22.2
+      },
+      {
+        "case_id": "C04",
+        "org_type": "government",
+        "video_type": "third_party",
+        "verification_status": "to_verify",
+        "total": 553,
+        "eligible": 538,
+        "pct_eligible": 97.3,
+        "share_of_eligible": 17.1
+      },
+      {
+        "case_id": "C05",
+        "org_type": "commercial",
+        "video_type": "reupload_archive",
+        "verification_status": "to_verify",
+        "total": 127,
+        "eligible": 111,
+        "pct_eligible": 87.4,
+        "share_of_eligible": 3.5
+      },
+      {
+        "case_id": "C06",
+        "org_type": "commercial",
+        "video_type": "reupload_archive",
+        "verification_status": "to_verify",
+        "total": 125,
+        "eligible": 115,
+        "pct_eligible": 92.0,
+        "share_of_eligible": 3.7
+      },
+      {
+        "case_id": "C07",
+        "org_type": "government",
+        "video_type": "third_party",
+        "verification_status": "to_verify",
+        "total": 953,
+        "eligible": 918,
+        "pct_eligible": 96.3,
+        "share_of_eligible": 29.2
+      }
+    ]
+  },
+  "research": {
+    "Komentar eligible": "3145 dari 3307 (95.1%)",
+    "Penulis unik (eligible)": 2545,
+    "Konsentrasi penulis": "1% penulis teratas (25) menulis 7.7% komentar eligible; maksimum 43 komentar per penulis",
+    "Label bahasa (semua komentar)": {
+      "id": 2827,
+      "too_short": 397,
+      "non_id": 61,
+      "id_mixed": 22
+    },
+    "Komentar pendek (< MIN_WORDS) di antara eligible": 334,
+    "Teks sama dari >1 penulis (konten berulang sah, dipertahankan)": 99,
+    "Rentang waktu komentar": "2023-09-29 s.d. 2026-09-23",
+    "Catatan": "Melayu digabung dengan Indonesia; bahasa daerah (Jawa, Sunda) tidak dideteksi terpisah. Spam dan label bahasa perlu dicek manual lewat review file."
+  },
+  "overrides_applied": []
+}

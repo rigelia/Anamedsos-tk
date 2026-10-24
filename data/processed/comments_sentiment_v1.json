@@ -1,0 +1,50 @@
+{
+  "script": "sentiment_relevant.py v1.0",
+  "executed_at_utc": "2026-10-23T12:35:23Z",
+  "input": "comments_relevance_v1.csv (relevant == y)",
+  "text_column": "text_embed",
+  "models": {
+    "id": "w11wo/indonesian-roberta-base-sentiment-classifier",
+    "xlmr": "cardiffnlp/twitter-xlm-roberta-base-sentiment"
+  },
+  "max_length": 256,
+  "library_versions": {
+    "transformers": "5.17.0",
+    "torch": "2.14.0"
+  },
+  "seconds": {
+    "id": 336.0,
+    "xlmr": 556.6
+  },
+  "n": 2288,
+  "counts": {
+    "id": {
+      "negative": 1810,
+      "positive": 290,
+      "neutral": 188
+    },
+    "xlmr": {
+      "negative": 1390,
+      "neutral": 610,
+      "positive": 288
+    }
+  },
+  "agreement": 0.687,
+  "crosstab_id_vs_xlmr": {
+    "negative": {
+      "negative": 1290,
+      "neutral": 419,
+      "positive": 101
+    },
+    "neutral": {
+      "negative": 36,
+      "neutral": 123,
+      "positive": 29
+    },
+    "positive": {
+      "negative": 64,
+      "neutral": 68,
+      "positive": 158
+    }
+  }
+}

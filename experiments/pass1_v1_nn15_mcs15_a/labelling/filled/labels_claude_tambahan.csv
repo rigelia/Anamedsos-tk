@@ -1,0 +1,9 @@
+﻿topic,n,words_a,dominant_case,dominant_case_pct,label,topic_name,note,labeller
+1,191,"iklan marjan, marjan, iklan ai, marjan iklan, kalah iklan, iklan, iklannya, bni, iklan iklan, iklan bni",C01,30.4,relevant,"Perbandingan dengan iklan buatan manusia (Marjan, BNI)",Sebagian kecil soal rasa produk,Claude
+10,51,"kampanye, ai iklan, ai kampanye, iklannya pake, brand, trend, musik propaganda, liat iklannya, filter ai, tv",C01,39.2,relevant,Organisasi besar memakai AI untuk iklan/kampanye,"Termasuk pembelaan (ikut tren, cuma filter AI)",Claude
+13,42,"wa, azan, doa, subuh, magrib, puasa, selamat, adzan, beh, ai alamak",C07,33.3,mixed,"Teriakan/umpatan lepas, azan dan doa","Ada umpatan ke Komdigi/Indomie soal AI dan dana, tapi juga azan, damkar, candaan. Draft awal not_relevant, diubah setelah dibaca ulang",Claude
+22,28,"layak, layak dihujat, layak hujat, makasih, ngontennya, update, tpi tetep, banget komdigi, dihujat ai, best",C01,57.1,mixed,Layak dihujat / pujian kanal dan sarkasme,Layak dihujat & pujian sarkas ke iklan AI bercampur pujian ke kreator kanal,Claude
+25,26,"robot, beli robot, anjing, beli, mainan, robot anjing, bikin policetube, cina, segitu, tsb",C04,92.3,mixed,Robot anjing Polri vs tidak sewa animator,Sebagian membandingkan anggaran robot dengan iklan AI; sebagian hanya kritik belanja robot,Claude
+34,20,"iyakah, setujuu, right, wih, yap, setuju banget, broo, anggota, kau, setuju",C03,40.0,not_relevant,Persetujuan singkat tanpa isi,Konsisten dengan keputusan topik 35/36,Claude
+37,18,"indomie indomie, indomie, kebalik, mie indo, anying, dihati, hujat hujat, mieindo, tetep mie, nomer",C01,100.0,not_relevant,Koreksi nama Indomie,,Claude
+43,15,"bola, bolanya, tangannya nyambung, tasbihnya, jalan, topinya, tangannya, mukanya, mundur, ngeselin",C03,53.3,relevant,"Cacat visual (anatomi, objek)","C03 dan C06: tangan nyambung, bola ganda, jalan mundur",Claude

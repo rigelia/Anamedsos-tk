@@ -1,0 +1,46 @@
+no,alasan_claude,penilaian_ulang_claude
+4,Kritik pilihan organisasi (tidak kreatif) -> konvensi 13/16 KO,tetap KO; bisa diperdebatkan
+8,Membalas soal karya anak bangsa -> PK,salah Claude: komentarnya sendiri soal minta anggaran -> AK (aturan 4)
+11,Pujian sarkas 'canggih' -> konvensi 16 KO,tetap KO
+12,'cringe' = penilaian kualitas -> konvensi 14 KV,tetap KV
+13,Perbandingan dengan animator Minecraft yang lebih bagus -> aturan 3 KV,bisa diperdebatkan (KV vs PK)
+17,Sindiran rekrutmen + video 480p (kualitas rendah) -> KV,bisa diperdebatkan (KV vs KO)
+18,Data latih diambil dari gambar Pixar = maling -> HC,tetap HC
+19,Membalas debat orisinalitas; hanya mengoreksi tulisan -> EJ,tetap EJ; komentar ini mungkin bukan tolak
+20,Seni = jiwa / feel karya buatan tangan -> KV (perubahan v1),bisa diperdebatkan (KV vs AU)
+22,AI hanya untuk orang lemah = anggapan umum tentang AI -> AU,setuju EJ: hinaan tanpa alasan
+23,Ejekan pendek -> EJ,setuju KO: menyindir pemakaian AI itu sendiri (konvensi 13)
+24,Animator lokal diabaikan + tidak ada dana -> PK (kedua AK),tetap PK; tidak ada unsur hak cipta
+27,'stop udah muak' tanpa alasan -> EJ,berubah ke KO: 'stop' = menolak pemakaian itu sendiri (konvensi 13)
+29,Sindiran 'efisiensi' -> AK (disebut di definisi AK),tetap AK
+33,Pujian sarkas 'negeri kita sangat maju' -> konvensi 16 KO,tetap KO
+34,Harusnya dibuat manusia bukan 100% AI -> PK,bisa diperdebatkan (PK vs AU)
+38,'kaya film horror gore' = reaksi pada tampilan -> KV,tetap KV
+40,Tiga alasan (kualitas/hak cipta/pekerja) -> tie-breaker HC,bisa diperdebatkan; alasan pertama yang ditulis KV
+44,Iklan murah vs anggaran coretax boros -> AK,tetap AK
+50,'kenapa harus pake AI segala' -> konvensi 13 KO,tetap KO
+54,'gk niat bikin' -> konvensi 13 KO,bisa diperdebatkan ('apa bende nih' = reaksi tampilan -> KV)
+56,Ejekan ke Komdigi -> EJ,bisa diperdebatkan: pujian sarkas -> KO (konvensi 16)
+58,Bandingkan Good Day yang pakai ilustrator -> KV,salah Claude: saran pakai ilustrator -> PK (aturan 3)
+59,Ahli AI pemerintah cuma ahli prompt -> kebijakan AI pemerintah KO (aturan 9),tetap KO
+60,Seni AI buruk karena tanpa jiwa/emosi -> KV,berubah ke HC: alasannya 'meniru gambar yang sudah jadi'
+62,Ikut tren biar viral -> KO,bisa diperdebatkan (KO vs EJ)
+68,Staf kreatif Indomie cuma pakai generator AI -> KO,tetap KO; bisa juga PK
+69,Lomba prompt AI pemerintah -> aturan 9 KO,tetap KO
+70,'kabur dari negara ini kalau iklan AI lagi' -> KO,setuju AU: bagian edit soal ketergantungan pada AI
+72,Pejabat gaptek + studio lokal tidak didukung -> KO (kedua PK),setuju PK: 'sampai parahnya' menekankan studio lokal
+73,'Artist AI bukan artist' -> KV,setuju AU: debat AI art umum (aturan 11)
+76,Blender/SFM gratis lebih bagus dari AI jelek -> aturan 3 KV,tetap KV
+77,AI generator dikaitkan konten cabul lalu jadi iklan -> KO,bisa diperdebatkan (KO vs AU)
+79,Animasi kerja keras vs tulis prompt -> KV,berubah ke PK: menekankan kerja keras kreator
+82,'Takut banget' melihat videonya -> aturan 6 KV,tetap KV
+84,Pemerintah 'pakai' bukan 'bikin' AI -> aturan 9 KO,tetap KO
+85,'Mantap pake ai' -> EJ,setuju KO: pujian sarkas (konvensi 16)
+86,'Mengecewakan' tanpa alasan -> EJ,bisa diperdebatkan (EJ vs KV)
+89,Dugaan cuci uang lewat AI/robot mahal -> AK,tetap AK
+91,Kampanye juga pakai AI -> KO,salah Claude: organisasi lain -> AU (konvensi 19)
+94,'Karena kita tidak punya uang' -> AK,tetap AK
+97,Malas cari animator lokal + Adit Sopo Jarwo lebih bagus -> PK (kedua KV),tetap PK
+98,AI dipakai untuk undercut seniman -> PK,tetap PK
+99,'HEMAT UANG dan GAK KREATIF' -> AK (aturan 4: uang disebut),tetap AK
+100,Kominfo perlu tahu ada anak bangsa yang bisa animasi -> PK,tetap PK

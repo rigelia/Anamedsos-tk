@@ -1,0 +1,91 @@
+{
+  "codebook_version": "v1.1",
+  "n": 100,
+  "n_coded_by_human": 100,
+  "agreement_tema_utama": 55,
+  "kappa_tema_utama": 0.452,
+  "any_code_overlap": 59,
+  "human_counts": {
+    "KV": 26,
+    "AU": 22,
+    "KO": 18,
+    "PK": 14,
+    "EJ": 13,
+    "AK": 6,
+    "HC": 1
+  },
+  "claude_counts": {
+    "KV": 33,
+    "KO": 23,
+    "PK": 16,
+    "EJ": 13,
+    "AK": 10,
+    "AU": 3,
+    "HC": 2
+  },
+  "crosstab_claude_rows_human_cols": {
+    "AK": {
+      "AK": 5,
+      "AU": 2,
+      "EJ": 1,
+      "HC": 0,
+      "KO": 2,
+      "KV": 0,
+      "PK": 0
+    },
+    "AU": {
+      "AK": 0,
+      "AU": 2,
+      "EJ": 1,
+      "HC": 0,
+      "KO": 0,
+      "KV": 0,
+      "PK": 0
+    },
+    "EJ": {
+      "AK": 0,
+      "AU": 1,
+      "EJ": 7,
+      "HC": 0,
+      "KO": 4,
+      "KV": 1,
+      "PK": 0
+    },
+    "HC": {
+      "AK": 0,
+      "AU": 0,
+      "EJ": 0,
+      "HC": 0,
+      "KO": 1,
+      "KV": 1,
+      "PK": 0
+    },
+    "KO": {
+      "AK": 0,
+      "AU": 8,
+      "EJ": 3,
+      "HC": 0,
+      "KO": 9,
+      "KV": 1,
+      "PK": 2
+    },
+    "KV": {
+      "AK": 0,
+      "AU": 7,
+      "EJ": 1,
+      "HC": 0,
+      "KO": 1,
+      "KV": 22,
+      "PK": 2
+    },
+    "PK": {
+      "AK": 1,
+      "AU": 2,
+      "EJ": 0,
+      "HC": 1,
+      "KO": 1,
+      "KV": 1,
+      "PK": 10
+    }
+  }
+}

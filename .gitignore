@@ -8,21 +8,8 @@ archive/pilot_20260918/*
 !archive/pilot_20260918/explore_topics.py
 !archive/pilot_20260918/videos_url.txt
 
-# --- PUBLIC-REPO MODE -------------------------------------------------------
-# Remove this block only after the GitHub repo is private. It keeps comment
-# text, labels, models and course materials out of a public repository.
-data/
-experiments/**/*.csv
-experiments/**/*.xlsx
-experiments/**/*.npy
-experiments/**/*.zip
-experiments/**/model/
-experiments/**/topic_review.md
-experiments/**/reduce_outliers_check.md
-experiments/**/labelling/review_*.md
-!experiments/runs.csv
-docs/course/
-# ---------------------------------------------------------------------------
+# Zipped hand-off packages (the folder itself is tracked)
+docs/*.zip
 
 # Python / editor
 __pycache__/

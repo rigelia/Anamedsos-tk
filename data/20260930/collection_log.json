@@ -1,0 +1,93 @@
+{
+  "started_at_utc": "2026-09-30T02:13:43Z",
+  "finished_at_utc": "2026-09-30T02:14:14Z",
+  "manifest": "videos_manifest.csv",
+  "only": null,
+  "api_parameters": {
+    "maxResults": 100,
+    "textFormat": "plainText",
+    "commentThreads.part": "snippet,replies"
+  },
+  "anonymization": "authorChannelId -> HMAC-SHA256 (AUTHOR_HASH_SALT), first 16 hex; authorDisplayName, authorProfileImageUrl, authorChannelUrl removed; @handles in text replaced with @user",
+  "pending_videos": [],
+  "videos": [
+    {
+      "video_id": "IXNas_31uvQ",
+      "case_id": "C01",
+      "status": "ok",
+      "reported_comment_count": 575,
+      "fetched_top_level": 421,
+      "fetched_replies": 154,
+      "fetched_total": 575
+    },
+    {
+      "video_id": "1seDwa5-muc",
+      "case_id": "C01",
+      "status": "ok",
+      "reported_comment_count": 72,
+      "fetched_top_level": 21,
+      "fetched_replies": 51,
+      "fetched_total": 72
+    },
+    {
+      "video_id": "u40TLtWSY0Q",
+      "case_id": "C07",
+      "status": "ok",
+      "reported_comment_count": 953,
+      "fetched_top_level": 628,
+      "fetched_replies": 325,
+      "fetched_total": 953,
+      "duplicate_rows_removed": 50,
+      "note": "pinned thread returned twice by commentThreads.list; deduplicated from raw JSON"
+    },
+    {
+      "video_id": "ntAyLy0ef-A",
+      "case_id": "C02",
+      "status": "ok",
+      "reported_comment_count": 172,
+      "fetched_top_level": 92,
+      "fetched_replies": 80,
+      "fetched_total": 172
+    },
+    {
+      "video_id": "LGSzx-_ggi4",
+      "case_id": "C03",
+      "status": "ok",
+      "reported_comment_count": 730,
+      "fetched_top_level": 615,
+      "fetched_replies": 115,
+      "fetched_total": 730
+    },
+    {
+      "video_id": "P4UNSiQ4KbU",
+      "case_id": "C04",
+      "status": "ok",
+      "reported_comment_count": 553,
+      "fetched_top_level": 443,
+      "fetched_replies": 110,
+      "fetched_total": 553,
+      "duplicate_rows_removed": 26,
+      "note": "pinned thread returned twice by commentThreads.list; deduplicated from raw JSON"
+    },
+    {
+      "video_id": "Ih2mEx2H4Ng",
+      "case_id": "C05",
+      "status": "ok",
+      "reported_comment_count": 127,
+      "fetched_top_level": 98,
+      "fetched_replies": 29,
+      "fetched_total": 127
+    },
+    {
+      "video_id": "kGTlkh8wKx0",
+      "case_id": "C06",
+      "status": "ok",
+      "reported_comment_count": 125,
+      "fetched_top_level": 90,
+      "fetched_replies": 35,
+      "fetched_total": 125
+    }
+  ],
+  "total_rows": 3307,
+  "post_processing": "comments.csv rebuilt from raw JSON on 2026-09-30 after fixing duplicate pinned threads"
+}

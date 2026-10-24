@@ -1,0 +1,9 @@
+{
+  "model": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+  "max_seq_length": 128,
+  "n": 3145,
+  "dim": 768,
+  "sha256": "7be24c446399ba7fdc66e0c20cf1a0fb405d8885b872096addd9bd4115faf35b",
+  "created_at_utc": "2026-10-01T06:13:32Z",
+  "seconds": 251.3
+}

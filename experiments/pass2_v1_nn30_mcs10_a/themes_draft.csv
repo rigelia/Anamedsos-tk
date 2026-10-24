@@ -1,0 +1,27 @@
+topic,n,kandidat_tema,isi_topik,catatan
+0,173,campuran,"debat umum AI menggantikan manusia, 'inovasi', kenapa pakai AI",terlalu campur; perlu coding per komentar
+1,153,perbandingan_karya_manusia,"kalah dengan iklan Marjan, BNI anime, Pocari; perusahaan besar kok pakai AI",bisa digabung ke kualitas_visual atau kepantasan_organisasi saat codebook
+2,153,kualitas_visual,"cacat visual (bola, tangan nyambung, topi, tasbih, jari 7) bercampur ejekan pendek (najis, AI hama)",perlu dipisah: cacat visual vs ejekan tanpa alasan
+3,146,pekerja_kreatif,"seharusnya sewa animator/ilustrator lokal; perusahaan besar mampu bayar",
+4,94,pekerja_kreatif,"animator Indonesia berbakat diabaikan pemerintah, industri animasi dimatikan",
+5,64,kepantasan_organisasi,"pemerintah 'puber AI', AI bukan inovasi, pejabat tua tidak paham teknologi",
+6,58,anggaran_korupsi,"sindiran 'efisiensi anggaran', hemat, sisa anggaran digelapkan",
+7,48,kepantasan_organisasi,"iklan AI berulang, sudah dari kampanye, muak dengan iklan AI",
+8,44,kepantasan_organisasi,"'AI mulu', 'dikit-dikit AI', jenuh dengan pemakaian berulang",berisi juga ejekan pendek
+9,32,hak_cipta,"AI art mengambil karya orang tanpa izin/royalti, artstyle, database",87.5% C01
+10,24,ejekan_tanpa_alasan,"ironi C03: 'video ini juga konten berbahaya'",khusus C03; sasaran tetap videonya
+11,22,kualitas_visual,"jelek banget, jijik, sampah, disgusting",ejekan kualitas tanpa rincian
+12,20,kualitas_visual,"tangan aneh, belum di-retouch/polish, sayap polisi, wajah aneh",
+13,19,kualitas_visual,"animasi AI tidak realistis; lebih baik animasi manual/Unreal/CGI",juga menyentuh pekerja_kreatif
+14,17,kepantasan_organisasi,"'jangan pakai AI', 'ga niat', tidak kapok",
+15,17,campuran,"'kenapa pakai AI', 'pakai aktor saja', sayang tidak pakai SDM sendiri",
+16,16,anggaran_korupsi,"pajak ke mana, dana turun ke animator kecil, AI murah tapi anggaran besar",
+17,14,kualitas_visual,"takut, creepy, seram (C03, C05)",reaksi takut terhadap visual
+18,14,kualitas_visual,"hasil jelek, norak, memalukan, bikin pusing",
+19,13,pekerja_kreatif,"seniman kehilangan komisi/pembeli, karya diambil untuk training AI",juga menyentuh hak_cipta
+20,13,ejekan_tanpa_alasan,"'sangat layak dihujat' (menjawab judul video C01)",
+21,13,anggaran_korupsi,"dana dikorupsi, makanya pakai AI",
+22,11,kepantasan_organisasi,"perusahaan besar pelit, cari untung, tidak mau keluar modal",
+23,11,anggaran_korupsi,"anggaran video AI di-mark-up, 'tebak berapa biayanya'",
+24,10,kepantasan_organisasi,"citra polisi, PoliceTube, robot anjing; AI tidak memperbaiki citra",80% C04
+-1,428,outlier,"campuran semua tema",perlu reduce_outliers atau coding manual sampel

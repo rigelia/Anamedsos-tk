@@ -1,0 +1,351 @@
+{
+  "meta": {
+    "version": "v1",
+    "script_version": "1.0",
+    "created_at_utc": "2026-09-30T04:45:36Z",
+    "input": "data\\interim\\comments_quality_v1.csv",
+    "output": "data\\processed\\comments_bertopic_v1.csv",
+    "stopwords_file": "resources\\stopwords_bertopic_v1.txt",
+    "embedding_model": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+    "libraries": {
+      "pandas": "2.2.3",
+      "regex": "2026.9.10",
+      "scikit-learn": "1.9.1",
+      "transformers": "5.17.0"
+    }
+  },
+  "sources": {
+    "stopwords-id.txt": {
+      "name": "stopwords-iso Indonesian",
+      "url": "https://github.com/stopwords-iso/stopwords-id",
+      "retrieved": "2026-09-30"
+    },
+    "colloquial-indonesian-lexicon.csv": {
+      "name": "Colloquial Indonesian Lexicon (Salsabila et al., 2018, IALP)",
+      "url": "https://github.com/nasalsabila/kamus-alay",
+      "retrieved": "2026-09-30"
+    }
+  },
+  "parameters": {
+    "nya_min_count": 3,
+    "protected_terms": [
+      "ai",
+      "bni",
+      "genai",
+      "indo",
+      "indomie",
+      "komdigi",
+      "kominfo",
+      "mbg",
+      "polri",
+      "rtv",
+      "x"
+    ],
+    "keep_from_stopwords": [
+      "jelas",
+      "kurang",
+      "masalah",
+      "merasa",
+      "penting",
+      "rasa"
+    ],
+    "nya_exceptions": [
+      "akhirnya",
+      "apalagi",
+      "biasanya",
+      "bukannya",
+      "emangnya",
+      "harusnya",
+      "katanya",
+      "makanya",
+      "memangnya",
+      "rasanya",
+      "sebenarnya",
+      "soalnya",
+      "tadinya"
+    ],
+    "n_slang_overrides": 15,
+    "n_lexicon_entries": 4330,
+    "example_seed": 42
+  },
+  "stopwords": {
+    "stopwords_iso_id": 758,
+    "sklearn_english": 318,
+    "custom_slang_filler": 129,
+    "kept_meaningful": [
+      "jelas",
+      "kurang",
+      "masalah",
+      "merasa",
+      "penting",
+      "rasa"
+    ],
+    "total": 1171
+  },
+  "bertopic_usage": {
+    "embeddings": "text_embed",
+    "representation_docs": "text_repr_a (pipeline A) atau text_repr_b (pipeline B)",
+    "vectorizer": "CountVectorizer(stop_words=<stopwords file>, token_pattern=r'(?u)[^\\s]+', min_df/max_df ditentukan di tahap BERTopic)",
+    "note": "Dokumen embedding dan representasi harus berurutan sama (baris CSV yang sama)."
+  },
+  "stats": {
+    "komentar": 3145,
+    "kosakata_A_semua": 7079,
+    "kosakata_B_semua": 6150,
+    "kosakata_A_tanpa_stopword": 6476,
+    "kosakata_B_tanpa_stopword": 5628,
+    "token_diubah_B": {
+      "override": 379,
+      "lexicon": 5669,
+      "nya": 924
+    },
+    "komentar_tanpa_kata_isi_setelah_stopword": 73,
+    "rata2_token_repr": 14.4,
+    "model_max_seq_length": 128,
+    "komentar_terpotong_di_model": 45,
+    "median_token_model": 15,
+    "p95_token_model": 69
+  },
+  "top_changes_B": [
+    {
+      "sebelum": "yg",
+      "sesudah": "yang",
+      "sumber": "lexicon",
+      "n": 496
+    },
+    {
+      "sebelum": "aja",
+      "sesudah": "saja",
+      "sumber": "lexicon",
+      "n": 450
+    },
+    {
+      "sebelum": "pake",
+      "sesudah": "pakai",
+      "sumber": "lexicon",
+      "n": 441
+    },
+    {
+      "sebelum": "gak",
+      "sesudah": "enggak",
+      "sumber": "lexicon",
+      "n": 364
+    },
+    {
+      "sebelum": "ga",
+      "sesudah": "enggak",
+      "sumber": "lexicon",
+      "n": 254
+    },
+    {
+      "sebelum": "gw",
+      "sesudah": "gue",
+      "sumber": "lexicon",
+      "n": 240
+    },
+    {
+      "sebelum": "kalo",
+      "sesudah": "kalau",
+      "sumber": "override",
+      "n": 228
+    },
+    {
+      "sebelum": "udah",
+      "sesudah": "sudah",
+      "sumber": "lexicon",
+      "n": 183
+    },
+    {
+      "sebelum": "gk",
+      "sesudah": "enggak",
+      "sumber": "lexicon",
+      "n": 134
+    },
+    {
+      "sebelum": "gitu",
+      "sesudah": "begitu",
+      "sumber": "lexicon",
+      "n": 114
+    },
+    {
+      "sebelum": "kek",
+      "sesudah": "kayak",
+      "sumber": "lexicon",
+      "n": 95
+    },
+    {
+      "sebelum": "klo",
+      "sesudah": "kalau",
+      "sumber": "override",
+      "n": 94
+    },
+    {
+      "sebelum": "emang",
+      "sesudah": "memang",
+      "sumber": "lexicon",
+      "n": 88
+    },
+    {
+      "sebelum": "liat",
+      "sesudah": "lihat",
+      "sumber": "lexicon",
+      "n": 76
+    },
+    {
+      "sebelum": "gini",
+      "sesudah": "begini",
+      "sumber": "lexicon",
+      "n": 67
+    },
+    {
+      "sebelum": "ama",
+      "sesudah": "sama",
+      "sumber": "lexicon",
+      "n": 64
+    },
+    {
+      "sebelum": "bener",
+      "sesudah": "benar",
+      "sumber": "lexicon",
+      "n": 62
+    },
+    {
+      "sebelum": "dah",
+      "sesudah": "deh",
+      "sumber": "lexicon",
+      "n": 53
+    },
+    {
+      "sebelum": "nonton",
+      "sesudah": "menonton",
+      "sumber": "lexicon",
+      "n": 53
+    },
+    {
+      "sebelum": "udh",
+      "sesudah": "sudah",
+      "sumber": "lexicon",
+      "n": 49
+    },
+    {
+      "sebelum": "gimana",
+      "sesudah": "bagaimana",
+      "sumber": "lexicon",
+      "n": 48
+    },
+    {
+      "sebelum": "nggak",
+      "sesudah": "enggak",
+      "sumber": "lexicon",
+      "n": 46
+    },
+    {
+      "sebelum": "kaya",
+      "sesudah": "kayak",
+      "sumber": "lexicon",
+      "n": 45
+    },
+    {
+      "sebelum": "iklannya",
+      "sesudah": "iklan",
+      "sumber": "nya",
+      "n": 41
+    },
+    {
+      "sebelum": "karna",
+      "sesudah": "karena",
+      "sumber": "lexicon",
+      "n": 41
+    },
+    {
+      "sebelum": "make",
+      "sesudah": "pakai",
+      "sumber": "override",
+      "n": 39
+    },
+    {
+      "sebelum": "sampe",
+      "sesudah": "sampai",
+      "sumber": "lexicon",
+      "n": 38
+    },
+    {
+      "sebelum": "animasinya",
+      "sesudah": "animasi",
+      "sumber": "nya",
+      "n": 33
+    },
+    {
+      "sebelum": "kyk",
+      "sesudah": "kayak",
+      "sumber": "lexicon",
+      "n": 32
+    },
+    {
+      "sebelum": "bgt",
+      "sesudah": "banget",
+      "sumber": "lexicon",
+      "n": 32
+    },
+    {
+      "sebelum": "tu",
+      "sesudah": "itu",
+      "sumber": "lexicon",
+      "n": 31
+    },
+    {
+      "sebelum": "tetep",
+      "sesudah": "tetap",
+      "sumber": "lexicon",
+      "n": 31
+    },
+    {
+      "sebelum": "kayaknya",
+      "sesudah": "kayak",
+      "sumber": "nya",
+      "n": 31
+    },
+    {
+      "sebelum": "hasilnya",
+      "sesudah": "hasil",
+      "sumber": "nya",
+      "n": 29
+    },
+    {
+      "sebelum": "bg",
+      "sesudah": "bang",
+      "sumber": "lexicon",
+      "n": 29
+    },
+    {
+      "sebelum": "org",
+      "sesudah": "orang",
+      "sumber": "lexicon",
+      "n": 27
+    },
+    {
+      "sebelum": "tp",
+      "sesudah": "tapi",
+      "sumber": "lexicon",
+      "n": 27
+    },
+    {
+      "sebelum": "minta",
+      "sesudah": "meminta",
+      "sumber": "lexicon",
+      "n": 27
+    },
+    {
+      "sebelum": "njir",
+      "sesudah": "anjir",
+      "sumber": "lexicon",
+      "n": 26
+    },
+    {
+      "sebelum": "jg",
+      "sesudah": "juga",
+      "sumber": "lexicon",
+      "n": 26
+    }
+  ]
+}

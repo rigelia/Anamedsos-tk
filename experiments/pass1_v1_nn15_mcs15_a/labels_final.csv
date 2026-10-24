@@ -1,0 +1,45 @@
+﻿topic,n,label_final,source,label_zillan,label_ghiranza,label_claude,label_draft,topic_name,human_vs_draft_differ
+0,321,relevant,2 pelabel sepakat,relevant,relevant,,relevant,animator diabaikan,False
+1,191,relevant,Claude (tanpa pelabel manusia),,,relevant,relevant,"Perbandingan dengan iklan buatan manusia (Marjan, BNI)",False
+2,142,relevant,1 pelabel (Zillan),relevant,,,relevant,AI membantu manusia,False
+3,96,mixed,1 pelabel (Ghiranza),,mixed,,mixed,Perdebatan penggunaan AI bercampur obrolan dan politik,False
+4,85,relevant,1 pelabel (Zillan),relevant,,,relevant,penghematan,False
+5,83,relevant,1 pelabel (Ghiranza),,relevant,,mixed,Ejekan penggunaan AI dan kekecewaan pekerja kreatif,True
+6,80,mixed,1 pelabel (Ghiranza),,mixed,,mixed,Kritik iklan AI POLRI bercampur kritik kinerja kepolisian,False
+7,79,mixed,1 pelabel (Zillan),mixed,,,mixed,pemerintah,False
+8,57,mixed,1 pelabel (Ghiranza),,mixed,,mixed,Kritik arah kemajuan Indonesia dan penggunaan AI pemerintah,False
+9,53,relevant,1 pelabel (Zillan),relevant,,,relevant,budget low dari pemerintah,False
+10,51,relevant,Claude (tanpa pelabel manusia),,,relevant,relevant,Organisasi besar memakai AI untuk iklan/kampanye,False
+11,49,relevant,adjudicated (2 pelabel tidak sepakat),relevant,mixed,,relevant,jelek animasinya,False
+12,48,relevant,2 pelabel sepakat,relevant,relevant,,relevant,AI mencuri art lain,False
+13,42,mixed,Claude (tanpa pelabel manusia),,,mixed,not_relevant,"Teriakan/umpatan lepas, azan dan doa",False
+14,41,relevant,1 pelabel (Zillan),relevant,,,mixed,pemerintah skill issue,True
+15,38,relevant,1 pelabel (Ghiranza),,relevant,,relevant,Perbandingan iklan AI dengan animasi buatan manusia,False
+16,36,relevant,1 pelabel (Zillan),relevant,,,relevant,animasi aneh (body part aneh),False
+17,36,relevant,1 pelabel (Ghiranza),,relevant,,relevant,Peran seniman serta kualitas dan orisinalitas visual AI,False
+18,36,mixed,1 pelabel (Ghiranza),,mixed,,not_relevant,Evaluasi video AI bercampur komentar tentang kreator dan kanal,True
+19,35,not_relevant,1 pelabel (Zillan),not_relevant,,,not_relevant,mie,False
+20,33,not_relevant,1 pelabel (Ghiranza),,not_relevant,,not_relevant,Fragmen komentar pendek dan obrolan yang tidak jelas,False
+21,30,mixed,1 pelabel (Zillan),mixed,,,relevant,harus mengikuti teknologi/beradaptasi,True
+22,28,mixed,Claude (tanpa pelabel manusia),,,mixed,mixed,Layak dihujat / pujian kanal dan sarkasme,False
+23,28,mixed,2 pelabel sepakat,mixed,mixed,,mixed,ga suka ai,False
+24,27,relevant,2 pelabel sepakat,relevant,relevant,,relevant,pemerintah korupsi,False
+25,26,mixed,Claude (tanpa pelabel manusia),,,mixed,mixed,Robot anjing Polri vs tidak sewa animator,False
+26,26,relevant,1 pelabel (Zillan),relevant,,,mixed,budget low dari pemerintah,True
+27,26,mixed,1 pelabel (Ghiranza),,mixed,,mixed,Respons penggunaan AI bercampur candaan dan percakapan lain,False
+28,24,relevant,1 pelabel (Zillan),relevant,,,relevant,ga suka ai,False
+29,24,relevant,1 pelabel (Ghiranza),,relevant,,mixed,Penerimaan bersyarat terhadap AI dan respons terhadap kritik,True
+30,23,mixed,1 pelabel (Ghiranza),,mixed,,not_relevant,Sikap terhadap iklan AI bercampur selera dan pembelian Indomie,True
+31,23,not_relevant,1 pelabel (Zillan),not_relevant,,,mixed,propaganda,True
+32,21,relevant,1 pelabel (Ghiranza),,relevant,,relevant,Sindiran terhadap iklan AI bertema perlindungan anak,False
+33,21,relevant,1 pelabel (Zillan),relevant,,,relevant,AI berbahaya,False
+34,20,not_relevant,Claude (tanpa pelabel manusia),,,not_relevant,not_relevant,Persetujuan singkat tanpa isi,False
+35,20,not_relevant,adjudicated (2 pelabel tidak sepakat),not_relevant,mixed,,not_relevant,Tawa dan candaan dengan konteks relevansi yang berbeda,False
+36,19,not_relevant,adjudicated (2 pelabel tidak sepakat),not_relevant,mixed,,not_relevant,Persetujuan singkat terhadap AI bercampur dukungan produk dan politik,False
+37,18,not_relevant,Claude (tanpa pelabel manusia),,,not_relevant,not_relevant,Koreksi nama Indomie,False
+38,18,mixed,1 pelabel (Zillan),mixed,,,relevant,,True
+39,17,mixed,1 pelabel (Ghiranza),,mixed,,not_relevant,Komentar TV dan kanal bercampur kritik penggunaan AI,True
+40,15,relevant,1 pelabel (Zillan),relevant,,,relevant,pelagiat,False
+41,15,mixed,1 pelabel (Ghiranza),,mixed,,not_relevant,Reaksi terhadap satire dengan objek kritik yang berbeda,True
+42,15,mixed,adjudicated (2 pelabel tidak sepakat),mixed,relevant,,mixed,Sikap pejabat dan kebijakan pemerintah terhadap penggunaan AI,False
+43,15,relevant,Claude (tanpa pelabel manusia),,,relevant,relevant,"Cacat visual (anatomi, objek)",False

@@ -1,0 +1,3615 @@
+{
+  "videoId": "Ih2mEx2H4Ng",
+  "retrievedAt": "2026-09-30T02:14:11Z",
+  "commentThreadPages": [
+    {
+      "kind": "youtube#commentThreadListResponse",
+      "etag": "zDqx2nqcdAdV-THW3BLH2HbS7Lg",
+      "pageInfo": {
+        "totalResults": 98,
+        "resultsPerPage": 100
+      },
+      "items": [
+        {
+          "kind": "youtube#commentThread",
+          "etag": "EhppaGbQrIXI3al5jVshRcBOt1I",
+          "id": "Ugw57FDGbaxZTjJmRoJ4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "zeRpKdYo82XgWdxI_TMlCgzWY5M",
+              "id": "Ugw57FDGbaxZTjJmRoJ4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "\"Iii.. takutnyee..\"\n\nTebak anggaran.",
+                "textOriginal": "\"Iii.. takutnyee..\"\n\nTebak anggaran.",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2026-09-14T07:53:19Z",
+                "updatedAt": "2026-09-14T07:55:15Z",
+                "authorHash": "adc266725e6cdd88"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "0DFhC0vKdEdJdj09v0HShR6Afgk",
+          "id": "UgxUFixJeUfP5RCWLwx4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "XPCb2R04sUoCzvU5df9-mht5Kmg",
+              "id": "UgxUFixJeUfP5RCWLwx4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Nyawit",
+                "textOriginal": "Nyawit",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2026-07-15T21:58:27Z",
+                "updatedAt": "2026-07-15T21:58:27Z",
+                "authorHash": "1fd32349d90ec2ed"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "7ey7FIO1jWaMYrCONje14Qa9-Ws",
+          "id": "UgwuFGbgncv88eS29f54AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "BKhX_735An0jeJiaSisdn1q89RY",
+              "id": "UgwuFGbgncv88eS29f54AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "GUYSSS BNTR LGI PASTI ADA IKLAN INI LG",
+                "textOriginal": "GUYSSS BNTR LGI PASTI ADA IKLAN INI LG",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2026-02-11T13:46:17Z",
+                "updatedAt": "2026-02-11T13:46:17Z",
+                "authorHash": "40df1d657bab09b9"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "l1FBVvuMU0O17PcPbDnIerTCLVM",
+          "id": "UgzjfzlwO9sWebjZegd4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "DXTiWquZLliMvyW6fop76QZkCd8",
+              "id": "UgzjfzlwO9sWebjZegd4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Muka adeknya ngeselin bet njir",
+                "textOriginal": "Muka adeknya ngeselin bet njir",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-12-14T03:49:50Z",
+                "updatedAt": "2025-12-14T03:49:50Z",
+                "authorHash": "5b0931549516fb1b"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "5ieQYD_BoVG_k_h4zNWVyCPhge8",
+          "id": "UgzRATTstaygQY7Hh_d4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "3GB1VlyYQgK7dN-czubI6ncrtvY",
+              "id": "UgzRATTstaygQY7Hh_d4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "I",
+                "textOriginal": "I",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-09-01T08:06:48Z",
+                "updatedAt": "2025-09-01T08:06:48Z",
+                "authorHash": "2f84a432c57de22d"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 11,
+            "isPublic": true
+          },
+          "replies": {
+            "comments": [
+              {
+                "kind": "youtube#comment",
+                "etag": "SZ1ewsm1OGr0cYBqG1Mwww8Lr-Q",
+                "id": "UgzRATTstaygQY7Hh_d4AaABAg.AMWrACgB2DtAMWrAjysqfu",
+                "snippet": {
+                  "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                  "videoId": "Ih2mEx2H4Ng",
+                  "textDisplay": "H",
+                  "textOriginal": "H",
+                  "parentId": "UgzRATTstaygQY7Hh_d4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2025-09-01T08:06:52Z",
+                  "updatedAt": "2025-09-01T08:06:52Z",
+                  "authorHash": "2f84a432c57de22d"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "T6poxuzYbHoD9w5Lvckjzl6pLpo",
+                "id": "UgzRATTstaygQY7Hh_d4AaABAg.AMWrACgB2DtAMWrBF-XbuX",
+                "snippet": {
+                  "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                  "videoId": "Ih2mEx2H4Ng",
+                  "textDisplay": "T",
+                  "textOriginal": "T",
+                  "parentId": "UgzRATTstaygQY7Hh_d4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2025-09-01T08:06:57Z",
+                  "updatedAt": "2025-09-01T08:06:57Z",
+                  "authorHash": "2f84a432c57de22d"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "n5zU93xzmoaBqaN8guuzrET9bX8",
+                "id": "UgzRATTstaygQY7Hh_d4AaABAg.AMWrACgB2DtAMWrBjsElgL",
+                "snippet": {
+                  "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                  "videoId": "Ih2mEx2H4Ng",
+                  "textDisplay": "A",
+                  "textOriginal": "A",
+                  "parentId": "UgzRATTstaygQY7Hh_d4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2025-09-01T08:07:01Z",
+                  "updatedAt": "2025-09-01T08:07:01Z",
+                  "authorHash": "2f84a432c57de22d"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "MvVB1Tzx-zXOE9N3ZHNi9N2a4m4",
+                "id": "UgzRATTstaygQY7Hh_d4AaABAg.AMWrACgB2DtAMWrC7FSnrf",
+                "snippet": {
+                  "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                  "videoId": "Ih2mEx2H4Ng",
+                  "textDisplay": "K",
+                  "textOriginal": "K",
+                  "parentId": "UgzRATTstaygQY7Hh_d4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2025-09-01T08:07:04Z",
+                  "updatedAt": "2025-09-01T08:07:04Z",
+                  "authorHash": "2f84a432c57de22d"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "QGDCzfwIo42U9C82TKCvIJwVHJE",
+                "id": "UgzRATTstaygQY7Hh_d4AaABAg.AMWrACgB2DtAMWrC_Nb7M1",
+                "snippet": {
+                  "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                  "videoId": "Ih2mEx2H4Ng",
+                  "textDisplay": "U",
+                  "textOriginal": "U",
+                  "parentId": "UgzRATTstaygQY7Hh_d4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2025-09-01T08:07:07Z",
+                  "updatedAt": "2025-09-01T08:07:07Z",
+                  "authorHash": "2f84a432c57de22d"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "nErbNCZwt_RZdzdw-GMBQYrBUiU",
+          "id": "Ugw30Fw9J4Hz0gLzJD14AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "2TOZj6pyw909HX1178FGKsCRHFM",
+              "id": "Ugw30Fw9J4Hz0gLzJD14AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Iklan macam apa ini dah",
+                "textOriginal": "Iklan macam apa ini dah",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-07-08T00:44:51Z",
+                "updatedAt": "2025-07-08T00:44:51Z",
+                "authorHash": "737496bc0925b229"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "DpXPdM2B2h-q5b1mhPUTa-0kUpI",
+          "id": "UgwqzwEq0-YJ90oRHHN4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "5TrXJ4orkxc29Gmro98SDoHwhGw",
+              "id": "UgwqzwEq0-YJ90oRHHN4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Berapa banyak kreator Indonesia",
+                "textOriginal": "Berapa banyak kreator Indonesia",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-06-29T08:29:03Z",
+                "updatedAt": "2025-06-29T08:29:03Z",
+                "authorHash": "b8c3be823dcaf72a"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "YNYsHNYU83sgkP4S7QZRPKtPqwI",
+          "id": "UgxCNqiTEpzVdOEzzop4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "OoVg_G428mm_O-j2w7Jahtft2EI",
+              "id": "UgxCNqiTEpzVdOEzzop4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Aku lebih suka iklan yg ada manusianya dan kartun daripada ai",
+                "textOriginal": "Aku lebih suka iklan yg ada manusianya dan kartun daripada ai",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-06-28T05:32:26Z",
+                "updatedAt": "2025-06-28T05:32:26Z",
+                "authorHash": "2c0e09ef31140847"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "-pUlUGSTW39COwOvgNW5Vfa7YNo",
+          "id": "UgxPBtkYkMsjA4FLEHZ4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "DuKW0UjHLT4yHBjA6rLN7xZhlNk",
+              "id": "UgxPBtkYkMsjA4FLEHZ4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "SAKIT nya!!!!!!! Mataku",
+                "textOriginal": "SAKIT nya!!!!!!! Mataku",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-06-23T09:16:11Z",
+                "updatedAt": "2025-06-23T09:16:11Z",
+                "authorHash": "f41e4df739be1a41"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "-q6yHJ_XoYvT0x6cAosG6pP0ilk",
+          "id": "Ugx-O0EraWjy-i0e6614AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "TEH1DMBkLQxbb7xvSEj3dIND2j4",
+              "id": "Ugx-O0EraWjy-i0e6614AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "WTF IS THIS THING?!😵😵😵😵",
+                "textOriginal": "WTF IS THIS THING?!😵😵😵😵",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-06-23T02:33:04Z",
+                "updatedAt": "2025-06-23T02:33:04Z",
+                "authorHash": "96a16bc6a5498f38"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "uNzYU6i7xMrkHmfcvFx8rkBKErg",
+          "id": "Ugzr-sLVQ17sko2ak9V4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "rhlOoynf9YXNiG-FmWxC0nzHCu4",
+              "id": "Ugzr-sLVQ17sko2ak9V4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Kalo gak niat gak usah bikin🗿🗿",
+                "textOriginal": "Kalo gak niat gak usah bikin🗿🗿",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-06-21T12:20:29Z",
+                "updatedAt": "2025-06-21T12:20:29Z",
+                "authorHash": "4c0d6ea9dbd5bacc"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "0l4IA36p34IyoTKc4AqcjrgKpa0",
+          "id": "UgzkhKDzE8bkC_pzYKx4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "acXVcOzw3ai1UXT7C38aNp7E7JI",
+              "id": "UgzkhKDzE8bkC_pzYKx4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Apa Apaan Ini Dawg",
+                "textOriginal": "Apa Apaan Ini Dawg",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2025-06-19T17:26:30Z",
+                "updatedAt": "2025-06-19T17:26:30Z",
+                "authorHash": "4a5c8afe3775f972"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "m8pR2xVUO7zCCSaf40VMti1IMWc",
+          "id": "UgxkukMVCCun5UCN9ZR4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "ut9fjvCDGKyi1avEh4pQ4t0xuWA",
+              "id": "UgxkukMVCCun5UCN9ZR4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Anggarannya dikorupsi",
+                "textOriginal": "Anggarannya dikorupsi",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2025-06-03T11:50:23Z",
+                "updatedAt": "2025-06-03T11:50:23Z",
+                "authorHash": "97855ba222be6add"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+          },
+          "replies": {
+            "comments": [
+              {
+                "kind": "youtube#comment",
+                "etag": "17fw4kVzojIajTcfPgNYJP3iFTE",
+                "id": "UgxkukMVCCun5UCN9ZR4AaABAg.AIuWD2HOUWlAJmTEurw_Gd",
+                "snippet": {
+                  "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                  "videoId": "Ih2mEx2H4Ng",
+                  "textDisplay": "Masa anggaran dikorupsi orang ini milik swasta bukan negara",
+                  "textOriginal": "Masa anggaran dikorupsi orang ini milik swasta bukan negara",
+                  "parentId": "UgxkukMVCCun5UCN9ZR4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2025-06-25T05:21:54Z",
+                  "updatedAt": "2025-06-25T05:21:54Z",
+                  "authorHash": "655e6a97c80f7299"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "Le0nYP3aIra1dadGcsjvF8KGvXA",
+          "id": "UgzUqJP2ubx47YX5z6N4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "cf_0HqbGgneidAOH7nfKQhHSLDE",
+              "id": "UgzUqJP2ubx47YX5z6N4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Burik burik pemerintah burik 😹",
+                "textOriginal": "Burik burik pemerintah burik 😹",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-06-02T06:21:02Z",
+                "updatedAt": "2025-06-02T06:21:02Z",
+                "authorHash": "36b2792cbb39371f"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "87dz8npoXN9Irv4DpjsbFvC_BQ4",
+          "id": "UgwQWD36HyLCck__5lF4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "t6Eoh42QSwUea0EpfKu9nffjDcE",
+              "id": "UgwQWD36HyLCck__5lF4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Mama takutt",
+                "textOriginal": "Mama takutt",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-05-29T16:42:20Z",
+                "updatedAt": "2025-05-29T16:42:20Z",
+                "authorHash": "5db3cf18bb609379"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "sO00h-AtyIKIaO7Kzkxx3gF5qKI",
+          "id": "UgzVKxB5jPJjJ2qcs3d4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "WCS0fp9GdT5E2UY0dbN5a2DE2v8",
+              "id": "UgzVKxB5jPJjJ2qcs3d4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Congrats min, iklannya jadi meme",
+                "textOriginal": "Congrats min, iklannya jadi meme",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-05-29T08:32:28Z",
+                "updatedAt": "2025-05-29T08:32:28Z",
+                "authorHash": "e1a51668b5d7394d"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "iF6WBXpEqAoHvQJ3I6zb03ZDAM4",
+          "id": "UgxcY3Wu9CfTWkx8zQ94AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "wVv_Msx1XpXc3vgsNIOtBcjnFMA",
+              "id": "UgxcY3Wu9CfTWkx8zQ94AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Ih takoooottt nyeeeee",
+                "textOriginal": "Ih takoooottt nyeeeee",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-05-28T11:12:39Z",
+                "updatedAt": "2025-05-28T11:12:39Z",
+                "authorHash": "54ff01c7a3f8126c"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "OqvtceUOPsp_7u3Rkjs6nJIwxbE",
+          "id": "UgxE7lZgYHDlZCD2lV94AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "6K4jhEygz7oSlx7W2XsCqmM6nKg",
+              "id": "UgxE7lZgYHDlZCD2lV94AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Kok pake ai bikin animasi sendiri lah💀kayak iklan marjan gak kaya lu iklan apa lah💀",
+                "textOriginal": "Kok pake ai bikin animasi sendiri lah💀kayak iklan marjan gak kaya lu iklan apa lah💀",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-05-19T13:18:14Z",
+                "updatedAt": "2025-05-19T13:18:14Z",
+                "authorHash": "7c30f9b6a4c4c133"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "1oMt38MgujG2RfYnEoVpe9wfXM8",
+          "id": "UgxlJAwWN3Ms5zOeTrx4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "YlAAtW93MwLr2raYydnHpO13my8",
+              "id": "UgxlJAwWN3Ms5zOeTrx4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Iklan terburuk yg pernah gue tonton 🤦🤦",
+                "textOriginal": "Iklan terburuk yg pernah gue tonton 🤦🤦",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-05-19T12:21:52Z",
+                "updatedAt": "2025-05-19T12:21:52Z",
+                "authorHash": "6f773a3b524998aa"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "fvW0eopxdLnTn6zTWskSPZZ9mHg",
+          "id": "Ugzw2ryCPYYbQo1Mgb14AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "AvSb77hG4sgQBILwkm_4_z-Ea9c",
+              "id": "Ugzw2ryCPYYbQo1Mgb14AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Membuat Indonesia (c)emas😹😹",
+                "textOriginal": "Membuat Indonesia (c)emas😹😹",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-05-17T06:39:07Z",
+                "updatedAt": "2025-05-17T06:39:07Z",
+                "authorHash": "1b895c5f81dd83ac"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "DNTuENhV-rvBMILOaRRb6J5Y2e4",
+          "id": "UgwooYSh7HS3YGSE-bl4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "rf4rB0GeLdB8H9SfmV0ul0hEebA",
+              "id": "UgwooYSh7HS3YGSE-bl4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Ini pemerintah hak cipta tidak dilindungi undang-undang yang berlaku, apabila iklan pakai A.I yang sangat memalukan para penonton, silahkan melaporkan kepada pihak berwajib (berwenang) 👮‍♂️🚨",
+                "textOriginal": "Ini pemerintah hak cipta tidak dilindungi undang-undang yang berlaku, apabila iklan pakai A.I yang sangat memalukan para penonton, silahkan melaporkan kepada pihak berwajib (berwenang) 👮‍♂️🚨",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-05-07T07:44:56Z",
+                "updatedAt": "2025-05-07T07:44:56Z",
+                "authorHash": "244f299de4ac7219"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "DNi0VsxjxBg7S3kELD0AiPeYAsw",
+          "id": "UgznHQtOhHuVewXg4nx4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "K8rNTLCThvnBkzhaCI6ZGiq4D68",
+              "id": "UgznHQtOhHuVewXg4nx4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Bagaimana Indonesia maju",
+                "textOriginal": "Bagaimana Indonesia maju",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-05-07T03:24:58Z",
+                "updatedAt": "2025-05-07T03:24:58Z",
+                "authorHash": "2043dc7a7d6f69d9"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "7Pu3txSd4zjcrZgtMK6bbMEs9Cw",
+          "id": "Ugx_ZbTbF5f3kZqB1uh4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "GFnlY47axj0j9RVnQJ6xfrbFTEs",
+              "id": "Ugx_ZbTbF5f3kZqB1uh4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Si anjing berulah",
+                "textOriginal": "Si anjing berulah",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-05-05T02:35:35Z",
+                "updatedAt": "2025-05-05T02:35:35Z",
+                "authorHash": "d042b866dc4f9c87"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "MBRO8GpdwoQXlvvGQ6mGbAl3hYk",
+          "id": "UgyepJMtyahlPthKWGR4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "6E1R5JHNt4QUpC70pQ9vUfqskpw",
+              "id": "UgyepJMtyahlPthKWGR4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "We're using AI with this one🗣🗣🗣🔥🔥🔥",
+                "textOriginal": "We're using AI with this one🗣🗣🗣🔥🔥🔥",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2025-05-03T07:17:58Z",
+                "updatedAt": "2025-05-03T07:17:58Z",
+                "authorHash": "b5244e00eb9fa141"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "cWKJ8WHys_hywG32yAfTvcLb_9w",
+          "id": "UgxdogF_nc-bSGKokKF4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "EUDL-nbFlX1HYlNv1CLxHNin7AM",
+              "id": "UgxdogF_nc-bSGKokKF4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Versi Al",
+                "textOriginal": "Versi Al",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-04-27T12:26:43Z",
+                "updatedAt": "2025-04-27T12:26:43Z",
+                "authorHash": "0414e6ce4bc018a8"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "o-A91WEurIFpUyo2MVAOITg2edw",
+          "id": "UgxoPPXWe0uDjH0k4BF4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "mJwcKzkRRHYBTkWSf2wQdTagVa4",
+              "id": "UgxoPPXWe0uDjH0k4BF4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Ai😹😹😹",
+                "textOriginal": "Ai😹😹😹",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2025-04-23T22:43:32Z",
+                "updatedAt": "2025-04-23T22:43:32Z",
+                "authorHash": "54871634b0564a10"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "bSNaIfEOJjGTZxoMgwpQHoWQlu4",
+          "id": "Ugw2QTIp69PzlCanMzh4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "NSM2IIJjtF-6IsqBnZtgdSx3VfE",
+              "id": "Ugw2QTIp69PzlCanMzh4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "😂😂😂😂 iklan Ai Ramadhan",
+                "textOriginal": "😂😂😂😂 iklan Ai Ramadhan",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-04-20T13:44:56Z",
+                "updatedAt": "2025-04-20T13:47:07Z",
+                "authorHash": "a62471ba4a229128"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "GK6_hm-miAis2mjo9-XzfCB5dMA",
+          "id": "UgwGlZ4kq951GPktKj94AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "d-uAiVcnNw7f7hgy1GopLskh4Es",
+              "id": "UgwGlZ4kq951GPktKj94AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Padahal bisa sewa animator lokal",
+                "textOriginal": "Padahal bisa sewa animator lokal",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-04-20T11:16:27Z",
+                "updatedAt": "2025-04-20T11:16:27Z",
+                "authorHash": "98f37e28d9827883"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "huR-M3ODD8n_BMSVatT3DoLiHk4",
+          "id": "UgysLrYSz73fj-WKeu94AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "iI_dEkV8RTUOQGQaLJQxjtj8JvA",
+              "id": "UgysLrYSz73fj-WKeu94AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Bapak nya mirip risky aulia 🗿",
+                "textOriginal": "Bapak nya mirip risky aulia 🗿",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 3,
+                "publishedAt": "2025-04-20T05:12:12Z",
+                "updatedAt": "2025-04-20T05:12:12Z",
+                "authorHash": "2a95876006140583"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "IYxSbygS8fNsIeo3-zwSQu7OnUY",
+          "id": "UgwzGaITbpPQD4ovjdt4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "0YSpFpMmYeJj0zyC8XKnHeL8S_E",
+              "id": "UgwzGaITbpPQD4ovjdt4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Ramadhan serba AI 💀💀☠️☠️☠️",
+                "textOriginal": "Ramadhan serba AI 💀💀☠️☠️☠️",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-04-20T03:23:30Z",
+                "updatedAt": "2025-04-20T03:23:30Z",
+                "authorHash": "72aebc1b8fa0be7a"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "kGCin28hO3m6FWtju1meqhUMPp0",
+          "id": "UgxM4dEJySF3ux6_IrV4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "QPay4DShsOMWUHQKGqjPhc6SJls",
+              "id": "UgxM4dEJySF3ux6_IrV4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "They could have created this ad with Adobe After Effects or any software instead of fucking A.I.",
+                "textOriginal": "They could have created this ad with Adobe After Effects or any software instead of fucking A.I.",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-04-20T00:37:58Z",
+                "updatedAt": "2025-04-20T00:37:58Z",
+                "authorHash": "754014791da75e16"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "0S9thtcQUUv0KMA_ApycQWSJrG8",
+          "id": "UgyrMcm0MXBaRvMdPAJ4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "NGGVzVEEP0hCoEnKV0-vRDTNrJs",
+              "id": "UgyrMcm0MXBaRvMdPAJ4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Absolute rubbish 🤡👉🎪",
+                "textOriginal": "Absolute rubbish 🤡👉🎪",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-04-20T00:37:02Z",
+                "updatedAt": "2025-04-20T00:37:02Z",
+                "authorHash": "754014791da75e16"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "ibDS7wLDwUzMo5TwopN24ZhYVLM",
+          "id": "Ugy61d7igpdzsAxj4N54AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "6Hz7wlJNGIpeSLs-h06cam4XA8c",
+              "id": "Ugy61d7igpdzsAxj4N54AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Jelek nyo",
+                "textOriginal": "Jelek nyo",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-04-19T13:36:39Z",
+                "updatedAt": "2025-04-19T13:36:39Z",
+                "authorHash": "26398cb6b732120d"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "yl-v8EkpcGDaIePDo2molThinQ4",
+          "id": "UgzYDfPogl-s_JeFzBF4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "EaFmunwe9cRQlJWvmk09ACg8lP0",
+              "id": "UgzYDfPogl-s_JeFzBF4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Ko anak laki-laki itu Suara kaya anak Remaja",
+                "textOriginal": "Ko anak laki-laki itu Suara kaya anak Remaja",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 2,
+                "publishedAt": "2025-04-18T23:28:32Z",
+                "updatedAt": "2025-04-18T23:28:32Z",
+                "authorHash": "74864fb30d72ab18"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "KJ0PSSCAXr6jocZmcUPoDZJqshM",
+          "id": "Ugyxmpjue3qudRXQ_tx4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "7vKbjKm7tkW5LQ46Ie7vB5DJx6s",
+              "id": "Ugyxmpjue3qudRXQ_tx4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Malah Pake AI kayak Tung Tung Sahur",
+                "textOriginal": "Malah Pake AI kayak Tung Tung Sahur",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-04-17T09:24:30Z",
+                "updatedAt": "2025-04-17T09:24:30Z",
+                "authorHash": "82dfa012805a62a8"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "Q30Z7G-MMhba-5Ni6mHQnfVhRy4",
+          "id": "UgxFC5ZKFnOru1SEDN14AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "2OFQrrJ-xidAfT6MlLHd69M_dU0",
+              "id": "UgxFC5ZKFnOru1SEDN14AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Gua nonton kayak film smile",
+                "textOriginal": "Gua nonton kayak film smile",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-04-16T04:41:49Z",
+                "updatedAt": "2025-04-16T04:41:49Z",
+                "authorHash": "df10ad8f607c8db6"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "L-Gs7MA_8KtH2F4S14g0mNUwc08",
+          "id": "UgwVVBqMQM_eF-F7q1p4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "6QDWYbrDcWlaa6vSdRWZXKTC16I",
+              "id": "UgwVVBqMQM_eF-F7q1p4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "This shit is Horrible as fuck\nthey put no effort on this ad",
+                "textOriginal": "This shit is Horrible as fuck\nthey put no effort on this ad",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-04-15T04:19:01Z",
+                "updatedAt": "2025-04-15T04:19:01Z",
+                "authorHash": "1ea0d7882b2e3a8b"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "5SQuTrqMn-2tTZby4_iv9gTH4bo",
+          "id": "UgyICoVizs4_PQd1S-14AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "2COXAA-mT3TS3Op2wocftLUBxYg",
+              "id": "UgyICoVizs4_PQd1S-14AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "pff anggaran tinggi hasilnya ai🖐️😂🖐️",
+                "textOriginal": "pff anggaran tinggi hasilnya ai🖐️😂🖐️",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2025-04-13T03:46:16Z",
+                "updatedAt": "2025-04-13T03:46:16Z",
+                "authorHash": "cd52501c6f09b1e6"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "nJ4dHsViaHZoqMImd2WvE81yuiM",
+          "id": "UgxEGc_M61_fDHhjOMl4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "wfHW4R3XYQfa5mfmtW0UHW9X2iU",
+              "id": "UgxEGc_M61_fDHhjOMl4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Kenapa harus video dark web woi",
+                "textOriginal": "Kenapa harus video dark web woi",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-04-12T08:07:48Z",
+                "updatedAt": "2025-04-12T08:07:48Z",
+                "authorHash": "b9558fd56bc3706d"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "vJsngbXDXlyddGvVd_RObwO97u8",
+          "id": "Ugx7IGeqpZbE2aW5vft4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "Vx4rioRmqwLn28RTeArxpRcfjo0",
+              "id": "Ugx7IGeqpZbE2aW5vft4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "STOP AI",
+                "textOriginal": "STOP AI",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-04-11T05:11:16Z",
+                "updatedAt": "2025-04-11T05:11:16Z",
+                "authorHash": "0848e853ecb08798"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "TN1EVGGozZi0mOU50Qq2mUCizzE",
+          "id": "UgzfLDarKM_YEZQJ7oR4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "unH8h89q4I7vjPfclQGSWGoy7Pg",
+              "id": "UgzfLDarKM_YEZQJ7oR4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Bahkan sekelas anak kecil bisa membuat vidio seperti ini",
+                "textOriginal": "Bahkan sekelas anak kecil bisa membuat vidio seperti ini",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-04-10T14:33:07Z",
+                "updatedAt": "2025-04-10T14:33:16Z",
+                "authorHash": "72acf8023e507f08"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "Z3HcQAt-tI-ukfG9qSwvFJlhe2c",
+          "id": "UgyBrAavkm4NAo5lZH94AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "p1eO2b4r3-PyWCowJqAXIVOBuhE",
+              "id": "UgyBrAavkm4NAo5lZH94AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Jadi takut saya lihat kalau lama lama",
+                "textOriginal": "Jadi takut saya lihat kalau lama lama",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-04-09T05:19:36Z",
+                "updatedAt": "2025-04-09T05:19:36Z",
+                "authorHash": "3be0b92655947d47"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "ScUDJ3E7AufgGtQ13J1HxK0LHOI",
+          "id": "Ugzpg9l7wFrx2qysW_B4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "bvIpzKlF3F54PPA6xRNpgI_2ynk",
+              "id": "Ugzpg9l7wFrx2qysW_B4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "SENYUMAN SUMANTO 😁",
+                "textOriginal": "SENYUMAN SUMANTO 😁",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2025-04-09T04:52:33Z",
+                "updatedAt": "2025-04-09T04:52:33Z",
+                "authorHash": "335ecf3113bf45b7"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "v3n5HIBp09hrgy6P7RasQ3q2PaM",
+          "id": "Ugz-yRd00UZHWLLAdU54AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "wCqoX84aNzUbC4VpUnWKlrJqOFE",
+              "id": "Ugz-yRd00UZHWLLAdU54AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "fake banget ketawa nya",
+                "textOriginal": "fake banget ketawa nya",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-04-08T13:53:59Z",
+                "updatedAt": "2025-04-08T13:53:59Z",
+                "authorHash": "22737f71cb8ce53b"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "zXik_ln_PTRoPPuNFvCk2jhXsu8",
+          "id": "UgzL9CnKtI4GTQCJFed4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "BjdNfU8DO00WbZuwlpu7CFeByn0",
+              "id": "UgzL9CnKtI4GTQCJFed4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "apa apaan ini dawg 💀",
+                "textOriginal": "apa apaan ini dawg 💀",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2025-04-08T13:22:52Z",
+                "updatedAt": "2025-04-08T13:22:52Z",
+                "authorHash": "0433093b8fbab21b"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "AeDLIc4XlrgkBR-Y-8ummG5vQ-c",
+          "id": "UgzMn2WLpxtHp0gEb1Z4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "UXqMxBeOGgELBZG_3bjty0U6mls",
+              "id": "UgzMn2WLpxtHp0gEb1Z4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Wedehel apai ini",
+                "textOriginal": "Wedehel apai ini",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-04-08T13:04:44Z",
+                "updatedAt": "2025-04-08T13:04:44Z",
+                "authorHash": "29c9c4bb6389ad6f"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "994deegU0bBWRzJToCLde31Gnss",
+          "id": "UgwBKZ5e58wG-571_w94AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "kxrDvlz9SK6QYTqzO6FVzgEnyss",
+              "id": "UgwBKZ5e58wG-571_w94AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Serem banget 😵‍💫",
+                "textOriginal": "Serem banget 😵‍💫",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-04-08T11:17:53Z",
+                "updatedAt": "2025-04-08T11:17:53Z",
+                "authorHash": "fc9b56c448292c71"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "qH6QyYxgpxQvrSDOFeYHx4IR-5Y",
+          "id": "UgzpMnwDSq0efrhZ4nt4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "oJDS3gAWMEl1P0K-yKansUXilps",
+              "id": "UgzpMnwDSq0efrhZ4nt4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Aduh mata ku sakit 😭",
+                "textOriginal": "Aduh mata ku sakit 😭",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 12,
+                "publishedAt": "2025-04-07T13:50:54Z",
+                "updatedAt": "2025-04-07T13:50:54Z",
+                "authorHash": "5c032d541533cfd2"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "8FNfkf8LO3xX7neToSMknrGOUEU",
+          "id": "UgzisfJSyNebiGcqg8J4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "ACtB16jvZZWFr4ec0HEBOohtJIU",
+              "id": "UgzisfJSyNebiGcqg8J4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Udah muak sama iklan AI, jadi jelek kualitas iklan sekarang kareana ada AI 🥲",
+                "textOriginal": "Udah muak sama iklan AI, jadi jelek kualitas iklan sekarang kareana ada AI 🥲",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2025-04-03T12:08:33Z",
+                "updatedAt": "2025-04-03T12:08:33Z",
+                "authorHash": "fa2d4a5acab8d9fd"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "i8DT-2RdZMYX9lFArr-0uofkOmA",
+          "id": "UgwXEI0UWiv35Jv_yVZ4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "WNNULKRQNQROx-UNduTfG1EGY40",
+              "id": "UgwXEI0UWiv35Jv_yVZ4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Eww wtf is ts 🪾🪾🥀🏚️",
+                "textOriginal": "Eww wtf is ts 🪾🪾🥀🏚️",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2025-04-03T00:28:59Z",
+                "updatedAt": "2025-04-03T00:28:59Z",
+                "authorHash": "4dd740447b7c99bd"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "Jp3gc70bxgH0htmbIrvjNaLfwUc",
+          "id": "UgwbihAZgGn4N7f5haF4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "jEze_IsIq2kcnG2CVZrgDqZvzZw",
+              "id": "UgwbihAZgGn4N7f5haF4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Nigga ts look so bad fr 💔🥀",
+                "textOriginal": "Nigga ts look so bad fr 💔🥀",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2025-04-03T00:14:22Z",
+                "updatedAt": "2025-04-03T00:14:22Z",
+                "authorHash": "53ac2226751f66a6"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "6Q80vEh4oOvHLfxwMp5ZUKl0jRI",
+          "id": "UgyEIzcvOUzZFvZJwHl4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "lsaLSArgnyHEKxVOeXZpGJ088kk",
+              "id": "UgyEIzcvOUzZFvZJwHl4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Kenapa gak pakai animator lokal aja kan biayanya lebih murah",
+                "textOriginal": "Kenapa gak pakai animator lokal aja kan biayanya lebih murah",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2025-04-02T23:10:26Z",
+                "updatedAt": "2025-04-03T17:16:24Z",
+                "authorHash": "4f717d084690551e"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "ciQGKEaJZ2JH5JYoqb3r4VFXV5M",
+          "id": "UgzJhCqXuRfeMb948_R4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "VDbLG2pVzY2aIUQLqG3VH_CwvpU",
+              "id": "UgzJhCqXuRfeMb948_R4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Peak uncanny valley reached!",
+                "textOriginal": "Peak uncanny valley reached!",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-04-02T17:52:23Z",
+                "updatedAt": "2025-04-02T17:52:23Z",
+                "authorHash": "231350352d627d27"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "8EAI25ZE6W9sHHCopa27gKZrdmE",
+          "id": "UgxwpKdMFdGPEHoMoEZ4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "XoxKZYG8Z3lG-CRyz56b4BcXbZ8",
+              "id": "UgxwpKdMFdGPEHoMoEZ4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Mengerikan dan menyeramkan",
+                "textOriginal": "Mengerikan dan menyeramkan",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-04-01T23:55:56Z",
+                "updatedAt": "2025-04-01T23:55:56Z",
+                "authorHash": "b81caed2793a0f0b"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "U5DKE0mduEo1GTCNYf-dpbwtSfw",
+          "id": "UgyBJ1_4zvqyIjhaEWJ4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "iRs2aaa-6tabx9lsQGmZfLbMQY4",
+              "id": "UgyBJ1_4zvqyIjhaEWJ4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Iklan, pake ai cuyy 🗿🗿🗿",
+                "textOriginal": "Iklan, pake ai cuyy 🗿🗿🗿",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2025-04-01T16:16:02Z",
+                "updatedAt": "2025-04-01T16:16:02Z",
+                "authorHash": "8f912928b55ae4d1"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "20GpVf8FJ_d7VjtOoQlXCUlmaN8",
+          "id": "UgzciKaPDC4GqO4TFfJ4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "ruzJPKw4xQjU8B5-npLXX-8pso4",
+              "id": "UgzciKaPDC4GqO4TFfJ4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Woy itu suara anak cowoknya aneh bt anjr kagak matching",
+                "textOriginal": "Woy itu suara anak cowoknya aneh bt anjr kagak matching",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 2,
+                "publishedAt": "2025-04-01T15:26:29Z",
+                "updatedAt": "2025-04-01T15:26:29Z",
+                "authorHash": "49beb868e97a20b4"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "dirIs1YUDurqXYQGc7lBQQ6LXSs",
+          "id": "Ugw8XGn0BATzGQ-y5xp4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "QN1s4Ufbr29D-GH_Yt1piDnURBc",
+              "id": "Ugw8XGn0BATzGQ-y5xp4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "AI = A(nomal)I",
+                "textOriginal": "AI = A(nomal)I",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 7,
+                "publishedAt": "2025-04-01T14:54:34Z",
+                "updatedAt": "2025-04-01T14:54:34Z",
+                "authorHash": "af2580430442460d"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "XRlEJBVbFpuRbuvUK7fNHySuDj0",
+          "id": "UgyNV6ZTBgEGGfDww3d4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "LO_OHSZdEGscPZjm8l-k8Cp-oOI",
+              "id": "UgyNV6ZTBgEGGfDww3d4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Mengerikan",
+                "textOriginal": "Mengerikan",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 3,
+                "publishedAt": "2025-04-01T10:52:15Z",
+                "updatedAt": "2025-04-01T10:52:15Z",
+                "authorHash": "8c9f0590919b4e2a"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "rLxRAuzq6WOg8amY6Xi-kMn2Wf0",
+          "id": "Ugx99nQzIhTNIO0yy6N4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "rFkM4t5tjM3nwPhhX7jRULDjTvw",
+              "id": "Ugx99nQzIhTNIO0yy6N4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Dikira iklan 😩",
+                "textOriginal": "Dikira iklan 😩",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-03-31T23:55:01Z",
+                "updatedAt": "2025-03-31T23:55:01Z",
+                "authorHash": "41ba765e1e24122d"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+          },
+          "replies": {
+            "comments": [
+              {
+                "kind": "youtube#comment",
+                "etag": "dNTRRLNTyyTD6t3gzF2Ogjlt3MY",
+                "id": "Ugx99nQzIhTNIO0yy6N4AaABAg.AGM0GSR5Am5AGM0Hs6yxL6",
+                "snippet": {
+                  "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                  "videoId": "Ih2mEx2H4Ng",
+                  "textDisplay": "Ternyata bumper 😧",
+                  "textOriginal": "Ternyata bumper 😧",
+                  "parentId": "Ugx99nQzIhTNIO0yy6N4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2025-03-31T23:55:13Z",
+                  "updatedAt": "2025-03-31T23:55:13Z",
+                  "authorHash": "41ba765e1e24122d"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "Bq886TsfUCmOhI-j_X5wm_Pm5XY",
+          "id": "Ugx_gO43pRAe9FWOVkJ4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "pR5NH3FCZEcwBAT-nZLhwGgxwSU",
+              "id": "Ugx_gO43pRAe9FWOVkJ4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Malah buat versi lebarannya juga dong💀💀",
+                "textOriginal": "Malah buat versi lebarannya juga dong💀💀",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 3,
+                "publishedAt": "2025-03-31T12:47:18Z",
+                "updatedAt": "2025-03-31T12:47:18Z",
+                "authorHash": "9b5450faa2d02959"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "Izp4TlQ6eWR_XV90shN_TLIHUNs",
+          "id": "UgxQdJI1Vak7I8D3s4x4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "a486x_v0MZdnJuNyVQdqDdpny_0",
+              "id": "UgxQdJI1Vak7I8D3s4x4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Kaya entitas lain yg mengantikan orang lain serem gk serem gk gitu ya",
+                "textOriginal": "Kaya entitas lain yg mengantikan orang lain serem gk serem gk gitu ya",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2025-03-31T12:27:36Z",
+                "updatedAt": "2025-03-31T12:27:36Z",
+                "authorHash": "9054aba6ca81d610"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "s-Y4MzKcy81c6lWJ8SCfEvIsb0Y",
+          "id": "UgwcsIDkGll6kS9pCyt4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "Y89uiUzu_EgVbfEwLzx2QulG5no",
+              "id": "UgwcsIDkGll6kS9pCyt4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Maksud nya ngapa gk pake orang asli aja gitu kan",
+                "textOriginal": "Maksud nya ngapa gk pake orang asli aja gitu kan",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-03-31T12:22:08Z",
+                "updatedAt": "2025-03-31T12:22:08Z",
+                "authorHash": "9054aba6ca81d610"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "fQK6aUm-yHLOjcbMcjFVCSc_xo0",
+          "id": "Ugz77zTGqgSY0TVkt7J4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "ivqFlqrIuyxj0c4n3lL5YOySwww",
+              "id": "Ugz77zTGqgSY0TVkt7J4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Kalau anak kecil liat pasti trauma trauma ya gitu kan 😂😂😂😂😂😂 jangan lah orang bodoh bilang wahhh sekarang janggih yah ada AI gitu kan otak nya tu ya sampah gitu",
+                "textOriginal": "Kalau anak kecil liat pasti trauma trauma ya gitu kan 😂😂😂😂😂😂 jangan lah orang bodoh bilang wahhh sekarang janggih yah ada AI gitu kan otak nya tu ya sampah gitu",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-03-31T12:21:12Z",
+                "updatedAt": "2025-03-31T12:21:12Z",
+                "authorHash": "9054aba6ca81d610"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "5vDt5SzDEh0gCZOgJOiPhyRtQ4I",
+          "id": "Ugy7ZKcKAsYaKaLHMeZ4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "EvprhDan_uKkRdNSjuPEZh5R6OQ",
+              "id": "Ugy7ZKcKAsYaKaLHMeZ4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Gini amat iklan buruk ni",
+                "textOriginal": "Gini amat iklan buruk ni",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2025-03-31T12:19:09Z",
+                "updatedAt": "2025-03-31T12:19:09Z",
+                "authorHash": "9054aba6ca81d610"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "WqSsK3jw8ezQ_5YpubGEiQfQaZM",
+          "id": "Ugz4pQHPnP7vG5doesB4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "_HSHGg3lkQmQFzUryiS-IM0i89Q",
+              "id": "Ugz4pQHPnP7vG5doesB4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Tolong mata saya sakit😊",
+                "textOriginal": "Tolong mata saya sakit😊",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 4,
+                "publishedAt": "2025-03-31T02:05:22Z",
+                "updatedAt": "2025-03-31T02:05:22Z",
+                "authorHash": "f8229f64e3b3b76a"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+          },
+          "replies": {
+            "comments": [
+              {
+                "kind": "youtube#comment",
+                "etag": "ccbtqdo2EsnQo-GBJRDygvOxHQU",
+                "id": "Ugz4pQHPnP7vG5doesB4AaABAg.AGJfOH_uBrwAGr2okJsEh3",
+                "snippet": {
+                  "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                  "videoId": "Ih2mEx2H4Ng",
+                  "textDisplay": "Ini lebih burik drpd ff 😂",
+                  "textOriginal": "Ini lebih burik drpd ff 😂",
+                  "parentId": "Ugz4pQHPnP7vG5doesB4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2025-04-13T10:33:01Z",
+                  "updatedAt": "2025-04-13T10:33:01Z",
+                  "authorHash": "335ecf3113bf45b7"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "K-Tlt1mvEeI6jV488hJxnxVrrsE",
+          "id": "UgwOXKHatYmhdEfiGw94AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "kYiNmFwBvwVSiSDw7aoteYisZiM",
+              "id": "UgwOXKHatYmhdEfiGw94AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Dikira iklan 😹😹",
+                "textOriginal": "Dikira iklan 😹😹",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2025-03-30T12:18:43Z",
+                "updatedAt": "2025-03-30T12:18:43Z",
+                "authorHash": "41ba765e1e24122d"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "0bah-t6n6afXCdBB_B1TqmfXcoU",
+          "id": "UgxdHydDImXptVsIiqF4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "ihppKAjv1KGnA4VvUA4LobJwzDY",
+              "id": "UgxdHydDImXptVsIiqF4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "ih jelek nyeeeee",
+                "textOriginal": "ih jelek nyeeeee",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-03-30T07:55:43Z",
+                "updatedAt": "2025-03-30T07:55:43Z",
+                "authorHash": "d47aee4e2f182c7b"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "NReYRgw4u_SSxnmAE24u5R3PMk4",
+          "id": "UgxEJto9lEoYKIckruh4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "bsN547TBc1YkXLI14T1reHzLNRQ",
+              "id": "UgxEJto9lEoYKIckruh4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Mama aaku takoott😭.....",
+                "textOriginal": "Mama aaku takoott😭.....",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2025-03-30T02:19:01Z",
+                "updatedAt": "2025-03-30T02:19:01Z",
+                "authorHash": "27cde4f2f5ba17f0"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "6pTHwJShuF6o_Wah8cqa0biuAjo",
+          "id": "UgzWV1jNs9QnIULxxZB4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "HF3rofZbPQGUz2hxYDWjQWwE9yA",
+              "id": "UgzWV1jNs9QnIULxxZB4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Mamah aku takut😭",
+                "textOriginal": "Mamah aku takut😭",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2025-03-29T23:47:32Z",
+                "updatedAt": "2025-03-29T23:47:32Z",
+                "authorHash": "24323a89ec43a39c"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "w_WBDd7LYOrd__ZgzBTeQD1ytSA",
+          "id": "UgyuAGxFRVX1BDBTP3B4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "fbRZVcI8f-N-7QaZn8ZTfRczSwM",
+              "id": "UgyuAGxFRVX1BDBTP3B4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Please udah stop ane udah muak 😡😡😡",
+                "textOriginal": "Please udah stop ane udah muak 😡😡😡",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-03-29T22:46:08Z",
+                "updatedAt": "2025-03-29T22:46:08Z",
+                "authorHash": "150e0c8a63371c0b"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "x9wFq5UUTkz2bypJWMrJM2TLd3k",
+          "id": "UgxsUBk6i_P0ADO529B4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "LnFsCFao6_gXnHqnEepEJ75Z2x0",
+              "id": "UgxsUBk6i_P0ADO529B4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Aaaa tolong iklan nya😭😭",
+                "textOriginal": "Aaaa tolong iklan nya😭😭",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2025-03-29T20:25:48Z",
+                "updatedAt": "2025-03-29T20:25:48Z",
+                "authorHash": "3cf9b225902e0da7"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "wSi7Iz2LRcmHKOkoBPKea49GS_M",
+          "id": "Ugxw9gcO_I3cxp8GfdJ4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "R0Ro8m1kdKewE58QsBN6sLPgKyE",
+              "id": "Ugxw9gcO_I3cxp8GfdJ4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Tolong mata saya sakit",
+                "textOriginal": "Tolong mata saya sakit",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2025-03-29T08:28:16Z",
+                "updatedAt": "2025-03-29T08:28:16Z",
+                "authorHash": "f8229f64e3b3b76a"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "qWWTJzkj_cuVXL8uQJ1O3ia0frI",
+          "id": "UgyaIDFIeFkQzJ_4WTV4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "E_zaVM7m1eD8OgJ-MLsyj-9wUaE",
+              "id": "UgyaIDFIeFkQzJ_4WTV4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Iklan macam apa ini",
+                "textOriginal": "Iklan macam apa ini",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-03-29T08:27:54Z",
+                "updatedAt": "2025-03-29T08:27:54Z",
+                "authorHash": "f8229f64e3b3b76a"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "lGJ9bd3tgqFuQHznBn7_XDR6Ag8",
+          "id": "UgywmBcJrhC2TjIX3Nl4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "ZGm_5m45cg4_Nwgarr-sIPRq980",
+              "id": "UgywmBcJrhC2TjIX3Nl4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Iklan Ai aneh banget",
+                "textOriginal": "Iklan Ai aneh banget",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-03-29T00:30:25Z",
+                "updatedAt": "2025-03-29T00:30:25Z",
+                "authorHash": "b1c7b45b54c8aca7"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "jstICC2fRzIRhU4T7sGYwYV_HYc",
+          "id": "UgwjbOJNhwZUGIaalpt4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "VZoGqgZxz56kix4YFyYlRPWyPpU",
+              "id": "UgwjbOJNhwZUGIaalpt4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "iklan ramadan + ai = jafal",
+                "textOriginal": "iklan ramadan + ai = jafal",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 2,
+                "publishedAt": "2025-03-28T05:57:43Z",
+                "updatedAt": "2025-03-28T05:57:43Z",
+                "authorHash": "e9f0e1fbacab2fb7"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "y1e9jhJo1JWrUQIQFIFYw7CxVJg",
+          "id": "UgyKJSbIub50GJI9dj54AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "otFpBpyjouU0mpydenf22U3-QDs",
+              "id": "UgyKJSbIub50GJI9dj54AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "😂😂😂😂😂😢😢ai🤬🤬🤬🤬😡😡😠😠",
+                "textOriginal": "😂😂😂😂😂😢😢ai🤬🤬🤬🤬😡😡😠😠",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-03-28T02:37:29Z",
+                "updatedAt": "2025-03-28T02:37:29Z",
+                "authorHash": "97052ee8076ae301"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "73U5-BHXUxX7say4NgHhoLjbtOo",
+          "id": "Ugw1Xt3btpy5ZQ7UlU94AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "vBkkHJgJZ3Zk-OdkQo4F9dYlQ5E",
+              "id": "Ugw1Xt3btpy5ZQ7UlU94AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Si ibu gerak bibirnya ngeselin banget mana ngbrol sama anak ceweknya matanya ngeliat kemana pula. Hiii...takutttt. jd ngebayangin misal ada bencana besar yg membuat manusia hampir punah dan yg msh selamat ga sengaja liat iklan AI ini di TV yg msh menyala di tengah keheningan.",
+                "textOriginal": "Si ibu gerak bibirnya ngeselin banget mana ngbrol sama anak ceweknya matanya ngeliat kemana pula. Hiii...takutttt. jd ngebayangin misal ada bencana besar yg membuat manusia hampir punah dan yg msh selamat ga sengaja liat iklan AI ini di TV yg msh menyala di tengah keheningan.",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 56,
+                "publishedAt": "2025-03-26T21:41:52Z",
+                "updatedAt": "2025-03-26T21:41:52Z",
+                "authorHash": "4275bb3cf2df0b15"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 2,
+            "isPublic": true
+          },
+          "replies": {
+            "comments": [
+              {
+                "kind": "youtube#comment",
+                "etag": "V4gW90_y003EpSEhirzvvjbj9Xo",
+                "id": "Ugw1Xt3btpy5ZQ7UlU94AaABAg.AG8u2lDJ4YfAH0Dy-cxzpT",
+                "snippet": {
+                  "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                  "videoId": "Ih2mEx2H4Ng",
+                  "textDisplay": "Iiiiihhh Seremnya, nanti kayak Anomali Tung Tung Tung Sahur🤯",
+                  "textOriginal": "Iiiiihhh Seremnya, nanti kayak Anomali Tung Tung Tung Sahur🤯",
+                  "parentId": "Ugw1Xt3btpy5ZQ7UlU94AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2025-04-17T09:22:48Z",
+                  "updatedAt": "2025-04-17T09:22:48Z",
+                  "authorHash": "82dfa012805a62a8"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "KADVbX-ek-59ej5AKVf0RAch7eY",
+                "id": "Ugw1Xt3btpy5ZQ7UlU94AaABAg.AG8u2lDJ4YfAaU_dP4ozpZ",
+                "snippet": {
+                  "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                  "videoId": "Ih2mEx2H4Ng",
+                  "textDisplay": "​@user THE FUCKING MOUTH!",
+                  "textOriginal": "​@user THE FUCKING MOUTH!",
+                  "parentId": "Ugw1Xt3btpy5ZQ7UlU94AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2026-09-08T06:46:04Z",
+                  "updatedAt": "2026-09-08T06:46:04Z",
+                  "authorHash": "5e6fb5e8186e36fa"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "pfhdNg9jsQ5hKw3RLkaVCEyWwaU",
+          "id": "UgwUj79UdDBO2qiZQyV4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "182wJLRJUEKaEqTG40RYJQQ_i80",
+              "id": "UgwUj79UdDBO2qiZQyV4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Lebih mirip seriak killer",
+                "textOriginal": "Lebih mirip seriak killer",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-03-24T17:02:20Z",
+                "updatedAt": "2025-03-24T17:02:20Z",
+                "authorHash": "e80e493ef16956b0"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "uieyTJojtZplKH9UalFR-lf7axE",
+          "id": "UgyXBD_Wmw2-19T3yAJ4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "d-lXKsO9I8lNLcY1GuvFT2D9EE0",
+              "id": "UgyXBD_Wmw2-19T3yAJ4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Dasar kreator sampah dasar orang goblokdasar badut🤡🤬😡🤬🤬🤬",
+                "textOriginal": "Dasar kreator sampah dasar orang goblokdasar badut🤡🤬😡🤬🤬🤬",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-03-24T01:46:32Z",
+                "updatedAt": "2025-03-24T01:46:32Z",
+                "authorHash": "dde1d257db05a824"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "4rtEWUjCsRqZIV7pwISDIZPob8c",
+          "id": "Ugw5vdw-tbTQ-_gExrt4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "97YLYGe46qUwaNEmqmD-3UL-K3w",
+              "id": "Ugw5vdw-tbTQ-_gExrt4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "hal yang aku takutin dari iklan ini\n1. 0:05 kenapa bapaknya kelihatan kurus banget😭 0:09 pas bagian ini bapaknya kelihatan agak berisi😭\n2. kenapa anak lakinya cuma dipakein kaos😭bukan gimana ya, agak kurang sopan gitu apalagi tema ramadhan dan main iklan\n3. ekspresi anak lakinya juga kurang menjiwai , ga sesuai sama nada bicaranya\n4. kerudung ibunya berubah2😭\n5. 0:31 kenapa pandangan bapaknya ke bawah ya, kelihatan enggak ngelihat ke kamera/anggota keluarganya",
+                "textOriginal": "hal yang aku takutin dari iklan ini\n1. 0:05 kenapa bapaknya kelihatan kurus banget😭 0:09 pas bagian ini bapaknya kelihatan agak berisi😭\n2. kenapa anak lakinya cuma dipakein kaos😭bukan gimana ya, agak kurang sopan gitu apalagi tema ramadhan dan main iklan\n3. ekspresi anak lakinya juga kurang menjiwai , ga sesuai sama nada bicaranya\n4. kerudung ibunya berubah2😭\n5. 0:31 kenapa pandangan bapaknya ke bawah ya, kelihatan enggak ngelihat ke kamera/anggota keluarganya",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 2,
+                "publishedAt": "2025-03-23T23:37:36Z",
+                "updatedAt": "2025-03-23T23:37:36Z",
+                "authorHash": "ea9ca38edd4a7275"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 2,
+            "isPublic": true
+          },
+          "replies": {
+            "comments": [
+              {
+                "kind": "youtube#comment",
+                "etag": "4Vijg1n-tqdyPchLEAOui0YNJUc",
+                "id": "Ugw5vdw-tbTQ-_gExrt4AaABAg.AG1Nuq7mkZEAG9c5w29PoQ",
+                "snippet": {
+                  "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                  "videoId": "Ih2mEx2H4Ng",
+                  "textDisplay": "Basically AI animations in a nutshell 💀",
+                  "textOriginal": "Basically AI animations in a nutshell 💀",
+                  "parentId": "Ugw5vdw-tbTQ-_gExrt4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2025-03-27T04:24:15Z",
+                  "updatedAt": "2025-03-27T04:24:15Z",
+                  "authorHash": "4dd39f0cf81568ec"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "hoD_oJ2ks0TskyGUeDU1p_NxPeg",
+                "id": "Ugw5vdw-tbTQ-_gExrt4AaABAg.AG1Nuq7mkZEAG9i3rfbBpX",
+                "snippet": {
+                  "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                  "videoId": "Ih2mEx2H4Ng",
+                  "textDisplay": "@user  fix si ini AI 😭 kalo ada yang bilang bukan AI, lah kenapa kok konsepnya acakadut 😭 siswa sekolah aja tau tema ramadhan tuh harusnya enggak kaya gitu, harusnya anaknya dipakein baju yang pantes kek, atau gimana",
+                  "textOriginal": "@user  fix si ini AI 😭 kalo ada yang bilang bukan AI, lah kenapa kok konsepnya acakadut 😭 siswa sekolah aja tau tema ramadhan tuh harusnya enggak kaya gitu, harusnya anaknya dipakein baju yang pantes kek, atau gimana",
+                  "parentId": "Ugw5vdw-tbTQ-_gExrt4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2025-03-27T05:16:24Z",
+                  "updatedAt": "2025-03-27T05:16:24Z",
+                  "authorHash": "ea9ca38edd4a7275"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "f-BnkmgrDSBAmJXTzJ2bpcJS_X4",
+          "id": "Ugy6prMws8-Vg5ULLGl4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "qpK44m8UdLNYIIttdi6fhg1hI9Q",
+              "id": "Ugy6prMws8-Vg5ULLGl4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "We got AI ramadhan filler before GTA 6 💀💀💀",
+                "textOriginal": "We got AI ramadhan filler before GTA 6 💀💀💀",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-03-23T14:19:36Z",
+                "updatedAt": "2025-03-23T14:19:36Z",
+                "authorHash": "4dd39f0cf81568ec"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "37YQqkKXa5g63JV8yEVHa03i7OM",
+          "id": "UgxVvcFt7KJquR05zS54AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "1QS5gVryr0NKhS_i7mX0ghZ45wM",
+              "id": "UgxVvcFt7KJquR05zS54AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "mamah aku takut",
+                "textOriginal": "mamah aku takut",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-03-22T00:43:05Z",
+                "updatedAt": "2025-03-22T00:43:05Z",
+                "authorHash": "393c53e686230aa2"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "KV96krM89bhjhRQrkvwMeW3aMK4",
+          "id": "UgwgY0scLP5kn7mW58h4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "KqIAPMe1p2mCmEtFOLiyqeJw6nA",
+              "id": "UgwgY0scLP5kn7mW58h4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "apa ini brok",
+                "textOriginal": "apa ini brok",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 2,
+                "publishedAt": "2025-03-21T06:21:25Z",
+                "updatedAt": "2025-03-21T06:21:25Z",
+                "authorHash": "9cd34641f386c65b"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "EyC31WUJgyvSGvAOEOrbddW8jIs",
+          "id": "UgzOoa5etYwBghKtFZJ4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "iJUL_i5l5RTqWhD1UJuhCKxEC6o",
+              "id": "UgzOoa5etYwBghKtFZJ4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Mirip keluarga psycho njir",
+                "textOriginal": "Mirip keluarga psycho njir",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-03-21T04:32:04Z",
+                "updatedAt": "2025-03-21T04:32:04Z",
+                "authorHash": "c1525e3fdafa5396"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "gHnZ_kB8xg5EDLSQRjO-OTomRNw",
+          "id": "UgzkcVoOMO9kTsKMogJ4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "mNKk4GAZVSc_bQEnhCb3Ah2t36g",
+              "id": "UgzkcVoOMO9kTsKMogJ4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Makai animator Indonesia : absolute cinema \n\nMakai animasi Ai pemerintah : bikin sakit mata, gak jelas dan gak niat",
+                "textOriginal": "Makai animator Indonesia : absolute cinema \n\nMakai animasi Ai pemerintah : bikin sakit mata, gak jelas dan gak niat",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 40,
+                "publishedAt": "2025-03-19T09:19:51Z",
+                "updatedAt": "2025-03-19T09:19:51Z",
+                "authorHash": "b9353aef6ecdf9f7"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+          },
+          "replies": {
+            "comments": [
+              {
+                "kind": "youtube#comment",
+                "etag": "FZ9vCpZhVOWV4sr79_q4iNq1EeU",
+                "id": "UgzkcVoOMO9kTsKMogJ4AaABAg.AFqY_0QankEAG0OHWdJmZK",
+                "snippet": {
+                  "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                  "videoId": "Ih2mEx2H4Ng",
+                  "textDisplay": "I don't think this was made by the govt.",
+                  "textOriginal": "I don't think this was made by the govt.",
+                  "parentId": "UgzkcVoOMO9kTsKMogJ4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 2,
+                  "publishedAt": "2025-03-23T14:21:36Z",
+                  "updatedAt": "2025-03-23T14:21:52Z",
+                  "authorHash": "4dd39f0cf81568ec"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "kfMPz-Pl9kp9PUEs2Uh4oBQV-k8",
+          "id": "UgxwnZPFdrnRx-5mwBJ4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "zX4fXZjpsERZlFzGFWT8g5LcEg4",
+              "id": "UgxwnZPFdrnRx-5mwBJ4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Kemunduran periklanan komersial 😢",
+                "textOriginal": "Kemunduran periklanan komersial 😢",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 42,
+                "publishedAt": "2025-03-19T09:05:33Z",
+                "updatedAt": "2025-03-19T09:05:33Z",
+                "authorHash": "a84ea74a57330426"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "4mD2T_56rb-C7hN0fFEaQl4rC7A",
+          "id": "UgwIl9rdRm2CjB9lOQp4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "GMRWRLxLwDDDQloZLCpqFFI1hHc",
+              "id": "UgwIl9rdRm2CjB9lOQp4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "cringe kayak u&i terbaru",
+                "textOriginal": "cringe kayak u&i terbaru",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 2,
+                "publishedAt": "2025-03-19T07:34:20Z",
+                "updatedAt": "2025-03-19T07:34:20Z",
+                "authorHash": "280e5c24fcded94b"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+          },
+          "replies": {
+            "comments": [
+              {
+                "kind": "youtube#comment",
+                "etag": "Cvfju8oidTt4ZfaxXSV2GrrdpnY",
+                "id": "UgwIl9rdRm2CjB9lOQp4AaABAg.AFqMV8ceoveAG0OpJMnw5A",
+                "snippet": {
+                  "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                  "videoId": "Ih2mEx2H4Ng",
+                  "textDisplay": "sm spongebob baru",
+                  "textOriginal": "sm spongebob baru",
+                  "parentId": "UgwIl9rdRm2CjB9lOQp4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2025-03-23T14:26:21Z",
+                  "updatedAt": "2025-03-23T14:26:21Z",
+                  "authorHash": "4dd39f0cf81568ec"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "ODN1f6M_t_GD1SX24RkduP1zR1c",
+          "id": "UgwaJm7QIJ0NMPd40eh4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "7x-77MbNKohXYAC0O6cbWvuufX0",
+              "id": "UgwaJm7QIJ0NMPd40eh4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Darimana ini iklan? Dark Web?",
+                "textOriginal": "Darimana ini iklan? Dark Web?",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 13,
+                "publishedAt": "2025-03-19T04:50:42Z",
+                "updatedAt": "2025-03-19T04:50:42Z",
+                "authorHash": "7bea3bcd4be1d6f2"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+          },
+          "replies": {
+            "comments": [
+              {
+                "kind": "youtube#comment",
+                "etag": "hZqL7h7d1YiIR-G1TPUQnJrY_Vs",
+                "id": "UgwaJm7QIJ0NMPd40eh4AaABAg.AFq3le4ycgVAJjgSl7M-E6",
+                "snippet": {
+                  "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                  "videoId": "Ih2mEx2H4Ng",
+                  "textDisplay": "Super Duper Dark Web💀",
+                  "textOriginal": "Super Duper Dark Web💀",
+                  "parentId": "UgwaJm7QIJ0NMPd40eh4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 1,
+                  "publishedAt": "2025-06-24T03:28:24Z",
+                  "updatedAt": "2025-06-24T03:28:24Z",
+                  "authorHash": "68f45cf560e26f29"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "41-A8ELGvnmaGeb-ElNCxs9z8Vk",
+          "id": "Ugy8U1QlW84qVzaPSJZ4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "UwTMMz6RH_RxOpw47rn_HO5rFKI",
+              "id": "Ugy8U1QlW84qVzaPSJZ4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "RTV AI",
+                "textOriginal": "RTV AI",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2025-03-19T03:49:07Z",
+                "updatedAt": "2025-03-19T03:49:07Z",
+                "authorHash": "625ed17759bf4e68"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "O6zARA2OU2XoedWWhllWpyb5J2g",
+          "id": "UgxoVcdCwP8ic9m7mYt4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "jkZfgK6VsZ1iapqLp7d4F0K0OxQ",
+              "id": "UgxoVcdCwP8ic9m7mYt4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Jelek banget jirr😂",
+                "textOriginal": "Jelek banget jirr😂",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 5,
+                "publishedAt": "2025-03-18T16:07:02Z",
+                "updatedAt": "2025-03-18T16:07:02Z",
+                "authorHash": "879092da031e5471"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "YP1j20IbMUJdlHKGvdlDE-zxCoE",
+          "id": "Ugz7IULYZa0RKSp1-5l4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "CMbo_lFrCo1-uTdjc-YeY0yvCF0",
+              "id": "Ugz7IULYZa0RKSp1-5l4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "0:30 ada  kucing",
+                "textOriginal": "0:30 ada  kucing",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 16,
+                "publishedAt": "2025-03-18T09:55:28Z",
+                "updatedAt": "2025-03-18T09:55:28Z",
+                "authorHash": "89a94605e8d6a6c4"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "gSTySn5VWzTBWp9rz6A4ZHbKEtg",
+          "id": "UgxKc3h2BSdjHvTW05p4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "0OhOKEzaqZOrYHSFh1ZbF1fUWdM",
+              "id": "UgxKc3h2BSdjHvTW05p4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Takut banget loh..😂",
+                "textOriginal": "Takut banget loh..😂",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 4,
+                "publishedAt": "2025-03-18T04:48:11Z",
+                "updatedAt": "2025-03-18T04:48:11Z",
+                "authorHash": "6942da2341664e0e"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "8UBR8fsjRPY_tesTOnItZ3vYegA",
+          "id": "UgyYETN-P-JvQJXcfAR4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "Ti6caivWcz_c4C_HBnw8uJsf-3U",
+              "id": "UgyYETN-P-JvQJXcfAR4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Mama aku takut 😢",
+                "textOriginal": "Mama aku takut 😢",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 55,
+                "publishedAt": "2025-03-16T18:43:02Z",
+                "updatedAt": "2025-03-16T18:43:02Z",
+                "authorHash": "217786197ecaed84"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "hL8eE8d1MwMmU6YCsVygLCH6TCE",
+          "id": "UgyOp-gdBfeZiaKgawZ4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "2xyVr5eWq0ZtKID1QGP4u9ujQVI",
+              "id": "UgyOp-gdBfeZiaKgawZ4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "manusia masih banyak yg punya potensi buat jadi aktor/aktris, pake ai melulu, akarnya dari siapa? yaa pemerintah 😂",
+                "textOriginal": "manusia masih banyak yg punya potensi buat jadi aktor/aktris, pake ai melulu, akarnya dari siapa? yaa pemerintah 😂",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 29,
+                "publishedAt": "2025-03-16T16:45:58Z",
+                "updatedAt": "2025-03-16T16:45:58Z",
+                "authorHash": "83dba5a38eeaeab9"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 6,
+            "isPublic": true
+          },
+          "replies": {
+            "comments": [
+              {
+                "kind": "youtube#comment",
+                "etag": "YvXbIfn2iv3vejhr8yMorJxMw98",
+                "id": "UgyOp-gdBfeZiaKgawZ4AaABAg.AFjcEoIQ72xAFpc99SAtn7",
+                "snippet": {
+                  "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                  "videoId": "Ih2mEx2H4Ng",
+                  "textDisplay": "Ahihihihihi 😂😂😂😂",
+                  "textOriginal": "Ahihihihihi 😂😂😂😂",
+                  "parentId": "UgyOp-gdBfeZiaKgawZ4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 2,
+                  "publishedAt": "2025-03-19T00:40:38Z",
+                  "updatedAt": "2025-03-19T00:40:38Z",
+                  "authorHash": "9b1b2498452b3df8"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "xO4kPQwxpeAjhXUyvTLnEoqZEGs",
+                "id": "UgyOp-gdBfeZiaKgawZ4AaABAg.AFjcEoIQ72xAG0ODOqb2GJ",
+                "snippet": {
+                  "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                  "videoId": "Ih2mEx2H4Ng",
+                  "textDisplay": "Berarti logikanya klo lu melanggar lampu merah, lu salahkan pemerintah krn ga becus? 🤨😒",
+                  "textOriginal": "Berarti logikanya klo lu melanggar lampu merah, lu salahkan pemerintah krn ga becus? 🤨😒",
+                  "parentId": "UgyOp-gdBfeZiaKgawZ4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 1,
+                  "publishedAt": "2025-03-23T14:21:02Z",
+                  "updatedAt": "2025-03-23T14:21:02Z",
+                  "authorHash": "4dd39f0cf81568ec"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "7Rm4j1Tb3epktnsg5e0glloTL1c",
+                "id": "UgyOp-gdBfeZiaKgawZ4AaABAg.AFjcEoIQ72xAG2h6oRiLYV",
+                "snippet": {
+                  "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                  "videoId": "Ih2mEx2H4Ng",
+                  "textDisplay": "@user memang saya setuju sama lu juga ngapain pemerintah segala pakai ai",
+                  "textOriginal": "@user memang saya setuju sama lu juga ngapain pemerintah segala pakai ai",
+                  "parentId": "UgyOp-gdBfeZiaKgawZ4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2025-03-24T11:53:23Z",
+                  "updatedAt": "2025-03-24T11:53:23Z",
+                  "authorHash": "9b1b2498452b3df8"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "aDs2j_pOboqxbJQiyTXmwtOfKkg",
+                "id": "UgyOp-gdBfeZiaKgawZ4AaABAg.AFjcEoIQ72xAGdEziYVpx9",
+                "snippet": {
+                  "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                  "videoId": "Ih2mEx2H4Ng",
+                  "textDisplay": "​​@user jadi langgar lampu merah? Analogi nya ga masuk gini dah wkwk",
+                  "textOriginal": "​​@user jadi langgar lampu merah? Analogi nya ga masuk gini dah wkwk",
+                  "parentId": "UgyOp-gdBfeZiaKgawZ4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 2,
+                  "publishedAt": "2025-04-08T01:50:00Z",
+                  "updatedAt": "2025-04-08T01:50:12Z",
+                  "authorHash": "babc80823e5986dc"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "6eWfVREh6SHQgYkL-iQHxYGpE44",
+                "id": "UgyOp-gdBfeZiaKgawZ4AaABAg.AFjcEoIQ72xAGt7SqzSitw",
+                "snippet": {
+                  "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                  "videoId": "Ih2mEx2H4Ng",
+                  "textDisplay": "​@user dia",
+                  "textOriginal": "​@user dia",
+                  "parentId": "UgyOp-gdBfeZiaKgawZ4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2025-04-14T05:52:04Z",
+                  "updatedAt": "2025-04-14T05:52:04Z",
+                  "authorHash": "78209d543114f429"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "K7sJ31HDMKsBy_5szPnF6V9BCJM",
+          "id": "UgzJATAH1d1hsmA7PcJ4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "k9S5BsuYSx8g1YlBFnboVPCwaJc",
+              "id": "UgzJATAH1d1hsmA7PcJ4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "inilah mimpi pemerintah... semuanya harus pake AI.",
+                "textOriginal": "inilah mimpi pemerintah... semuanya harus pake AI.",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 22,
+                "publishedAt": "2025-03-16T07:03:46Z",
+                "updatedAt": "2025-03-16T07:03:46Z",
+                "authorHash": "75d5ce7c378edb83"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+          },
+          "replies": {
+            "comments": [
+              {
+                "kind": "youtube#comment",
+                "etag": "OvKs4cPUXDMbTtYQaDHtSHwEw-Y",
+                "id": "UgzJATAH1d1hsmA7PcJ4AaABAg.AFi_bfmXevNAG0OOSzOukz",
+                "snippet": {
+                  "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                  "videoId": "Ih2mEx2H4Ng",
+                  "textDisplay": "Go outside 😂",
+                  "textOriginal": "Go outside 😂",
+                  "parentId": "UgzJATAH1d1hsmA7PcJ4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 1,
+                  "publishedAt": "2025-03-23T14:22:33Z",
+                  "updatedAt": "2025-03-23T14:22:33Z",
+                  "authorHash": "4dd39f0cf81568ec"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "TjyWbHc6hIgxb4ywet9Hy9W5sOo",
+          "id": "UgyYq1BfZLSvxanheE14AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "-A4tbk6XyR0a2Qu14TK_jvfRpsQ",
+              "id": "UgyYq1BfZLSvxanheE14AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Malah pake AI ya allahh...😢😢😢",
+                "textOriginal": "Malah pake AI ya allahh...😢😢😢",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 5,
+                "publishedAt": "2025-03-16T02:42:06Z",
+                "updatedAt": "2025-03-16T02:42:06Z",
+                "authorHash": "7e2541fa7c42f609"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "IJDKgUbfysPSalm8EqX6DRLJt4M",
+          "id": "Ugzs4vHEweSotWC-lkd4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "v4axpmCDPJR-p3fKB1X3L6kFDPA",
+              "id": "Ugzs4vHEweSotWC-lkd4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "Malah pakai AI persis seperti Mentari TV.",
+                "textOriginal": "Malah pakai AI persis seperti Mentari TV.",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 10,
+                "publishedAt": "2025-03-16T02:38:41Z",
+                "updatedAt": "2025-03-16T02:38:41Z",
+                "authorHash": "c2ed36c96e603167"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+          },
+          "replies": {
+            "comments": [
+              {
+                "kind": "youtube#comment",
+                "etag": "-dfThURRD0d1if42gS8QseHfEoU",
+                "id": "Ugzs4vHEweSotWC-lkd4AaABAg.AFi6H8SjKjIAGIHpEvyxhe",
+                "snippet": {
+                  "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                  "videoId": "Ih2mEx2H4Ng",
+                  "textDisplay": "Aku juga liat karakter anak2nya pake AI mulut gerak2 kagak ngomong sama sekali",
+                  "textOriginal": "Aku juga liat karakter anak2nya pake AI mulut gerak2 kagak ngomong sama sekali",
+                  "parentId": "Ugzs4vHEweSotWC-lkd4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 2,
+                  "publishedAt": "2025-03-30T13:11:30Z",
+                  "updatedAt": "2025-03-30T13:11:30Z",
+                  "authorHash": "baea9e3b9c9c2921"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "7zlGisC9LdRP2DaKmZTiXTQ4sTk",
+          "id": "UgxsqWLq170wJSq5y4B4AaABAg",
+          "snippet": {
+            "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+            "videoId": "Ih2mEx2H4Ng",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "dqF_1HrS9kP2J48YE0SBpx2tzLo",
+              "id": "UgxsqWLq170wJSq5y4B4AaABAg",
+              "snippet": {
+                "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+                "videoId": "Ih2mEx2H4Ng",
+                "textDisplay": "malah pakai ai\n\nitu open casting yang pernah dibuka beberapa bulan lalu gimana kabarnya dah?",
+                "textOriginal": "malah pakai ai\n\nitu open casting yang pernah dibuka beberapa bulan lalu gimana kabarnya dah?",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 15,
+                "publishedAt": "2025-03-16T02:21:04Z",
+                "updatedAt": "2025-03-16T02:21:58Z",
+                "authorHash": "c24890a014c206b1"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        }
+      ]
+    }
+  ],
+  "additionalReplyPages": {
+    "UgzRATTstaygQY7Hh_d4AaABAg": [
+      {
+        "kind": "youtube#commentListResponse",
+        "etag": "1XVqJCC5gPANE-mQ3mFx4DbrcUQ",
+        "pageInfo": {
+          "resultsPerPage": 100
+        },
+        "items": [
+          {
+            "kind": "youtube#comment",
+            "etag": "EcBVOCE4eF8CgU7aBEFbPTN15m0",
+            "id": "UgzRATTstaygQY7Hh_d4AaABAg.AMWrACgB2DtAMWrAjysqfu",
+            "snippet": {
+              "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+              "textDisplay": "H",
+              "textOriginal": "H",
+              "parentId": "UgzRATTstaygQY7Hh_d4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2025-09-01T08:06:52Z",
+              "updatedAt": "2025-09-01T08:06:52Z",
+              "authorHash": "2f84a432c57de22d"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "VGI-4UnKjpSAsPjnyEoAa-DxSHk",
+            "id": "UgzRATTstaygQY7Hh_d4AaABAg.AMWrACgB2DtAMWrBF-XbuX",
+            "snippet": {
+              "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+              "textDisplay": "T",
+              "textOriginal": "T",
+              "parentId": "UgzRATTstaygQY7Hh_d4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2025-09-01T08:06:57Z",
+              "updatedAt": "2025-09-01T08:06:57Z",
+              "authorHash": "2f84a432c57de22d"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "Se30VEs1QyvSZeiy-w2Wjrunek8",
+            "id": "UgzRATTstaygQY7Hh_d4AaABAg.AMWrACgB2DtAMWrBjsElgL",
+            "snippet": {
+              "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+              "textDisplay": "A",
+              "textOriginal": "A",
+              "parentId": "UgzRATTstaygQY7Hh_d4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2025-09-01T08:07:01Z",
+              "updatedAt": "2025-09-01T08:07:01Z",
+              "authorHash": "2f84a432c57de22d"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "vKxSum8WYID8tfW-CbREM2uDG4U",
+            "id": "UgzRATTstaygQY7Hh_d4AaABAg.AMWrACgB2DtAMWrC7FSnrf",
+            "snippet": {
+              "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+              "textDisplay": "K",
+              "textOriginal": "K",
+              "parentId": "UgzRATTstaygQY7Hh_d4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2025-09-01T08:07:04Z",
+              "updatedAt": "2025-09-01T08:07:04Z",
+              "authorHash": "2f84a432c57de22d"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "QTA61UQ0PRcgTkFZWCc2B9KTCSM",
+            "id": "UgzRATTstaygQY7Hh_d4AaABAg.AMWrACgB2DtAMWrC_Nb7M1",
+            "snippet": {
+              "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+              "textDisplay": "U",
+              "textOriginal": "U",
+              "parentId": "UgzRATTstaygQY7Hh_d4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2025-09-01T08:07:07Z",
+              "updatedAt": "2025-09-01T08:07:07Z",
+              "authorHash": "2f84a432c57de22d"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "USPegX96qwLQzzVyANC72kRP28o",
+            "id": "UgzRATTstaygQY7Hh_d4AaABAg.AMWrACgB2DtAMWrD-JNHFD",
+            "snippet": {
+              "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+              "textDisplay": "T",
+              "textOriginal": "T",
+              "parentId": "UgzRATTstaygQY7Hh_d4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2025-09-01T08:07:11Z",
+              "updatedAt": "2025-09-01T08:07:11Z",
+              "authorHash": "2f84a432c57de22d"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "VpZAiSNOo2efnT0rrmLRcM0aYog",
+            "id": "UgzRATTstaygQY7Hh_d4AaABAg.AMWrACgB2DtAMWrDQGmg9v",
+            "snippet": {
+              "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+              "textDisplay": "N",
+              "textOriginal": "N",
+              "parentId": "UgzRATTstaygQY7Hh_d4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2025-09-01T08:07:14Z",
+              "updatedAt": "2025-09-01T08:07:14Z",
+              "authorHash": "2f84a432c57de22d"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "igVNjcN_wsXhbZWqU1U-_fQVvvQ",
+            "id": "UgzRATTstaygQY7Hh_d4AaABAg.AMWrACgB2DtAMWrDqrd3MB",
+            "snippet": {
+              "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+              "textDisplay": "Y",
+              "textOriginal": "Y",
+              "parentId": "UgzRATTstaygQY7Hh_d4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2025-09-01T08:07:18Z",
+              "updatedAt": "2025-09-01T08:07:18Z",
+              "authorHash": "2f84a432c57de22d"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "Fexs9GuzlU0LEFjTimpoqAlatEM",
+            "id": "UgzRATTstaygQY7Hh_d4AaABAg.AMWrACgB2DtAMWrEG0CBik",
+            "snippet": {
+              "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+              "textDisplay": "E",
+              "textOriginal": "E",
+              "parentId": "UgzRATTstaygQY7Hh_d4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2025-09-01T08:07:22Z",
+              "updatedAt": "2025-09-01T08:07:22Z",
+              "authorHash": "2f84a432c57de22d"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "8r567KSTn4CtnNEpPvI4bbjMUgc",
+            "id": "UgzRATTstaygQY7Hh_d4AaABAg.AMWrACgB2DtAMWrEfFQUnB",
+            "snippet": {
+              "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+              "textDisplay": "E",
+              "textOriginal": "E",
+              "parentId": "UgzRATTstaygQY7Hh_d4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2025-09-01T08:07:25Z",
+              "updatedAt": "2025-09-01T08:07:25Z",
+              "authorHash": "2f84a432c57de22d"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "dU7nBGWHfriCD10nwE5dd4nzxi0",
+            "id": "UgzRATTstaygQY7Hh_d4AaABAg.AMWrACgB2DtAMWrFAC0zYX",
+            "snippet": {
+              "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+              "textDisplay": "E",
+              "textOriginal": "E",
+              "parentId": "UgzRATTstaygQY7Hh_d4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2025-09-01T08:07:29Z",
+              "updatedAt": "2025-09-01T08:07:29Z",
+              "authorHash": "2f84a432c57de22d"
+            }
+          }
+        ]
+      }
+    ],
+    "UgyOp-gdBfeZiaKgawZ4AaABAg": [
+      {
+        "kind": "youtube#commentListResponse",
+        "etag": "o-bsZXw9Bi-BQjn0IxThxj247Bc",
+        "pageInfo": {
+          "resultsPerPage": 100
+        },
+        "items": [
+          {
+            "kind": "youtube#comment",
+            "etag": "rWQTrQEjven5ZK2kyTScgP2QBsc",
+            "id": "UgyOp-gdBfeZiaKgawZ4AaABAg.AFjcEoIQ72xAFpc99SAtn7",
+            "snippet": {
+              "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+              "textDisplay": "Ahihihihihi 😂😂😂😂",
+              "textOriginal": "Ahihihihihi 😂😂😂😂",
+              "parentId": "UgyOp-gdBfeZiaKgawZ4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 2,
+              "publishedAt": "2025-03-19T00:40:38Z",
+              "updatedAt": "2025-03-19T00:40:38Z",
+              "authorHash": "9b1b2498452b3df8"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "JL7SxfM992Gy4sjAxmkmCpz2U4Q",
+            "id": "UgyOp-gdBfeZiaKgawZ4AaABAg.AFjcEoIQ72xAG0ODOqb2GJ",
+            "snippet": {
+              "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+              "textDisplay": "Berarti logikanya klo lu melanggar lampu merah, lu salahkan pemerintah krn ga becus? 🤨😒",
+              "textOriginal": "Berarti logikanya klo lu melanggar lampu merah, lu salahkan pemerintah krn ga becus? 🤨😒",
+              "parentId": "UgyOp-gdBfeZiaKgawZ4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2025-03-23T14:21:02Z",
+              "updatedAt": "2025-03-23T14:21:02Z",
+              "authorHash": "4dd39f0cf81568ec"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "enNMJH1giglF10-_3g73Yc8finA",
+            "id": "UgyOp-gdBfeZiaKgawZ4AaABAg.AFjcEoIQ72xAG2h6oRiLYV",
+            "snippet": {
+              "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+              "textDisplay": "@user memang saya setuju sama lu juga ngapain pemerintah segala pakai ai",
+              "textOriginal": "@user memang saya setuju sama lu juga ngapain pemerintah segala pakai ai",
+              "parentId": "UgyOp-gdBfeZiaKgawZ4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2025-03-24T11:53:23Z",
+              "updatedAt": "2025-03-24T11:53:23Z",
+              "authorHash": "9b1b2498452b3df8"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "FbkzBYDJ0Cg_tjMVEu0mG7FphZo",
+            "id": "UgyOp-gdBfeZiaKgawZ4AaABAg.AFjcEoIQ72xAGdEziYVpx9",
+            "snippet": {
+              "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+              "textDisplay": "​​@user jadi langgar lampu merah? Analogi nya ga masuk gini dah wkwk",
+              "textOriginal": "​​@user jadi langgar lampu merah? Analogi nya ga masuk gini dah wkwk",
+              "parentId": "UgyOp-gdBfeZiaKgawZ4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 2,
+              "publishedAt": "2025-04-08T01:50:00Z",
+              "updatedAt": "2025-04-08T01:50:12Z",
+              "authorHash": "babc80823e5986dc"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "9ErBPM1dbOckJFVro_kaU99cxVc",
+            "id": "UgyOp-gdBfeZiaKgawZ4AaABAg.AFjcEoIQ72xAGt7SqzSitw",
+            "snippet": {
+              "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+              "textDisplay": "​@user dia",
+              "textOriginal": "​@user dia",
+              "parentId": "UgyOp-gdBfeZiaKgawZ4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2025-04-14T05:52:04Z",
+              "updatedAt": "2025-04-14T05:52:04Z",
+              "authorHash": "78209d543114f429"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "Wu9KmXhY5uoCMOqwKB0PWS6bWQY",
+            "id": "UgyOp-gdBfeZiaKgawZ4AaABAg.AFjcEoIQ72xAHS6Gb0YRVx",
+            "snippet": {
+              "channelId": "UCFOTzc-o9J8nIuZKuhJSzbg",
+              "textDisplay": "Diam kau buzzer ​@user",
+              "textOriginal": "Diam kau buzzer ​@user",
+              "parentId": "UgyOp-gdBfeZiaKgawZ4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2025-04-28T05:14:19Z",
+              "updatedAt": "2025-04-28T05:14:19Z",
+              "authorHash": "34f8aabcc430baf2"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

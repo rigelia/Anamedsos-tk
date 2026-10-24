@@ -1,0 +1,9 @@
+kode,tema,n_third_party,pct_third_party,ci_third_party,n_reupload_archive,pct_reupload_archive,ci_reupload_archive,selisih_poin
+KV,Kualitas visual,199,20.2,17.8-22.8,268,41.7,38.0-45.6,-21.5
+KO,Kepantasan organisasi,252,25.6,23.0-28.4,104,16.2,13.6-19.2,9.4
+PK,Pekerja kreatif,176,17.9,15.6-20.4,97,15.1,12.5-18.1,2.8
+AK,"Biaya, anggaran & korupsi",177,18.0,15.7-20.5,45,7.0,5.3-9.3,11.0
+EJ,Ejekan tanpa alasan,56,5.7,4.4-7.3,100,15.6,13.0-18.6,-9.9
+AU,Kekhawatiran umum AI,75,7.6,6.1-9.4,25,3.9,2.7-5.7,3.7
+HC,Hak cipta,47,4.8,3.6-6.3,3,0.5,0.2-1.4,4.3
+LT,Lainnya,3,0.3,0.1-0.9,0,0.0,0.0-0.6,0.3

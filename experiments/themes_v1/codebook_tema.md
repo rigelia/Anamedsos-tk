@@ -1,4 +1,4 @@
-# Codebook Tema Keberatan v1.1
+# Codebook Tema Keberatan v2
 
 **Tujuan:** menjawab RQ1 (tema keberatan apa saja yang muncul) dan menjadi dasar RQ2/RQ3 (komposisi tema per jenis organisasi dan jenis video). Unit analisis: satu komentar berlabel sikap `tolak` (1.627 komentar, `experiments/stance_v1/sikap_final_v2.csv`).
 
@@ -56,6 +56,20 @@ Ditambahkan saat Claude mengode 1.627 komentar, untuk pola pendek yang sering mu
 19. **Organisasi lain yang memakai AI** (Shopee, Axe, Mentari TV, kementerian lain) → `AU`. Pemakaian lain oleh **organisasi atau program yang sama** (iklan MBG Komdigi sebelumnya, kampanye pasangan yang sama) → `KO`.
 20. **Mirip Disney/Pixar** sebagai tuduhan meniru atau risiko dituntut → `HC`.
 
+## Aturan tambahan dari adjudikasi validasi buta (v2)
+
+Diturunkan dari 45 komentar yang diadjudikasi Zillan (`adjudikasi_tema.xlsx`). Aturan ini mengalahkan konvensi 13–20 kalau bertentangan.
+
+21. **Konvensi 13–20 dikonfirmasi** dalam adjudikasi (#4, #29, #33, #50, #59, #84, #99), kecuali yang diubah di bawah.
+22. **"Cringe" / "norak" tanpa merujuk tampilan** → `EJ` (#12). Kalau disertai rujukan pada hasil ("norak banget hasilnya") tetap `KV`.
+23. **Kreator manusia sebagai pembanding** ("animator Minecraft menangis melihat ini", "kalah saing sama animator lokal", "animasi kerja keras vs tulis prompt", "coba kayak Good Day pakai ilustrator") → `PK` (#13, #58, #79). Pembanding berupa **karya** yang lebih bagus (Marjan, BNI, Adit Sopo Jarwo) tetap `KV` (aturan 3).
+24. **Debat AI art umum soal seni, jiwa atau status "artist"** ("Artist AI bukan artist", "seni itu jiwa", "gambar AI tidak ada seninya") → `AU` (#20, #73). Ini mengubah perubahan v1 nomor 4: feel karya buatan tangan → `KV` hanya kalau dikaitkan dengan **tampilan iklan ini**. Alasan "AI meniru gambar yang sudah jadi" → `HC` (#60).
+25. **Orang atau budaya pengguna AI secara umum** (anak muda/staf yang cuma pakai generator, AI dikaitkan dengan konten cabul, ketergantungan manusia pada AI) → `AU` (#68, #70, #77).
+26. **Sindiran pendek yang menyebut pemakaian AI** ("Singkat padat pake ai 😑", "Mantap pake ai", "Absolute cinema bagi kominjomok") → `KO` (#23, #56, #85). Seruan tanpa sasaran ("WUIHH CANGGIH NYOO") dan ejekan organisasi yang gagal ("niru biar viral eh malah dihujat😂") → `EJ` (#11, #62). Hinaan ke AI secara umum tanpa alasan ("AI hanya untuk orang lemah") → `EJ` (#22).
+27. **Penekanan:** kalau komentar memuat dua alasan yang dirangkai ("tua bangka gak tau teknologi sampai parahnya tidak mendukung studio film anak bangsa"), `tema_utama` adalah alasan yang menjadi puncak kalimat (#72 → `PK`).
+
+**Pengecualian, bukan aturan:** #54 "Apa bende nih wee gk niat bikin" → `AU` (keputusan adjudikasi; menurut aturan di atas komentar serupa tetap `KO`).
+
 ## Hubungan dengan proposal dan topik BERTopic
 
 | Tema proposal | Kode | Topik BERTopic utama (pass 2) |
@@ -82,3 +96,4 @@ Ditambahkan saat Claude mengode 1.627 komentar, untuk pola pendek yang sering mu
 - v0 (2026-10-24): draf oleh Claude dari 25 topik pass 2, `themes_draft.csv` dan pilot 50 komentar. Dibanding `themes_draft.csv`: `anggaran_korupsi` diperluas menjadi `AK` (termasuk "perusahaan pelit", topik 22 dipindah dari kepantasan organisasi), dan `AU` ditambahkan dari topik 0.
 - v1 (2026-10-24): setelah kalibrasi. Zillan mengode 49 dari 50 komentar pilot tanpa melihat kode Claude (`kalibrasi_tema.xlsx`; kode "KP" dibaca `PK`, salah ketik yang dikonfirmasi Zillan). `tema_utama` cocok 28/49, κ = 0,484 (`kalibrasi_hasil.json`). Perubahan: (1) `PB` dihapus karena tidak cocok satu pun (Claude 6 PB, Zillan memberi EJ 3, KV 2, AK 1); perbandingan dikode menurut isinya (aturan 3). (2) Alasan tersirat tetap dikode; `EJ` hanya untuk komentar tanpa alasan (Zillan memakai EJ 16 kali, Claude 6). (3) "Cintai produk lokal tapi pakai AI" dipindah dari `KO` ke `PK`. (4) Feel/integritas karya buatan tangan dipindah dari `HC` ke `KV`; `HC` dibatasi pada hak cipta/izin/data latih. (5) `tema_kedua` dikosongkan kalau hanya ada satu alasan. Codebook v0 disimpan di `codebook_tema_v0.md`.
 - v1.1 (2026-10-24): konvensi 13–20 ditambahkan selama Claude mengode semua 1.627 komentar `tolak` (`kode_claude_v1.txt`), **sebelum** validasi buta dibuat, sehingga validator memakai versi yang sama dengan Claude. Konvensi ini merangkum keputusan Claude dan belum dikonfirmasi tim.
+- v2 (2026-10-24): setelah validasi buta. Seorang anggota tim mengode 100 komentar (`filled/validasi_tema_anmed.xlsx`) tanpa melihat kode Claude: cocok 55/100, **κ = 0,452** (`validasi_tema_hasil.json`). Validator memakai `AU` 22 kali (Claude 3). Zillan mengadjudikasi 45 ketidaksepakatan: 25 sesuai Claude, 16 sesuai validator, 4 kode lain (`adjudikasi_tema_hasil.json`); Claude v1 vs final 80/100, κ = 0,753; validator vs final 71/100, κ = 0,65. Aturan 21–27 ditambahkan. Claude membaca ulang kandidat komentar di luar sampel untuk tiap pola dan mengubah 14 kode (`perubahan_tema_v2_claude.csv`); hasil di `tema_final_v2.csv` (`relabel_tema_v2.py`). Codebook v1.1 disimpan di `codebook_tema_v1.md`.

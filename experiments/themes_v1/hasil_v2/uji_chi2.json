@@ -1,0 +1,42 @@
+{
+  "rq2_org_type": {
+    "chi2": 106.36,
+    "dof": 6,
+    "p": 1.18e-20,
+    "cramers_v": 0.256,
+    "n": 1624,
+    "note": "LT excluded (3 comments); comments are clustered in 7 cases, so p-values overstate certainty and are descriptive only"
+  },
+  "rq3_video_type": {
+    "chi2": 186.18,
+    "dof": 6,
+    "p": 1.65e-37,
+    "cramers_v": 0.339,
+    "n": 1624,
+    "note": "LT excluded (3 comments); comments are clustered in 7 cases, so p-values overstate certainty and are descriptive only"
+  },
+  "rq2_within_third_party": {
+    "chi2": 128.21,
+    "dof": 6,
+    "p": 3.06e-25,
+    "cramers_v": 0.361,
+    "n": 982,
+    "note": "LT excluded (3 comments); comments are clustered in 7 cases, so p-values overstate certainty and are descriptive only"
+  },
+  "rq2_within_reupload_archive": {
+    "chi2": 17.76,
+    "dof": 6,
+    "p": 0.00685,
+    "cramers_v": 0.166,
+    "n": 642,
+    "note": "LT excluded (3 comments); comments are clustered in 7 cases, so p-values overstate certainty and are descriptive only"
+  },
+  "robustness_org_type_credible_only": {
+    "chi2": 38.24,
+    "dof": 6,
+    "p": 1.01e-06,
+    "cramers_v": 0.336,
+    "n": 338,
+    "note": "LT excluded (3 comments); comments are clustered in 7 cases, so p-values overstate certainty and are descriptive only"
+  }
+}

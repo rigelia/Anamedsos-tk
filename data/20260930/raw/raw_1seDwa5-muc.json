@@ -1,0 +1,1850 @@
+{
+  "videoId": "1seDwa5-muc",
+  "retrievedAt": "2026-09-30T02:13:48Z",
+  "commentThreadPages": [
+    {
+      "kind": "youtube#commentThreadListResponse",
+      "etag": "xEWbkJ3rj57Oiv0W4auo4C9ds18",
+      "pageInfo": {
+        "totalResults": 21,
+        "resultsPerPage": 100
+      },
+      "items": [
+        {
+          "kind": "youtube#commentThread",
+          "etag": "KLFb0Vgn1ZPFWsUeuvcECWHqEqs",
+          "id": "Ugxb_IyMV44qFun1O114AaABAg",
+          "snippet": {
+            "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+            "videoId": "1seDwa5-muc",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "FZ5c6cRc1Wskz1phq6fH-IuJAIA",
+              "id": "Ugxb_IyMV44qFun1O114AaABAg",
+              "snippet": {
+                "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                "videoId": "1seDwa5-muc",
+                "textDisplay": "Artis monoton titit lu",
+                "textOriginal": "Artis monoton titit lu",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2026-03-13T09:36:36Z",
+                "updatedAt": "2026-03-13T09:36:36Z",
+                "authorHash": "ea3f70452bed1158"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "6wmEAztwTv_Mv9cTUGPfzzP2T7w",
+          "id": "UgxkcF5eCvnWgQQwzxZ4AaABAg",
+          "snippet": {
+            "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+            "videoId": "1seDwa5-muc",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "TQnypQoA3hOmvvA0dtLe59f2S50",
+              "id": "UgxkcF5eCvnWgQQwzxZ4AaABAg",
+              "snippet": {
+                "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                "videoId": "1seDwa5-muc",
+                "textDisplay": "ADUHHH COK XOK ANJINGGGG \nBukann masalah baguss apa ngganya anjinggg. emang bagus ya AI tuh emang bagus goblok, cuma kalo buat keperluan komersil atau publik gini, make AI buat iklan ya sama aja TOLOL. Karna kenapa? Lu gabisa kah liat banyak kecacatan di karya seni AI? Lu liat pasti tangannya pastiiii ada aja yg cacat. Dan inkonsistensi. TOLOLLLL TOLOLL PLISLAH KRITIS JADI MANUSIA. Desainer dan ilustrator dijamin 1000% lebih sempurna daripada karya AI. Bukannya ga mendukung perkembangan teknologi, ya kalo buat kepentingan pribadi semata ya gapapa, tapi ini buag iklan anjing gimana ga MEMALUKAN. \n\nMALU-MALUIN TAU GA IKLAN PAKE AI TUH!!",
+                "textOriginal": "ADUHHH COK XOK ANJINGGGG \nBukann masalah baguss apa ngganya anjinggg. emang bagus ya AI tuh emang bagus goblok, cuma kalo buat keperluan komersil atau publik gini, make AI buat iklan ya sama aja TOLOL. Karna kenapa? Lu gabisa kah liat banyak kecacatan di karya seni AI? Lu liat pasti tangannya pastiiii ada aja yg cacat. Dan inkonsistensi. TOLOLLLL TOLOLL PLISLAH KRITIS JADI MANUSIA. Desainer dan ilustrator dijamin 1000% lebih sempurna daripada karya AI. Bukannya ga mendukung perkembangan teknologi, ya kalo buat kepentingan pribadi semata ya gapapa, tapi ini buag iklan anjing gimana ga MEMALUKAN. \n\nMALU-MALUIN TAU GA IKLAN PAKE AI TUH!!",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2025-04-12T07:18:08Z",
+                "updatedAt": "2025-04-12T07:18:08Z",
+                "authorHash": "1e7e289910a07aa4"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "nirbNFRkYwTJ2TkUTHqdQ7u2LfA",
+          "id": "UgzviyT6iBjGixMRcf94AaABAg",
+          "snippet": {
+            "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+            "videoId": "1seDwa5-muc",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "UaUm4ggOtU0_XKvJCrN7c2yAw44",
+              "id": "UgzviyT6iBjGixMRcf94AaABAg",
+              "snippet": {
+                "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                "videoId": "1seDwa5-muc",
+                "textDisplay": "AI nya kayak mimpi, aneh dan acak",
+                "textOriginal": "AI nya kayak mimpi, aneh dan acak",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 2,
+                "publishedAt": "2025-04-08T16:39:49Z",
+                "updatedAt": "2025-04-08T16:39:49Z",
+                "authorHash": "08c3322140fb3be9"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "KRD_OWS_Q21XrnfylbWTTrK4XRc",
+          "id": "Ugz_ZvyOKoj-XS41KOV4AaABAg",
+          "snippet": {
+            "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+            "videoId": "1seDwa5-muc",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "l_EfKglBzEpzKp43zHvp2WF2L3o",
+              "id": "Ugz_ZvyOKoj-XS41KOV4AaABAg",
+              "snippet": {
+                "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                "videoId": "1seDwa5-muc",
+                "textDisplay": "Pucek indomie, halo mie sedap",
+                "textOriginal": "Pucek indomie, halo mie sedap",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 2,
+                "publishedAt": "2024-05-04T13:13:09Z",
+                "updatedAt": "2024-05-04T13:13:09Z",
+                "authorHash": "78d6c927585e2f8c"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "548aRUPNqyqSVvnznjYYHkarCBI",
+          "id": "Ugy3E59wmfBCG33IS2F4AaABAg",
+          "snippet": {
+            "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+            "videoId": "1seDwa5-muc",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "WSiIm3dZ7OVJK4614YUXJw2J_EI",
+              "id": "Ugy3E59wmfBCG33IS2F4AaABAg",
+              "snippet": {
+                "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                "videoId": "1seDwa5-muc",
+                "textDisplay": "Kalah sama MARZAN 😂😂😂",
+                "textOriginal": "Kalah sama MARZAN 😂😂😂",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 2,
+                "publishedAt": "2024-04-24T10:05:17Z",
+                "updatedAt": "2024-04-24T10:06:22Z",
+                "authorHash": "3bae34f007821948"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "VoEXJlpdvxiyt0LWp4YdX6R6AYU",
+          "id": "UgyiRgMbDiwGG4xpC_d4AaABAg",
+          "snippet": {
+            "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+            "videoId": "1seDwa5-muc",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "YYjozlAFWJV7THJZ77-ztoqq21I",
+              "id": "UgyiRgMbDiwGG4xpC_d4AaABAg",
+              "snippet": {
+                "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                "videoId": "1seDwa5-muc",
+                "textDisplay": "Emangnya kalo gak pake AI udah pasti 100% orisinil dan gak ikutin, terapin atau terinspirasi dari karya seniman / style orang lain, atau gak mencari ide dari karya2 orang lain di internet? Di kampus senirupa aja disuruh pelajarin karakter2 karya seniman2 terkenal.",
+                "textOriginal": "Emangnya kalo gak pake AI udah pasti 100% orisinil dan gak ikutin, terapin atau terinspirasi dari karya seniman / style orang lain, atau gak mencari ide dari karya2 orang lain di internet? Di kampus senirupa aja disuruh pelajarin karakter2 karya seniman2 terkenal.",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2024-04-19T19:34:08Z",
+                "updatedAt": "2024-04-19T19:34:08Z",
+                "authorHash": "772bbe6c4fa23030"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 3,
+            "isPublic": true
+          },
+          "replies": {
+            "comments": [
+              {
+                "kind": "youtube#comment",
+                "etag": "fMYDSJbkcBQuKPxaXINxLQK8Xvs",
+                "id": "UgyiRgMbDiwGG4xpC_d4AaABAg.A2QcMpl1gSPAGo8-h027i_",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "Pemborosan kalimat, lu nulis jelek banget bro\n\nLu bisa tulis aja gini :\nMemangnya kalo ga pakai AI udh 100% akurat? Bukankah artis banyak cari inspirasi di internet? \nGtu cok",
+                  "textOriginal": "Pemborosan kalimat, lu nulis jelek banget bro\n\nLu bisa tulis aja gini :\nMemangnya kalo ga pakai AI udh 100% akurat? Bukankah artis banyak cari inspirasi di internet? \nGtu cok",
+                  "parentId": "UgyiRgMbDiwGG4xpC_d4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2025-04-12T07:20:37Z",
+                  "updatedAt": "2025-04-12T07:20:37Z",
+                  "authorHash": "1e7e289910a07aa4"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "zZI0-gk5PP0MB-RReX3IR9gl-7w",
+                "id": "UgyiRgMbDiwGG4xpC_d4AaABAg.A2QcMpl1gSPAGo8U1YYMno",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "Jangan tolol dah, lu tolol apa gimana njir sorry aja yaa\n\nGua Seniman sejati dan emang IYA seni itu bukan masalah orisinalitas, tapi jiwa. Seniman klasik itu melukis alam atau orang lain. Sebenernya banyak alirannya dan lu gausah sok tau tentang seni kalau gapaham alirannya dan gabisa bedain. Dan seni itu tentang SEBERAPA BANYAK MELIHAT. Semakin banyak lu latihan mengimajinasikan dan melihat, itu semakin besar peluang menciptakan karya seni yang bagus. \n\n\nBlok blok anjir jangan pura-pura goblok plissss😭😭😭😿😿\"dikampus seni aja suruh pelajarin dari Seniman terkenal \" KAN NAMANYA JUGA PELAJARAN BROO. ASTAGAAAA. Emangnya Vincent van Gogh langsung bisa lukis malam berbintang?? Ngga lah dia juga latihan anjirrr cok cok aduhhhh kok aneh banget yaa pola pikirnya. \n\nIntinya seni itu tentang jiwa, bukan cuma orisinalitas atau jiplak atau estetika atau kemiripan apapun, lu bakal paham arti seni kalau sering mempelajarinya.",
+                  "textOriginal": "Jangan tolol dah, lu tolol apa gimana njir sorry aja yaa\n\nGua Seniman sejati dan emang IYA seni itu bukan masalah orisinalitas, tapi jiwa. Seniman klasik itu melukis alam atau orang lain. Sebenernya banyak alirannya dan lu gausah sok tau tentang seni kalau gapaham alirannya dan gabisa bedain. Dan seni itu tentang SEBERAPA BANYAK MELIHAT. Semakin banyak lu latihan mengimajinasikan dan melihat, itu semakin besar peluang menciptakan karya seni yang bagus. \n\n\nBlok blok anjir jangan pura-pura goblok plissss😭😭😭😿😿\"dikampus seni aja suruh pelajarin dari Seniman terkenal \" KAN NAMANYA JUGA PELAJARAN BROO. ASTAGAAAA. Emangnya Vincent van Gogh langsung bisa lukis malam berbintang?? Ngga lah dia juga latihan anjirrr cok cok aduhhhh kok aneh banget yaa pola pikirnya. \n\nIntinya seni itu tentang jiwa, bukan cuma orisinalitas atau jiplak atau estetika atau kemiripan apapun, lu bakal paham arti seni kalau sering mempelajarinya.",
+                  "parentId": "UgyiRgMbDiwGG4xpC_d4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2025-04-12T07:24:45Z",
+                  "updatedAt": "2025-04-12T07:24:45Z",
+                  "authorHash": "1e7e289910a07aa4"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "w8nPcKs91UfzCdMJMeit_T2gS4o",
+                "id": "UgyiRgMbDiwGG4xpC_d4AaABAg.A2QcMpl1gSPAGpKB7-gf5f",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "@user sok tau lu, gue gak cuma ngomongin cari inspirasi di internet. baca lagi bray.",
+                  "textOriginal": "@user sok tau lu, gue gak cuma ngomongin cari inspirasi di internet. baca lagi bray.",
+                  "parentId": "UgyiRgMbDiwGG4xpC_d4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2025-04-12T18:26:16Z",
+                  "updatedAt": "2025-04-12T18:26:16Z",
+                  "authorHash": "772bbe6c4fa23030"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "5S3vcVI8ZeOvOpa7kfaRL-w2bfA",
+          "id": "UgxuiB0ORm8EOiregXR4AaABAg",
+          "snippet": {
+            "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+            "videoId": "1seDwa5-muc",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "HLAjCqVVEdtOYiKw4OUtwwAeUt0",
+              "id": "UgxuiB0ORm8EOiregXR4AaABAg",
+              "snippet": {
+                "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                "videoId": "1seDwa5-muc",
+                "textDisplay": "Iklan ini bagus sebenrnya... klo g pake ai",
+                "textOriginal": "Iklan ini bagus sebenrnya... klo g pake ai",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 3,
+                "publishedAt": "2024-04-01T09:16:08Z",
+                "updatedAt": "2024-04-01T09:16:08Z",
+                "authorHash": "2aeae56bd928249c"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "WNokCdRE2w3cZRxC1kTJ_9s4Yks",
+          "id": "Ugzz8JXpweUzht10_y94AaABAg",
+          "snippet": {
+            "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+            "videoId": "1seDwa5-muc",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "hQ2p5vIIqXIxZTUgub8YPvB_o2U",
+              "id": "Ugzz8JXpweUzht10_y94AaABAg",
+              "snippet": {
+                "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                "videoId": "1seDwa5-muc",
+                "textDisplay": "Gak paham gua sama yang bilang bagus dan boleh-boleh aja.\nMasalahnya AI itu kasarnya nyolong art style ilustrator yg entah dr mana dr Internet. Bukan denial astaga 😂\nMinimal klo mau komen ngerti Hak Cipta dulu lah. Udah gtu iklannya sampe skrg masih ada di YT lagi 😂",
+                "textOriginal": "Gak paham gua sama yang bilang bagus dan boleh-boleh aja.\nMasalahnya AI itu kasarnya nyolong art style ilustrator yg entah dr mana dr Internet. Bukan denial astaga 😂\nMinimal klo mau komen ngerti Hak Cipta dulu lah. Udah gtu iklannya sampe skrg masih ada di YT lagi 😂",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 7,
+                "publishedAt": "2024-02-17T20:45:15Z",
+                "updatedAt": "2024-02-17T20:45:15Z",
+                "authorHash": "8d689be6d14248ec"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 2,
+            "isPublic": true
+          },
+          "replies": {
+            "comments": [
+              {
+                "kind": "youtube#comment",
+                "etag": "m8-MkMqi957oMExcJqBp2RA8Qos",
+                "id": "Ugzz8JXpweUzht10_y94AaABAg.A-w6DWGz69QAGo7n_42c5Y",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "Wkkwkw asli dah heran banget",
+                  "textOriginal": "Wkkwkw asli dah heran banget",
+                  "parentId": "Ugzz8JXpweUzht10_y94AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2025-04-12T07:18:50Z",
+                  "updatedAt": "2025-04-12T07:18:50Z",
+                  "authorHash": "1e7e289910a07aa4"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "3FGrUQ0_-fmX0rueVNvErTUT070",
+                "id": "Ugzz8JXpweUzht10_y94AaABAg.A-w6DWGz69QAHbDsBzVr86",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "Gak perlu heran, game favorit Indo aja game tukang plagiat. Mana dibela dah kek agama ​@user",
+                  "textOriginal": "Gak perlu heran, game favorit Indo aja game tukang plagiat. Mana dibela dah kek agama ​@user",
+                  "parentId": "Ugzz8JXpweUzht10_y94AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2025-05-02T03:33:09Z",
+                  "updatedAt": "2025-05-02T03:33:09Z",
+                  "authorHash": "942f6a3fd31ea367"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "dJFxdf5qLtrX1yXOV6-OXkf9QRw",
+          "id": "Ugw1X1sD_IRJL87kzDZ4AaABAg",
+          "snippet": {
+            "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+            "videoId": "1seDwa5-muc",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "yog308M0lp4xSzdSaAj_99ehlbc",
+              "id": "Ugw1X1sD_IRJL87kzDZ4AaABAg",
+              "snippet": {
+                "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                "videoId": "1seDwa5-muc",
+                "textDisplay": "Gembel malah make AI buatan yahudi. Yg sok2an anak IT coba buktikan coding ai kelen, jgn koar2 bilang pemrograman itu sulit tapi kelen sendiri tholool dlm coding, hanya mampu buat hello world cuih",
+                "textOriginal": "Gembel malah make AI buatan yahudi. Yg sok2an anak IT coba buktikan coding ai kelen, jgn koar2 bilang pemrograman itu sulit tapi kelen sendiri tholool dlm coding, hanya mampu buat hello world cuih",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 2,
+                "publishedAt": "2024-01-23T10:42:54Z",
+                "updatedAt": "2024-01-23T10:42:54Z",
+                "authorHash": "0728335e5b7e23ed"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "oE1zz-K1XCKaDX9A8aD75u5PKN8",
+          "id": "Ugw_6XUqk4eFuOsUsmB4AaABAg",
+          "snippet": {
+            "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+            "videoId": "1seDwa5-muc",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "WT0bBSjEXRXWUJ3mu7q4B8IiQp0",
+              "id": "Ugw_6XUqk4eFuOsUsmB4AaABAg",
+              "snippet": {
+                "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                "videoId": "1seDwa5-muc",
+                "textDisplay": "Ganti aja jadi indo9mie",
+                "textOriginal": "Ganti aja jadi indo9mie",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 6,
+                "publishedAt": "2024-01-23T10:41:39Z",
+                "updatedAt": "2024-01-23T10:41:39Z",
+                "authorHash": "0728335e5b7e23ed"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "H0B4rYrpFkITMon82G9JgRODVtQ",
+          "id": "Ugw1Rt_9O3ufnijgNKd4AaABAg",
+          "snippet": {
+            "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+            "videoId": "1seDwa5-muc",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "jQZojn3LxBvgHdyPZSfEksHBP0s",
+              "id": "Ugw1Rt_9O3ufnijgNKd4AaABAg",
+              "snippet": {
+                "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                "videoId": "1seDwa5-muc",
+                "textDisplay": "kenapa dihujat?\n\n1. Animenya ga bagus, gambarnya ga konsisten\n2. AI art itu secara hukum nyalahin hak cipta karena dia dilatih dengan gambar-gambar buatan artist manusia\n3. Kalo perusahaan pada pake AI art, ntar desainer, animator, dll. mau kerja apa? Ntar pengangguran nambah yang disalahin pemerintah lagi",
+                "textOriginal": "kenapa dihujat?\n\n1. Animenya ga bagus, gambarnya ga konsisten\n2. AI art itu secara hukum nyalahin hak cipta karena dia dilatih dengan gambar-gambar buatan artist manusia\n3. Kalo perusahaan pada pake AI art, ntar desainer, animator, dll. mau kerja apa? Ntar pengangguran nambah yang disalahin pemerintah lagi",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 20,
+                "publishedAt": "2023-11-28T06:07:55Z",
+                "updatedAt": "2023-11-28T06:07:55Z",
+                "authorHash": "a74bffc2a645f32b"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 2,
+            "isPublic": true
+          },
+          "replies": {
+            "comments": [
+              {
+                "kind": "youtube#comment",
+                "etag": "Y1K1xy_5hGo2IhVA9RODDc7xAFo",
+                "id": "Ugw1Rt_9O3ufnijgNKd4AaABAg.9xdyQkSe9aD9zjP1Ju-GrS",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "no 1. setuju.\nno 2. relatif. kalau yang bikin source gambarnya itu dari artist2 manusia yang emang udah under contract sama indomie (yang kemudian di train jadi dataset animasi ini), artinya hak ciptanya punya indomie. Itu ga masalah. Adobe firefly juga bikin AI image. secara hak cipta mereka safe 100% soalnya semua datanya dari awal udah copyright mereka, dan kalau u pake image dari adobe firefly buat bikin AI komersil, hasilnya juga legal, sama seperti yang mereka state di web mereka. \nno 3. Kalau pemerintah ga siap bikin lapangan pekerjaan baru, yah mau ga mau artistnya yang harus adapt. pas revolusi industri jadi banyak mesin otomatis, labor2 pada banyak dipecat, terdengar kejam...tapi yah itulah kemajuan zaman.",
+                  "textOriginal": "no 1. setuju.\nno 2. relatif. kalau yang bikin source gambarnya itu dari artist2 manusia yang emang udah under contract sama indomie (yang kemudian di train jadi dataset animasi ini), artinya hak ciptanya punya indomie. Itu ga masalah. Adobe firefly juga bikin AI image. secara hak cipta mereka safe 100% soalnya semua datanya dari awal udah copyright mereka, dan kalau u pake image dari adobe firefly buat bikin AI komersil, hasilnya juga legal, sama seperti yang mereka state di web mereka. \nno 3. Kalau pemerintah ga siap bikin lapangan pekerjaan baru, yah mau ga mau artistnya yang harus adapt. pas revolusi industri jadi banyak mesin otomatis, labor2 pada banyak dipecat, terdengar kejam...tapi yah itulah kemajuan zaman.",
+                  "parentId": "Ugw1Rt_9O3ufnijgNKd4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 4,
+                  "publishedAt": "2024-01-19T01:48:06Z",
+                  "updatedAt": "2024-01-19T01:48:06Z",
+                  "authorHash": "b38b9796faae33ff"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "g17uU2BHkdtenszyxjvzZaWydjo",
+                "id": "Ugw1Rt_9O3ufnijgNKd4AaABAg.9xdyQkSe9aDAGo7lcg7tuU",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "SETUJUU",
+                  "textOriginal": "SETUJUU",
+                  "parentId": "Ugw1Rt_9O3ufnijgNKd4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2025-04-12T07:18:34Z",
+                  "updatedAt": "2025-04-12T07:18:34Z",
+                  "authorHash": "1e7e289910a07aa4"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "5GT26n4ccUbVLJzclKjL-GbAiGA",
+          "id": "UgyjLTrJj8_rqZat9QV4AaABAg",
+          "snippet": {
+            "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+            "videoId": "1seDwa5-muc",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "6Zp862tJ14ar8iaXL0917cbOQFY",
+              "id": "UgyjLTrJj8_rqZat9QV4AaABAg",
+              "snippet": {
+                "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                "videoId": "1seDwa5-muc",
+                "textDisplay": "Yg komplein ibarat orang purba yg baru liat gadget",
+                "textOriginal": "Yg komplein ibarat orang purba yg baru liat gadget",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2023-11-21T20:48:35Z",
+                "updatedAt": "2023-11-21T20:48:35Z",
+                "authorHash": "32e2239774d17d01"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 18,
+            "isPublic": true
+          },
+          "replies": {
+            "comments": [
+              {
+                "kind": "youtube#comment",
+                "etag": "vN_ijL536g_XfvQd0QDQxtlBdyU",
+                "id": "UgyjLTrJj8_rqZat9QV4AaABAg.9xOWdw8_6yA9zue9CWtGkm",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "Lu sdm rendah",
+                  "textOriginal": "Lu sdm rendah",
+                  "parentId": "UgyjLTrJj8_rqZat9QV4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 6,
+                  "publishedAt": "2024-01-23T10:40:38Z",
+                  "updatedAt": "2024-01-23T10:40:38Z",
+                  "authorHash": "0728335e5b7e23ed"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "Prxx6kLlR9Q7XLKvgnqjeIU-3lc",
+                "id": "UgyjLTrJj8_rqZat9QV4AaABAg.9xOWdw8_6yAA-cpNeJ-Axq",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "Lu kalau ga tau ai itu apa dan cara kerjanya mending diem dek",
+                  "textOriginal": "Lu kalau ga tau ai itu apa dan cara kerjanya mending diem dek",
+                  "parentId": "UgyjLTrJj8_rqZat9QV4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 3,
+                  "publishedAt": "2024-02-10T09:03:47Z",
+                  "updatedAt": "2024-02-10T09:03:47Z",
+                  "authorHash": "fe2bce8322f82746"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "P4F94JmlbLZhUZfOD6NP6vjA7TI",
+                "id": "UgyjLTrJj8_rqZat9QV4AaABAg.9xOWdw8_6yAA-cvj57r3W8",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "@user lah elu ngatain diri sendiri 😂",
+                  "textOriginal": "@user lah elu ngatain diri sendiri 😂",
+                  "parentId": "UgyjLTrJj8_rqZat9QV4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2024-02-10T09:59:16Z",
+                  "updatedAt": "2024-06-18T03:27:37Z",
+                  "authorHash": "32e2239774d17d01"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "J-GrI19s_Z6RJGZHDFELa4EWo_k",
+                "id": "UgyjLTrJj8_rqZat9QV4AaABAg.9xOWdw8_6yAA-cvl4nEA7F",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "@user iya si bau tanah",
+                  "textOriginal": "@user iya si bau tanah",
+                  "parentId": "UgyjLTrJj8_rqZat9QV4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2024-02-10T09:59:33Z",
+                  "updatedAt": "2024-06-18T03:27:37Z",
+                  "authorHash": "32e2239774d17d01"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "dhDnHuljVLx4KvkLXstu8Q89hgU",
+                "id": "UgyjLTrJj8_rqZat9QV4AaABAg.9xOWdw8_6yAA-cvryQX8Ck",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "@user lu komplain? , sdm rendah lu berarti 😂",
+                  "textOriginal": "@user lu komplain? , sdm rendah lu berarti 😂",
+                  "parentId": "UgyjLTrJj8_rqZat9QV4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2024-02-10T10:00:29Z",
+                  "updatedAt": "2024-06-18T03:27:37Z",
+                  "authorHash": "32e2239774d17d01"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "N08JTdBx_3DQTa96aH3Lzqy4dXA",
+          "id": "UgzlUBdmTx8jguqYFqN4AaABAg",
+          "snippet": {
+            "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+            "videoId": "1seDwa5-muc",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "XWTTiDpcie_H8s-T_N1Xx0BLeos",
+              "id": "UgzlUBdmTx8jguqYFqN4AaABAg",
+              "snippet": {
+                "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                "videoId": "1seDwa5-muc",
+                "textDisplay": "Indomie Tetap Dihati 🖤❤️ Always",
+                "textOriginal": "Indomie Tetap Dihati 🖤❤️ Always",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2023-10-29T20:54:22Z",
+                "updatedAt": "2023-10-29T20:54:22Z",
+                "authorHash": "791979310910097c"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+          },
+          "replies": {
+            "comments": [
+              {
+                "kind": "youtube#comment",
+                "etag": "OUHrQx_1VvTnG6g0Xx-4bwyb2U4",
+                "id": "UgzlUBdmTx8jguqYFqN4AaABAg.9wTJ16sMTeRA5OG421y5hD",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "Betul😊",
+                  "textOriginal": "Betul😊",
+                  "parentId": "UgzlUBdmTx8jguqYFqN4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2024-07-02T11:06:18Z",
+                  "updatedAt": "2024-07-02T11:06:18Z",
+                  "authorHash": "b3ae5a57047d5c3e"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "6bmZYg3Y1U05y-GDIPs2y8o-L80",
+          "id": "UgwZmwrqYWzBvl-nDOB4AaABAg",
+          "snippet": {
+            "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+            "videoId": "1seDwa5-muc",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "MbVNxUuqy57ySKMH3xbnOQ0eAGo",
+              "id": "UgwZmwrqYWzBvl-nDOB4AaABAg",
+              "snippet": {
+                "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                "videoId": "1seDwa5-muc",
+                "textDisplay": "\"kenapa?\" Pake nanya 😂\nDisini keliatan banget yg komen rata\" antara anak muda yg kurang berpengetahuan atau bapak\" normies yg baru tau AI dari hasil nonton berita dengan durasi kurang dari 5 menit wkwk, kacau... Netizen.\nKalian bahkan tidak tau apa hukumnya, cara kerjanya, kode etiknya, penggunaanya, definisinya, dampak negatifnya, serta dampak dari perusahaan sebesar Indomie make AI buat animasi iklannya.😂\nAlangkah baiknya pelajari dulu apa yg mau anda komentari sebelum anda berkomentar, biar ga keliatan kurang pengetahuannya.\nDisini banyak banget orang ga sadar diri, masa iya ada yg bilang mending balik ke zaman batu kalo ga bisa terima iklan dibuat pake AI, sampe dikatain primitif 😂, sungguh tidak sadar diri",
+                "textOriginal": "\"kenapa?\" Pake nanya 😂\nDisini keliatan banget yg komen rata\" antara anak muda yg kurang berpengetahuan atau bapak\" normies yg baru tau AI dari hasil nonton berita dengan durasi kurang dari 5 menit wkwk, kacau... Netizen.\nKalian bahkan tidak tau apa hukumnya, cara kerjanya, kode etiknya, penggunaanya, definisinya, dampak negatifnya, serta dampak dari perusahaan sebesar Indomie make AI buat animasi iklannya.😂\nAlangkah baiknya pelajari dulu apa yg mau anda komentari sebelum anda berkomentar, biar ga keliatan kurang pengetahuannya.\nDisini banyak banget orang ga sadar diri, masa iya ada yg bilang mending balik ke zaman batu kalo ga bisa terima iklan dibuat pake AI, sampe dikatain primitif 😂, sungguh tidak sadar diri",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 15,
+                "publishedAt": "2023-10-26T04:58:14Z",
+                "updatedAt": "2023-10-26T05:05:57Z",
+                "authorHash": "faa5e91260ab2b81"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 9,
+            "isPublic": true
+          },
+          "replies": {
+            "comments": [
+              {
+                "kind": "youtube#comment",
+                "etag": "pwIn_eK3rzdcQ7Adv_aW_zXw7TQ",
+                "id": "UgwZmwrqYWzBvl-nDOB4AaABAg.9wJsDa3lBuE9zjOQZCrMMD",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "tapi apakah yg hujat udah riset nanya ke indomie mereka bikin AI nya pake data ngambil tanpa izin atau mereka bikin data set sendiri pakai source dari licensed file yang udah mereka owned sendiri? netizen emang terlalu banyak cepet nge judge ini bener ini salah, data-datanya aja belom ada lol",
+                  "textOriginal": "tapi apakah yg hujat udah riset nanya ke indomie mereka bikin AI nya pake data ngambil tanpa izin atau mereka bikin data set sendiri pakai source dari licensed file yang udah mereka owned sendiri? netizen emang terlalu banyak cepet nge judge ini bener ini salah, data-datanya aja belom ada lol",
+                  "parentId": "UgwZmwrqYWzBvl-nDOB4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 3,
+                  "publishedAt": "2024-01-19T01:42:49Z",
+                  "updatedAt": "2024-01-19T01:42:49Z",
+                  "authorHash": "b38b9796faae33ff"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "B0kOTVkIz3Baa66AAyULxXnkQAg",
+                "id": "UgwZmwrqYWzBvl-nDOB4AaABAg.9wJsDa3lBuEA-i8khLt9KT",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "AI itu Yahudi dek dan menggunakan AI itu sama saja mendukung Israel",
+                  "textOriginal": "AI itu Yahudi dek dan menggunakan AI itu sama saja mendukung Israel",
+                  "parentId": "UgwZmwrqYWzBvl-nDOB4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 5,
+                  "publishedAt": "2024-02-12T10:38:02Z",
+                  "updatedAt": "2024-02-12T10:38:02Z",
+                  "authorHash": "54aec0b61f26c558"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "mGf-B1bX0E-udlZCgm6qZSiJDE0",
+                "id": "UgwZmwrqYWzBvl-nDOB4AaABAg.9wJsDa3lBuEA0VTYSBiZ9-",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "@user kalau begitu jangan pakai smartphone atau komputer ka. soalnya smartphone dan komputer juga memakai artificial intelligence 🤣",
+                  "textOriginal": "@user kalau begitu jangan pakai smartphone atau komputer ka. soalnya smartphone dan komputer juga memakai artificial intelligence 🤣",
+                  "parentId": "UgwZmwrqYWzBvl-nDOB4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 1,
+                  "publishedAt": "2024-03-02T23:41:45Z",
+                  "updatedAt": "2024-06-17T23:17:33Z",
+                  "authorHash": "b38b9796faae33ff"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "Moi60Ao6ALvZP7eQcFRucPBZWMQ",
+                "id": "UgwZmwrqYWzBvl-nDOB4AaABAg.9wJsDa3lBuEA0VgewGU3FE",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "@user Yokko? AI model apa dulu ni dek. AI itu jenisnya ada macam2 ya dek. AI yg ku maksud itu AI sejenis Picture kyk AI Disney",
+                  "textOriginal": "@user Yokko? AI model apa dulu ni dek. AI itu jenisnya ada macam2 ya dek. AI yg ku maksud itu AI sejenis Picture kyk AI Disney",
+                  "parentId": "UgwZmwrqYWzBvl-nDOB4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 3,
+                  "publishedAt": "2024-03-03T01:45:06Z",
+                  "updatedAt": "2024-06-17T23:17:33Z",
+                  "authorHash": "54aec0b61f26c558"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "fnSlc7cfVBVS1VtRsqmxB6yWPC0",
+                "id": "UgwZmwrqYWzBvl-nDOB4AaABAg.9wJsDa3lBuEA0VgijbqFmt",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "@user Mending lu mulung barang bekas aja dek 🤣🤣",
+                  "textOriginal": "@user Mending lu mulung barang bekas aja dek 🤣🤣",
+                  "parentId": "UgwZmwrqYWzBvl-nDOB4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 2,
+                  "publishedAt": "2024-03-03T01:45:38Z",
+                  "updatedAt": "2024-06-17T23:17:33Z",
+                  "authorHash": "54aec0b61f26c558"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "nosxf2erA4W3sc4ky1LBiwIsMxs",
+          "id": "UgxdYL8n0C8gwsWv-m54AaABAg",
+          "snippet": {
+            "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+            "videoId": "1seDwa5-muc",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "sMCxsx3Ot20qbwhCT1M43y00dyY",
+              "id": "UgxdYL8n0C8gwsWv-m54AaABAg",
+              "snippet": {
+                "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                "videoId": "1seDwa5-muc",
+                "textDisplay": "bang, info dari desainer nya bang",
+                "textOriginal": "bang, info dari desainer nya bang",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2023-10-16T04:28:57Z",
+                "updatedAt": "2023-10-16T04:28:57Z",
+                "authorHash": "14173bbc8f1e3372"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "5PKHgOEb87mEUYg22SxEouJrgR0",
+          "id": "Ugwc2Y06pWwx5FqK_1d4AaABAg",
+          "snippet": {
+            "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+            "videoId": "1seDwa5-muc",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "3fBb8OHF2Y_UEQxyO__kjgpOxxY",
+              "id": "Ugwc2Y06pWwx5FqK_1d4AaABAg",
+              "snippet": {
+                "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                "videoId": "1seDwa5-muc",
+                "textDisplay": "goblok ato ap?\ngk tw hak cipta itu ap emang?\norg org pendukung ai trash emg otaknya pasaran anjing",
+                "textOriginal": "goblok ato ap?\ngk tw hak cipta itu ap emang?\norg org pendukung ai trash emg otaknya pasaran anjing",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2023-10-14T11:52:21Z",
+                "updatedAt": "2023-10-14T11:52:21Z",
+                "authorHash": "8f0b4a9967ecb041"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "VInOsSaq5BllbJOC-87KOVmZwi8",
+          "id": "UgzEfSP5aL3-LH9aWU54AaABAg",
+          "snippet": {
+            "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+            "videoId": "1seDwa5-muc",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "oArLZ-s9BCHVTDJhbzXEglBj-Ck",
+              "id": "UgzEfSP5aL3-LH9aWU54AaABAg",
+              "snippet": {
+                "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                "videoId": "1seDwa5-muc",
+                "textDisplay": "Ya begitulah netizen indo kayak T*i.. segala sesuatu di medsos yg ga sreg dgn opini pribadi,  dianggap salah",
+                "textOriginal": "Ya begitulah netizen indo kayak T*i.. segala sesuatu di medsos yg ga sreg dgn opini pribadi,  dianggap salah",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 3,
+                "publishedAt": "2023-10-10T23:03:42Z",
+                "updatedAt": "2023-10-10T23:03:42Z",
+                "authorHash": "7acdacb60e488b36"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 3,
+            "isPublic": true
+          },
+          "replies": {
+            "comments": [
+              {
+                "kind": "youtube#comment",
+                "etag": "iy9WIRAJ_4OiP8UMky-tQ4LbQqk",
+                "id": "UgzEfSP5aL3-LH9aWU54AaABAg.9vhbijtoYKP9w-ok17gzfo",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "Tolol sih lu bang\n\nKlo misal iklan ini di sebar ke luar pasti banyak yang protes juga bang... Lu seakan akan ngatain orang indo doang blok",
+                  "textOriginal": "Tolol sih lu bang\n\nKlo misal iklan ini di sebar ke luar pasti banyak yang protes juga bang... Lu seakan akan ngatain orang indo doang blok",
+                  "parentId": "UgzEfSP5aL3-LH9aWU54AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2023-10-18T10:03:02Z",
+                  "updatedAt": "2023-10-18T10:03:02Z",
+                  "authorHash": "85d0df60f26fd568"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "h4-kZazs92QVp_3pvTa-d-ZqZD4",
+                "id": "UgzEfSP5aL3-LH9aWU54AaABAg.9vhbijtoYKP9zue82EVFnd",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "Raditya gembel dan sdm rendah",
+                  "textOriginal": "Raditya gembel dan sdm rendah",
+                  "parentId": "UgzEfSP5aL3-LH9aWU54AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 1,
+                  "publishedAt": "2024-01-23T10:40:28Z",
+                  "updatedAt": "2024-01-23T10:40:28Z",
+                  "authorHash": "0728335e5b7e23ed"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "ax_YHLBDUjw8m-VJOQDUikvSx4M",
+                "id": "UgzEfSP5aL3-LH9aWU54AaABAg.9vhbijtoYKPAGo8lGxn3P5",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "Wkwkwk asli",
+                  "textOriginal": "Wkwkwk asli",
+                  "parentId": "UgzEfSP5aL3-LH9aWU54AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2025-04-12T07:27:15Z",
+                  "updatedAt": "2025-04-12T07:27:15Z",
+                  "authorHash": "1e7e289910a07aa4"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "lV5XhEqdC73o9RWPNuX9xpc-hDI",
+          "id": "Ugxf-31K_HJm-nGm8b54AaABAg",
+          "snippet": {
+            "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+            "videoId": "1seDwa5-muc",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "MYF_bS_x9FkhZZqoYdAzQ3FzE6M",
+              "id": "Ugxf-31K_HJm-nGm8b54AaABAg",
+              "snippet": {
+                "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                "videoId": "1seDwa5-muc",
+                "textDisplay": "Biasa SDM indo rata² rendah, alias bego²",
+                "textOriginal": "Biasa SDM indo rata² rendah, alias bego²",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2023-10-10T19:44:00Z",
+                "updatedAt": "2023-10-10T19:44:00Z",
+                "authorHash": "dbd7ce0612001332"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "B805HREZTIexF-wtJ6zlrgdRklg",
+          "id": "UgxPf9UAehu1ObWjpAR4AaABAg",
+          "snippet": {
+            "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+            "videoId": "1seDwa5-muc",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "EAypIN5Pc1EwSXBwVTypiYTMNU8",
+              "id": "UgxPf9UAehu1ObWjpAR4AaABAg",
+              "snippet": {
+                "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                "videoId": "1seDwa5-muc",
+                "textDisplay": "Kupikir awalnya ini masi animasi 2d tapi ai ya",
+                "textOriginal": "Kupikir awalnya ini masi animasi 2d tapi ai ya",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 4,
+                "publishedAt": "2023-10-10T17:50:46Z",
+                "updatedAt": "2023-10-10T17:50:46Z",
+                "authorHash": "647a060144a5e59d"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+          },
+          "replies": {
+            "comments": [
+              {
+                "kind": "youtube#comment",
+                "etag": "JD-LOWoQMQG4E_vAZ49xCzVOV_I",
+                "id": "UgxPf9UAehu1ObWjpAR4AaABAg.9vh2ujYU4Y3A5OG8JTmCpy",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "Nahh Itu Animasi 2D😊",
+                  "textOriginal": "Nahh Itu Animasi 2D😊",
+                  "parentId": "UgxPf9UAehu1ObWjpAR4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2024-07-02T11:06:53Z",
+                  "updatedAt": "2024-07-02T11:06:53Z",
+                  "authorHash": "b3ae5a57047d5c3e"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "Cr39JdMtsK796LBmJYpAreyIRiQ",
+          "id": "Ugw9vJAjXfor30lnX5B4AaABAg",
+          "snippet": {
+            "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+            "videoId": "1seDwa5-muc",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "g1pX2DFdaUR4-SAqoggQpyi2kBs",
+              "id": "Ugw9vJAjXfor30lnX5B4AaABAg",
+              "snippet": {
+                "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                "videoId": "1seDwa5-muc",
+                "textDisplay": "Kenapa gitu? Liat judul 😂\n\n\nBro can hire a studio to make an animation, they use an ai filter instead\nSkalinya ada yg beda pada protes? Lah buka dulu matamu, yg diprotes tu bukan visualnya tp lebih dalam lagi yaitu asal usul pembuatannya yg nyalahin hak cipta (lgi ngomongin yg komen ig)",
+                "textOriginal": "Kenapa gitu? Liat judul 😂\n\n\nBro can hire a studio to make an animation, they use an ai filter instead\nSkalinya ada yg beda pada protes? Lah buka dulu matamu, yg diprotes tu bukan visualnya tp lebih dalam lagi yaitu asal usul pembuatannya yg nyalahin hak cipta (lgi ngomongin yg komen ig)",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 9,
+                "publishedAt": "2023-10-10T15:25:36Z",
+                "updatedAt": "2023-10-10T15:29:27Z",
+                "authorHash": "0a10e57421602d28"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+          },
+          "replies": {
+            "comments": [
+              {
+                "kind": "youtube#comment",
+                "etag": "Jg0HEl9wQdxtOi1LIReYz2dr9Qw",
+                "id": "Ugw9vJAjXfor30lnX5B4AaABAg.9vgnIX5JvucAGo7rI6mYoY",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "Asli dah wkwkkw aneh banget njir orang indo",
+                  "textOriginal": "Asli dah wkwkkw aneh banget njir orang indo",
+                  "parentId": "Ugw9vJAjXfor30lnX5B4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 1,
+                  "publishedAt": "2025-04-12T07:19:20Z",
+                  "updatedAt": "2025-04-12T07:19:20Z",
+                  "authorHash": "1e7e289910a07aa4"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "TUk6SoKZJNhDa3uwGgRbhuhuCFM",
+          "id": "UgyL-6KObgEGs7sytLB4AaABAg",
+          "snippet": {
+            "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+            "videoId": "1seDwa5-muc",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "ZP_TMX9KAXpDZExrjBrvNB3hgKk",
+              "id": "UgyL-6KObgEGs7sytLB4AaABAg",
+              "snippet": {
+                "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                "videoId": "1seDwa5-muc",
+                "textDisplay": "bagus ya bagus tapi gk etis namanya",
+                "textOriginal": "bagus ya bagus tapi gk etis namanya",
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 23,
+                "publishedAt": "2023-10-09T07:24:18Z",
+                "updatedAt": "2023-10-09T07:24:18Z",
+                "authorHash": "81c41607bab70ab2"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 11,
+            "isPublic": true
+          },
+          "replies": {
+            "comments": [
+              {
+                "kind": "youtube#comment",
+                "etag": "ROg_mCGWwYDreW8D8wM86CqAQj4",
+                "id": "UgyL-6KObgEGs7sytLB4AaABAg.9vdMQX2ks9_9vgaWnU6iaU",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "Gak etis maksudnya?",
+                  "textOriginal": "Gak etis maksudnya?",
+                  "parentId": "UgyL-6KObgEGs7sytLB4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 1,
+                  "publishedAt": "2023-10-10T13:33:57Z",
+                  "updatedAt": "2023-10-10T13:33:57Z",
+                  "authorHash": "88e5eb4e7b0a9308"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "OYxhPeLd1mm6Q4W18eHjEwRelac",
+                "id": "UgyL-6KObgEGs7sytLB4AaABAg.9vdMQX2ks9_9vh0cULpd9D",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "Ga etis gmna? Jelaskan",
+                  "textOriginal": "Ga etis gmna? Jelaskan",
+                  "parentId": "UgyL-6KObgEGs7sytLB4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 1,
+                  "publishedAt": "2023-10-10T17:30:48Z",
+                  "updatedAt": "2023-10-10T17:30:48Z",
+                  "authorHash": "00d46a55831c5881"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "2TG5wyYqI1Y5mtmM7i1wQPgSvB0",
+                "id": "UgyL-6KObgEGs7sytLB4AaABAg.9vdMQX2ks9_9vhaQp6q2aq",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "Mungkin karena iklannya iklan indonesia, iklannya iklan indonesia malah pake style anime",
+                  "textOriginal": "Mungkin karena iklannya iklan indonesia, iklannya iklan indonesia malah pake style anime",
+                  "parentId": "UgyL-6KObgEGs7sytLB4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2023-10-10T22:52:23Z",
+                  "updatedAt": "2023-10-10T22:52:23Z",
+                  "authorHash": "755b0f55cb1fa316"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "CLyAQJXufXDHTLOSiTJwFJda5mE",
+                "id": "UgyL-6KObgEGs7sytLB4AaABAg.9vdMQX2ks9_9vjB9U2nG7n",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "Enggak, soalnya Ai tuh pake art orang buat generate \"art\" nya, dan Ai generate ini termasuk mencuri art orang",
+                  "textOriginal": "Enggak, soalnya Ai tuh pake art orang buat generate \"art\" nya, dan Ai generate ini termasuk mencuri art orang",
+                  "parentId": "UgyL-6KObgEGs7sytLB4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 13,
+                  "publishedAt": "2023-10-11T13:41:18Z",
+                  "updatedAt": "2023-10-11T13:41:18Z",
+                  "authorHash": "4fc5857d85de6d9e"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "7h-_GMTngilOoiyIwAFSd_oUahA",
+                "id": "UgyL-6KObgEGs7sytLB4AaABAg.9vdMQX2ks9_9vjBNCg-0HQ",
+                "snippet": {
+                  "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                  "videoId": "1seDwa5-muc",
+                  "textDisplay": "Saya sebagai seniman juga agak nyesek setiap liat ada orang pakai Ai art, apalagi ini bukan cuma buat latihan gambar aja, tapi udah di jadikan iklan",
+                  "textOriginal": "Saya sebagai seniman juga agak nyesek setiap liat ada orang pakai Ai art, apalagi ini bukan cuma buat latihan gambar aja, tapi udah di jadikan iklan",
+                  "parentId": "UgyL-6KObgEGs7sytLB4AaABAg",
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 9,
+                  "publishedAt": "2023-10-11T13:43:10Z",
+                  "updatedAt": "2023-10-11T13:43:10Z",
+                  "authorHash": "4fc5857d85de6d9e"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "additionalReplyPages": {
+    "UgyjLTrJj8_rqZat9QV4AaABAg": [
+      {
+        "kind": "youtube#commentListResponse",
+        "etag": "979BRx_0yzp3bPwxJX-eFe6VDGc",
+        "pageInfo": {
+          "resultsPerPage": 100
+        },
+        "items": [
+          {
+            "kind": "youtube#comment",
+            "etag": "mrzVL8ggnwaFe4dq41GHjlL0_MI",
+            "id": "UgyjLTrJj8_rqZat9QV4AaABAg.9xOWdw8_6yA9zue9CWtGkm",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "Lu sdm rendah",
+              "textOriginal": "Lu sdm rendah",
+              "parentId": "UgyjLTrJj8_rqZat9QV4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 6,
+              "publishedAt": "2024-01-23T10:40:38Z",
+              "updatedAt": "2024-01-23T10:40:38Z",
+              "authorHash": "0728335e5b7e23ed"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "VvmEWmJMiFGEteqF0uMRqjEKa8Y",
+            "id": "UgyjLTrJj8_rqZat9QV4AaABAg.9xOWdw8_6yAA-cpNeJ-Axq",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "Lu kalau ga tau ai itu apa dan cara kerjanya mending diem dek",
+              "textOriginal": "Lu kalau ga tau ai itu apa dan cara kerjanya mending diem dek",
+              "parentId": "UgyjLTrJj8_rqZat9QV4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 3,
+              "publishedAt": "2024-02-10T09:03:47Z",
+              "updatedAt": "2024-02-10T09:03:47Z",
+              "authorHash": "fe2bce8322f82746"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "fQmS2tA-RzvHDqplRshEyOwnZK0",
+            "id": "UgyjLTrJj8_rqZat9QV4AaABAg.9xOWdw8_6yAA-cvj57r3W8",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "@user lah elu ngatain diri sendiri 😂",
+              "textOriginal": "@user lah elu ngatain diri sendiri 😂",
+              "parentId": "UgyjLTrJj8_rqZat9QV4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2024-02-10T09:59:16Z",
+              "updatedAt": "2024-06-18T03:27:37Z",
+              "authorHash": "32e2239774d17d01"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "VF8v4MIA2sCqT4TrnMfHcM2nrK0",
+            "id": "UgyjLTrJj8_rqZat9QV4AaABAg.9xOWdw8_6yAA-cvl4nEA7F",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "@user iya si bau tanah",
+              "textOriginal": "@user iya si bau tanah",
+              "parentId": "UgyjLTrJj8_rqZat9QV4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2024-02-10T09:59:33Z",
+              "updatedAt": "2024-06-18T03:27:37Z",
+              "authorHash": "32e2239774d17d01"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "-WQmKoO9JpEiOw7f2eEWVVVBOJ0",
+            "id": "UgyjLTrJj8_rqZat9QV4AaABAg.9xOWdw8_6yAA-cvryQX8Ck",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "@user lu komplain? , sdm rendah lu berarti 😂",
+              "textOriginal": "@user lu komplain? , sdm rendah lu berarti 😂",
+              "parentId": "UgyjLTrJj8_rqZat9QV4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2024-02-10T10:00:29Z",
+              "updatedAt": "2024-06-18T03:27:37Z",
+              "authorHash": "32e2239774d17d01"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "UyQrrz6YSV0_A26MLC9czHoTgPE",
+            "id": "UgyjLTrJj8_rqZat9QV4AaABAg.9xOWdw8_6yAA-cw4Ztwyt1",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "@user sdm tinggi gk akan ngehujat teknologi, hanya orang gaptek sdm rendah kek lu yg ngehujat 🤣",
+              "textOriginal": "@user sdm tinggi gk akan ngehujat teknologi, hanya orang gaptek sdm rendah kek lu yg ngehujat 🤣",
+              "parentId": "UgyjLTrJj8_rqZat9QV4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2024-02-10T10:02:21Z",
+              "updatedAt": "2024-06-18T03:27:37Z",
+              "authorHash": "32e2239774d17d01"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "SN_iPyUhI0dLny_mzVFlIxf7ZmI",
+            "id": "UgyjLTrJj8_rqZat9QV4AaABAg.9xOWdw8_6yAA-epauU3ZJh",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "@user AI art itu ngecopy pasta art orang dek. Makanya jalan2 ke kampus STEI ITB biar tau cara kerja licik AI art, dek.",
+              "textOriginal": "@user AI art itu ngecopy pasta art orang dek. Makanya jalan2 ke kampus STEI ITB biar tau cara kerja licik AI art, dek.",
+              "parentId": "UgyjLTrJj8_rqZat9QV4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 7,
+              "publishedAt": "2024-02-11T03:44:13Z",
+              "updatedAt": "2024-06-18T03:27:37Z",
+              "authorHash": "0728335e5b7e23ed"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "NLNi-u5tElaxUc2RMJvjVEqYxZc",
+            "id": "UgyjLTrJj8_rqZat9QV4AaABAg.9xOWdw8_6yAA-epm1hT0NS",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "@user Bagi prompt code aja lu paling pelit kan dek, kyk merasa itu hasil karya lo, padahal yg ngeart bukan elo. Idih najes kali ada bocil SDM rendah kyk ente",
+              "textOriginal": "@user Bagi prompt code aja lu paling pelit kan dek, kyk merasa itu hasil karya lo, padahal yg ngeart bukan elo. Idih najes kali ada bocil SDM rendah kyk ente",
+              "parentId": "UgyjLTrJj8_rqZat9QV4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2024-02-11T03:45:44Z",
+              "updatedAt": "2024-06-18T03:27:37Z",
+              "authorHash": "0728335e5b7e23ed"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "ngjBPS2i2eT_5qmZYIHVCPUaX7g",
+            "id": "UgyjLTrJj8_rqZat9QV4AaABAg.9xOWdw8_6yAA-epx5hEGHv",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "@user Ngehujat teknologi? Ibarat elo disuruh bikin skripsi sama dosen tapi wajib murni tapi elo malah pakai cara tholol pakai ChatGPT. Alhasil skripsi elo disuruh revisi lagi sama Dosen, BLOK. Otak kau taruh mana dek dek",
+              "textOriginal": "@user Ngehujat teknologi? Ibarat elo disuruh bikin skripsi sama dosen tapi wajib murni tapi elo malah pakai cara tholol pakai ChatGPT. Alhasil skripsi elo disuruh revisi lagi sama Dosen, BLOK. Otak kau taruh mana dek dek",
+              "parentId": "UgyjLTrJj8_rqZat9QV4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 8,
+              "publishedAt": "2024-02-11T03:47:14Z",
+              "updatedAt": "2024-06-18T03:27:37Z",
+              "authorHash": "0728335e5b7e23ed"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "XZ3JaHnMWvsqcEuN6pMgW2kM0eU",
+            "id": "UgyjLTrJj8_rqZat9QV4AaABAg.9xOWdw8_6yAA-eqX8jO_ij",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "@user Coba ente lihat2 lagi cara kerja AI draw. Coba lihat2 lagi aturan dalam menggunakan AI draw. Jangan asal sembarang pakai AI draw, cil. Ada hukum Undang-Undang Hak Cipta ya cil",
+              "textOriginal": "@user Coba ente lihat2 lagi cara kerja AI draw. Coba lihat2 lagi aturan dalam menggunakan AI draw. Jangan asal sembarang pakai AI draw, cil. Ada hukum Undang-Undang Hak Cipta ya cil",
+              "parentId": "UgyjLTrJj8_rqZat9QV4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 4,
+              "publishedAt": "2024-02-11T03:52:18Z",
+              "updatedAt": "2024-06-18T03:27:37Z",
+              "authorHash": "c90fd11e91e20b2c"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "duYomlYgoJqiA_rom-iI5_vwmgo",
+            "id": "UgyjLTrJj8_rqZat9QV4AaABAg.9xOWdw8_6yAA-fzMRLWNAC",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "gw bukannya ngga menghargai teknologi, tapi harus dipakai dengan benar. Terus kalau ai udah bisa ngelakuin seni, terus apa gunanya ada seniman? Pasti perusahaan besar bakal milih gunain ai krn maintenancenya rendah biaya dibanding sewa artis.\n\nkerjaan lu coba digantiin sm komputer, trs lu hrs dipaksa \"beradaptasi\" dgn belajar programming ai, tapi butuh biaya besar dan otak yg mumpuni jg krn programming itu susah dan rumit\n\neh iya lupa masih anak sma ya, blm tau gmn susahnya cari kerja... msh minta sm ortu ups..",
+              "textOriginal": "gw bukannya ngga menghargai teknologi, tapi harus dipakai dengan benar. Terus kalau ai udah bisa ngelakuin seni, terus apa gunanya ada seniman? Pasti perusahaan besar bakal milih gunain ai krn maintenancenya rendah biaya dibanding sewa artis.\n\nkerjaan lu coba digantiin sm komputer, trs lu hrs dipaksa \"beradaptasi\" dgn belajar programming ai, tapi butuh biaya besar dan otak yg mumpuni jg krn programming itu susah dan rumit\n\neh iya lupa masih anak sma ya, blm tau gmn susahnya cari kerja... msh minta sm ortu ups..",
+              "parentId": "UgyjLTrJj8_rqZat9QV4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 2,
+              "publishedAt": "2024-02-11T14:28:43Z",
+              "updatedAt": "2024-02-11T14:28:43Z",
+              "authorHash": "fe2bce8322f82746"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "jcCgevnP3mseepDrhzlCRf1mUoQ",
+            "id": "UgyjLTrJj8_rqZat9QV4AaABAg.9xOWdw8_6yAA-i8TyQWoD-",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "@user Kau bukan anak STEI ITB ga usah sok keras dekk. Kau SDM rendah yang tiap hari minta duit sama mamak hanya untuk main warnet tapi ga belajar pemrograman. Coba jelaskan dek apa itu Java Script dan penerapannya. Dasar SDM rendah kau, cacad, miskin, ga punya otak, binatang babi kau",
+              "textOriginal": "@user Kau bukan anak STEI ITB ga usah sok keras dekk. Kau SDM rendah yang tiap hari minta duit sama mamak hanya untuk main warnet tapi ga belajar pemrograman. Coba jelaskan dek apa itu Java Script dan penerapannya. Dasar SDM rendah kau, cacad, miskin, ga punya otak, binatang babi kau",
+              "parentId": "UgyjLTrJj8_rqZat9QV4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2024-02-12T10:35:37Z",
+              "updatedAt": "2024-06-18T03:27:37Z",
+              "authorHash": "4da3f1889f539578"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "5kPcVARcFtj1oCUN6xiQgUlQAKg",
+            "id": "UgyjLTrJj8_rqZat9QV4AaABAg.9xOWdw8_6yAA-i92c_XE2J",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "​@user yang SDM rendah 😂😂😂",
+              "textOriginal": "​@user yang SDM rendah 😂😂😂",
+              "parentId": "UgyjLTrJj8_rqZat9QV4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 2,
+              "publishedAt": "2024-02-12T10:40:37Z",
+              "updatedAt": "2024-06-18T03:27:37Z",
+              "authorHash": "7dda839e2b408b26"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "LlpkAOM3iB1kGvvZmsEKzXEGR38",
+            "id": "UgyjLTrJj8_rqZat9QV4AaABAg.9xOWdw8_6yAA-i98DDgvug",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "​@user tinggi ga bakal copy pasta hasil AI. Ibarat lu ngerjain PR pakai AI itu bukan orang cerdas tetapi pemalas dan pikun 😂😂😂 SDM rendah kamu 😂",
+              "textOriginal": "​@user tinggi ga bakal copy pasta hasil AI. Ibarat lu ngerjain PR pakai AI itu bukan orang cerdas tetapi pemalas dan pikun 😂😂😂 SDM rendah kamu 😂",
+              "parentId": "UgyjLTrJj8_rqZat9QV4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2024-02-12T10:41:23Z",
+              "updatedAt": "2024-06-18T03:27:37Z",
+              "authorHash": "7dda839e2b408b26"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "JR0DRcGxAL2p26kA98-8C2DJ3Ug",
+            "id": "UgyjLTrJj8_rqZat9QV4AaABAg.9xOWdw8_6yAA90h3993w0c",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "yaelah AI gambar jelek begitu dibela. gambar jari aja cacat semua🤢",
+              "textOriginal": "yaelah AI gambar jelek begitu dibela. gambar jari aja cacat semua🤢",
+              "parentId": "UgyjLTrJj8_rqZat9QV4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 2,
+              "publishedAt": "2024-09-30T17:34:39Z",
+              "updatedAt": "2024-09-30T17:34:39Z",
+              "authorHash": "abea675e00ec7494"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "bCyfXoKimi1VSo0jRa26fh6e2oQ",
+            "id": "UgyjLTrJj8_rqZat9QV4AaABAg.9xOWdw8_6yAAGo90iL4psa",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "Tolol apa tolol? Oh dongo",
+              "textOriginal": "Tolol apa tolol? Oh dongo",
+              "parentId": "UgyjLTrJj8_rqZat9QV4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2025-04-12T07:29:30Z",
+              "updatedAt": "2025-04-12T07:29:30Z",
+              "authorHash": "1e7e289910a07aa4"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "a_0997w7sHh1Jil_kGHJWqUgC6Y",
+            "id": "UgyjLTrJj8_rqZat9QV4AaABAg.9xOWdw8_6yAAGo94YoBwYp",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "​@user wowwww ITB??? Kerennnn aku mau masuk ITB FSRD :)",
+              "textOriginal": "​@user wowwww ITB??? Kerennnn aku mau masuk ITB FSRD :)",
+              "parentId": "UgyjLTrJj8_rqZat9QV4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2025-04-12T07:30:01Z",
+              "updatedAt": "2025-04-12T07:30:01Z",
+              "authorHash": "1e7e289910a07aa4"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "xBQ42cw_idf7x0FY0wU8g7j7SDQ",
+            "id": "UgyjLTrJj8_rqZat9QV4AaABAg.9xOWdw8_6yAAGo9CTv0vcX",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "​@user gw baru lulus SMA aja udh ngerti karna gw Seniman😂",
+              "textOriginal": "​@user gw baru lulus SMA aja udh ngerti karna gw Seniman😂",
+              "parentId": "UgyjLTrJj8_rqZat9QV4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2025-04-12T07:31:06Z",
+              "updatedAt": "2025-04-12T07:31:06Z",
+              "authorHash": "1e7e289910a07aa4"
+            }
+          }
+        ]
+      }
+    ],
+    "UgwZmwrqYWzBvl-nDOB4AaABAg": [
+      {
+        "kind": "youtube#commentListResponse",
+        "etag": "gChivq2U3uqYLaVpGRRwxXj-DMg",
+        "pageInfo": {
+          "resultsPerPage": 100
+        },
+        "items": [
+          {
+            "kind": "youtube#comment",
+            "etag": "AwxvMIeVI7n4G8dV5kpNOsrppPM",
+            "id": "UgwZmwrqYWzBvl-nDOB4AaABAg.9wJsDa3lBuE9zjOQZCrMMD",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "tapi apakah yg hujat udah riset nanya ke indomie mereka bikin AI nya pake data ngambil tanpa izin atau mereka bikin data set sendiri pakai source dari licensed file yang udah mereka owned sendiri? netizen emang terlalu banyak cepet nge judge ini bener ini salah, data-datanya aja belom ada lol",
+              "textOriginal": "tapi apakah yg hujat udah riset nanya ke indomie mereka bikin AI nya pake data ngambil tanpa izin atau mereka bikin data set sendiri pakai source dari licensed file yang udah mereka owned sendiri? netizen emang terlalu banyak cepet nge judge ini bener ini salah, data-datanya aja belom ada lol",
+              "parentId": "UgwZmwrqYWzBvl-nDOB4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 3,
+              "publishedAt": "2024-01-19T01:42:49Z",
+              "updatedAt": "2024-01-19T01:42:49Z",
+              "authorHash": "b38b9796faae33ff"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "v7IrPKn4M7rItZBS262l3Xv3cxE",
+            "id": "UgwZmwrqYWzBvl-nDOB4AaABAg.9wJsDa3lBuEA-i8khLt9KT",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "AI itu Yahudi dek dan menggunakan AI itu sama saja mendukung Israel",
+              "textOriginal": "AI itu Yahudi dek dan menggunakan AI itu sama saja mendukung Israel",
+              "parentId": "UgwZmwrqYWzBvl-nDOB4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 5,
+              "publishedAt": "2024-02-12T10:38:02Z",
+              "updatedAt": "2024-02-12T10:38:02Z",
+              "authorHash": "54aec0b61f26c558"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "IuipGJRk3lr5EKcbyWJvgZFs40c",
+            "id": "UgwZmwrqYWzBvl-nDOB4AaABAg.9wJsDa3lBuEA0VTYSBiZ9-",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "@user kalau begitu jangan pakai smartphone atau komputer ka. soalnya smartphone dan komputer juga memakai artificial intelligence 🤣",
+              "textOriginal": "@user kalau begitu jangan pakai smartphone atau komputer ka. soalnya smartphone dan komputer juga memakai artificial intelligence 🤣",
+              "parentId": "UgwZmwrqYWzBvl-nDOB4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2024-03-02T23:41:45Z",
+              "updatedAt": "2024-06-17T23:17:33Z",
+              "authorHash": "b38b9796faae33ff"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "VdIzrGdcjvQ8WTVwiIYy5KwoUlI",
+            "id": "UgwZmwrqYWzBvl-nDOB4AaABAg.9wJsDa3lBuEA0VgewGU3FE",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "@user Yokko? AI model apa dulu ni dek. AI itu jenisnya ada macam2 ya dek. AI yg ku maksud itu AI sejenis Picture kyk AI Disney",
+              "textOriginal": "@user Yokko? AI model apa dulu ni dek. AI itu jenisnya ada macam2 ya dek. AI yg ku maksud itu AI sejenis Picture kyk AI Disney",
+              "parentId": "UgwZmwrqYWzBvl-nDOB4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 3,
+              "publishedAt": "2024-03-03T01:45:06Z",
+              "updatedAt": "2024-06-17T23:17:33Z",
+              "authorHash": "54aec0b61f26c558"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "EODtdYufTFZQKuLt0HdTq2V3zxM",
+            "id": "UgwZmwrqYWzBvl-nDOB4AaABAg.9wJsDa3lBuEA0VgijbqFmt",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "@user Mending lu mulung barang bekas aja dek 🤣🤣",
+              "textOriginal": "@user Mending lu mulung barang bekas aja dek 🤣🤣",
+              "parentId": "UgwZmwrqYWzBvl-nDOB4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 2,
+              "publishedAt": "2024-03-03T01:45:38Z",
+              "updatedAt": "2024-06-17T23:17:33Z",
+              "authorHash": "54aec0b61f26c558"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "vstM_1VGUpiURuPCGwNjMNGdI8M",
+            "id": "UgwZmwrqYWzBvl-nDOB4AaABAg.9wJsDa3lBuEA90gRqfc-Hd",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "wkwk gw pernah marahin pacar gw pake AI trs dia juga sering asal comot + posting gambar orang tanpa source. sebagai penikmat seni sekaligus lulusan dari jurusan yg berhubungan sama seni, gw gedek banget sama AI. capek capek gw jelasin jeleknya AI, trus gw mampusin sekalian pas dia kena DMCA gegara ngepost karya orang tanpa izin, eh masi aja batu. untung udh putus. gedek banget gw sama orang yg ga aware masalah ginian😂",
+              "textOriginal": "wkwk gw pernah marahin pacar gw pake AI trs dia juga sering asal comot + posting gambar orang tanpa source. sebagai penikmat seni sekaligus lulusan dari jurusan yg berhubungan sama seni, gw gedek banget sama AI. capek capek gw jelasin jeleknya AI, trus gw mampusin sekalian pas dia kena DMCA gegara ngepost karya orang tanpa izin, eh masi aja batu. untung udh putus. gedek banget gw sama orang yg ga aware masalah ginian😂",
+              "parentId": "UgwZmwrqYWzBvl-nDOB4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2024-09-30T17:29:17Z",
+              "updatedAt": "2024-09-30T17:29:17Z",
+              "authorHash": "abea675e00ec7494"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "Xq3CstJwKDt31fPENV8mCnHPoRM",
+            "id": "UgwZmwrqYWzBvl-nDOB4AaABAg.9wJsDa3lBuEA90gen-x5G8",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "​@user mana ada data set dari mereka. lu kalo ga tau cara kerja AI mending diem. mau aja lu dikibulin",
+              "textOriginal": "​@user mana ada data set dari mereka. lu kalo ga tau cara kerja AI mending diem. mau aja lu dikibulin",
+              "parentId": "UgwZmwrqYWzBvl-nDOB4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2024-09-30T17:31:11Z",
+              "updatedAt": "2024-09-30T17:31:11Z",
+              "authorHash": "abea675e00ec7494"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "htnPwZJ-7bvjxR3Tk94qDA68qNw",
+            "id": "UgwZmwrqYWzBvl-nDOB4AaABAg.9wJsDa3lBuEAGo8a3_tX3m",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "Wkwkkw memang lucu rakyat kita",
+              "textOriginal": "Wkwkkw memang lucu rakyat kita",
+              "parentId": "UgwZmwrqYWzBvl-nDOB4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2025-04-12T07:25:43Z",
+              "updatedAt": "2025-04-12T07:25:43Z",
+              "authorHash": "1e7e289910a07aa4"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "PtRtXNap0eCaryqmR3x7FyceMXw",
+            "id": "UgwZmwrqYWzBvl-nDOB4AaABAg.9wJsDa3lBuEAGo8hnNEGlF",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "​@user keren kak pemahamannya",
+              "textOriginal": "​@user keren kak pemahamannya",
+              "parentId": "UgwZmwrqYWzBvl-nDOB4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2025-04-12T07:26:46Z",
+              "updatedAt": "2025-04-12T07:26:46Z",
+              "authorHash": "1e7e289910a07aa4"
+            }
+          }
+        ]
+      }
+    ],
+    "UgyL-6KObgEGs7sytLB4AaABAg": [
+      {
+        "kind": "youtube#commentListResponse",
+        "etag": "ISkiYT3F7gyUA19GS5iOPTnMSDQ",
+        "pageInfo": {
+          "resultsPerPage": 100
+        },
+        "items": [
+          {
+            "kind": "youtube#comment",
+            "etag": "SrwLs4oZhgSoHc_Tsdy24-Qx6Cs",
+            "id": "UgyL-6KObgEGs7sytLB4AaABAg.9vdMQX2ks9_9vgaWnU6iaU",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "Gak etis maksudnya?",
+              "textOriginal": "Gak etis maksudnya?",
+              "parentId": "UgyL-6KObgEGs7sytLB4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2023-10-10T13:33:57Z",
+              "updatedAt": "2023-10-10T13:33:57Z",
+              "authorHash": "88e5eb4e7b0a9308"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "JSHOQzr22B3FjZdjgudIe1LUFCg",
+            "id": "UgyL-6KObgEGs7sytLB4AaABAg.9vdMQX2ks9_9vh0cULpd9D",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "Ga etis gmna? Jelaskan",
+              "textOriginal": "Ga etis gmna? Jelaskan",
+              "parentId": "UgyL-6KObgEGs7sytLB4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2023-10-10T17:30:48Z",
+              "updatedAt": "2023-10-10T17:30:48Z",
+              "authorHash": "00d46a55831c5881"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "t-OKmMKcBeUcOeANa1RF5kRMJNk",
+            "id": "UgyL-6KObgEGs7sytLB4AaABAg.9vdMQX2ks9_9vhaQp6q2aq",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "Mungkin karena iklannya iklan indonesia, iklannya iklan indonesia malah pake style anime",
+              "textOriginal": "Mungkin karena iklannya iklan indonesia, iklannya iklan indonesia malah pake style anime",
+              "parentId": "UgyL-6KObgEGs7sytLB4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-10-10T22:52:23Z",
+              "updatedAt": "2023-10-10T22:52:23Z",
+              "authorHash": "755b0f55cb1fa316"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "Tmea24fy_lJ0DBm8IXqrPXhHirg",
+            "id": "UgyL-6KObgEGs7sytLB4AaABAg.9vdMQX2ks9_9vjB9U2nG7n",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "Enggak, soalnya Ai tuh pake art orang buat generate \"art\" nya, dan Ai generate ini termasuk mencuri art orang",
+              "textOriginal": "Enggak, soalnya Ai tuh pake art orang buat generate \"art\" nya, dan Ai generate ini termasuk mencuri art orang",
+              "parentId": "UgyL-6KObgEGs7sytLB4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 13,
+              "publishedAt": "2023-10-11T13:41:18Z",
+              "updatedAt": "2023-10-11T13:41:18Z",
+              "authorHash": "4fc5857d85de6d9e"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "CViJOoUT_7av-dobrs5IiWeeO90",
+            "id": "UgyL-6KObgEGs7sytLB4AaABAg.9vdMQX2ks9_9vjBNCg-0HQ",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "Saya sebagai seniman juga agak nyesek setiap liat ada orang pakai Ai art, apalagi ini bukan cuma buat latihan gambar aja, tapi udah di jadikan iklan",
+              "textOriginal": "Saya sebagai seniman juga agak nyesek setiap liat ada orang pakai Ai art, apalagi ini bukan cuma buat latihan gambar aja, tapi udah di jadikan iklan",
+              "parentId": "UgyL-6KObgEGs7sytLB4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 9,
+              "publishedAt": "2023-10-11T13:43:10Z",
+              "updatedAt": "2023-10-11T13:43:10Z",
+              "authorHash": "4fc5857d85de6d9e"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "n55a4BNh2yPy5QWA7A200_z-yI8",
+            "id": "UgyL-6KObgEGs7sytLB4AaABAg.9vdMQX2ks9_9vjBUlYp48S",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "Lebih baik sewa seniman aja, daripada menggunakan Ai",
+              "textOriginal": "Lebih baik sewa seniman aja, daripada menggunakan Ai",
+              "parentId": "UgyL-6KObgEGs7sytLB4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 8,
+              "publishedAt": "2023-10-11T13:44:12Z",
+              "updatedAt": "2023-10-11T13:44:12Z",
+              "authorHash": "4fc5857d85de6d9e"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "zu_D6dtzvzFYyDcRBq9GO080tQ4",
+            "id": "UgyL-6KObgEGs7sytLB4AaABAg.9vdMQX2ks9_9vma8nAFKkh",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "AI yg fungsinya untuk men generate gambar itu hsil learningnya menggunakan gambar\" dri internet tanpa seijin si pembuat gambar tersebut...,  gk etis lah klo perusahaan gede kyk gini gunaain AI art buat bikin iklan (tanpa kompensasi ke pembuat asli gambarnya yg digunakan buat learning),    kita\" pekerja seni yg bertahun\" buang duit ngasah ilmu gmn nasibnya....",
+              "textOriginal": "AI yg fungsinya untuk men generate gambar itu hsil learningnya menggunakan gambar\" dri internet tanpa seijin si pembuat gambar tersebut...,  gk etis lah klo perusahaan gede kyk gini gunaain AI art buat bikin iklan (tanpa kompensasi ke pembuat asli gambarnya yg digunakan buat learning),    kita\" pekerja seni yg bertahun\" buang duit ngasah ilmu gmn nasibnya....",
+              "parentId": "UgyL-6KObgEGs7sytLB4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 8,
+              "publishedAt": "2023-10-12T21:26:07Z",
+              "updatedAt": "2023-10-12T21:26:07Z",
+              "authorHash": "81c41607bab70ab2"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "AmwgMur3xRBVJK0NbyTfLdoFevo",
+            "id": "UgyL-6KObgEGs7sytLB4AaABAg.9vdMQX2ks9_9vvlmy5EK8t",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "​@user mereka lebih pilih pake AI gak jelas daripada sewa animator asli",
+              "textOriginal": "​@user mereka lebih pilih pake AI gak jelas daripada sewa animator asli",
+              "parentId": "UgyL-6KObgEGs7sytLB4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 6,
+              "publishedAt": "2023-10-16T11:01:01Z",
+              "updatedAt": "2024-04-18T00:52:13Z",
+              "authorHash": "38133e9bad4a2c4e"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "JqLmdKeTfoT_szcDkA3PIzXi4Tg",
+            "id": "UgyL-6KObgEGs7sytLB4AaABAg.9vdMQX2ks9_9w-ooW7D6Hh",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "​@user etis karena klo make ai berarti mereka males bayarin animator",
+              "textOriginal": "​@user etis karena klo make ai berarti mereka males bayarin animator",
+              "parentId": "UgyL-6KObgEGs7sytLB4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-10-18T10:03:39Z",
+              "updatedAt": "2024-04-18T00:52:13Z",
+              "authorHash": "85d0df60f26fd568"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "GUgOCaXUqD-updFF8RQbQZncQFw",
+            "id": "UgyL-6KObgEGs7sytLB4AaABAg.9vdMQX2ks9_9wx7EUKknJk",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "​@user nrlas gk etis ai tuh mrngambil karya orang yerus di modifikasi secara auto  eda hala\nnya jiga di gambar dari 0 dari sini pahamkan etika berkarya dan ai fungsinya untuk membantu bukan menjiplak.",
+              "textOriginal": "​@user nrlas gk etis ai tuh mrngambil karya orang yerus di modifikasi secara auto  eda hala\nnya jiga di gambar dari 0 dari sini pahamkan etika berkarya dan ai fungsinya untuk membantu bukan menjiplak.",
+              "parentId": "UgyL-6KObgEGs7sytLB4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2023-11-10T20:07:47Z",
+              "updatedAt": "2024-04-18T00:52:13Z",
+              "authorHash": "4eeef31d13de327f"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "SddGvEnpYRbNcToEb7mfwWtcyLk",
+            "id": "UgyL-6KObgEGs7sytLB4AaABAg.9vdMQX2ks9_9zjbUrlIP-s",
+            "snippet": {
+              "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+              "textDisplay": "relatif. kalau yang bikin source gambarnya itu dari artist2 manusia yang emang udah under contract sama indomie (yang kemudian di train jadi dataset animasi ini), artinya hak ciptanya punya indomie. Itu ga masalah. Adobe firefly juga bikin AI image. secara hak cipta mereka safe 100% soalnya semua datanya dari awal udah copyright mereka, dan kalau u pake image dari adobe firefly buat bikin AI komersil, hasilnya juga legal, sama seperti yang mereka state di web mereka. @user",
+              "textOriginal": "relatif. kalau yang bikin source gambarnya itu dari artist2 manusia yang emang udah under contract sama indomie (yang kemudian di train jadi dataset animasi ini), artinya hak ciptanya punya indomie. Itu ga masalah. Adobe firefly juga bikin AI image. secara hak cipta mereka safe 100% soalnya semua datanya dari awal udah copyright mereka, dan kalau u pake image dari adobe firefly buat bikin AI komersil, hasilnya juga legal, sama seperti yang mereka state di web mereka. @user",
+              "parentId": "UgyL-6KObgEGs7sytLB4AaABAg",
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2024-01-19T03:45:43Z",
+              "updatedAt": "2024-04-18T00:52:13Z",
+              "authorHash": "b38b9796faae33ff"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
