@@ -10,7 +10,7 @@ Kolom `sent_agree` = kedua model sepakat. Komentar negatif tetap dikonfirmasi de
 karena sarkasme ("Kreatif sekali", "Bagus bgt🗿") sering terbaca positif oleh model.
 
 Penggunaan:
-  python sentiment_relevant.py [--version v1] [--overwrite]
+  python src/sentiment_relevant.py [--version v1] [--overwrite]
 """
 
 from datetime import datetime, timezone

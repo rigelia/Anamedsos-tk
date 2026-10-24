@@ -17,7 +17,7 @@ Rute per komentar (kolom `route`):
   excluded          topik berlabel not_relevant
 
 Penggunaan:
-  python reduce_outliers_pass1.py [--run pass1_v1_nn15_mcs15_a] [--threshold 0.555] [--overwrite]
+  python src/reduce_outliers_pass1.py [--run pass1_v1_nn15_mcs15_a] [--threshold 0.555] [--overwrite]
 """
 
 from datetime import datetime, timezone

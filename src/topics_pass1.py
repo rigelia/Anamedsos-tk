@@ -11,8 +11,8 @@ Mode:
   --final  jalankan satu konfigurasi dan simpan output lengkap untuk ditinjau
 
 Penggunaan:
-  python topics_pass1.py --grid
-  python topics_pass1.py --final --n-neighbors 15 --min-cluster-size 15 --variant b
+  python src/topics_pass1.py --grid
+  python src/topics_pass1.py --final --n-neighbors 15 --min-cluster-size 15 --variant b
 
 Output --final (experiments/pass1_<data>_<run>/):
   doc_topics.csv        topik per komentar + konteks kasus

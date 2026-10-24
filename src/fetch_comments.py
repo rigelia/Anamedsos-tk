@@ -17,9 +17,9 @@ Output (di folder data/<tanggal>/):
   collection_log.json     waktu run, parameter, jumlah per video, error
 
 Penggunaan:
-  python fetch_comments.py                 # ambil semua video include=yes
-  python fetch_comments.py --dry-run       # cek manifest tanpa request API
-  python fetch_comments.py --only ID1 ID2  # ambil video tertentu saja
+  python src/fetch_comments.py                 # ambil semua video include=yes
+  python src/fetch_comments.py --dry-run       # cek manifest tanpa request API
+  python src/fetch_comments.py --only ID1 ID2  # ambil video tertentu saja
 """
 
 from datetime import datetime, timezone
@@ -43,7 +43,7 @@ from dotenv import load_dotenv
 
 load_dotenv("key.env")
 
-MANIFEST_CSV = "videos_manifest.csv"
+MANIFEST_CSV = "config/videos_manifest.csv"
 YOUTUBE_API_BASE_URL = "https://www.googleapis.com/youtube/v3"
 REQUEST_TIMEOUT_SECONDS = 30
 MAX_RESULTS = 100

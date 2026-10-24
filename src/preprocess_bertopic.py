@@ -24,8 +24,8 @@ Output:
   resources/stopwords_bertopic_<v>.txt         daftar stopword untuk CountVectorizer
 
 Penggunaan:
-  python preprocess_bertopic.py
-  python preprocess_bertopic.py --quality-version v2 --version v2
+  python src/preprocess_bertopic.py
+  python src/preprocess_bertopic.py --quality-version v2 --version v2
 """
 
 from collections import Counter

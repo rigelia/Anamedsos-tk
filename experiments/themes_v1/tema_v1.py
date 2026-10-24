@@ -81,7 +81,11 @@ def main():
     sample = pool.sample(N_VALID, random_state=SEED).reset_index(drop=True)
     sample[["idx", "commentId"]].to_csv(DIR / "validasi_tema_ids.csv", index=False)
     sample["parent_text"] = sample["parent_text"].fillna("")
-    prep_kalibrasi.write_sheet(sample, DIR / "validasi_tema.xlsx", title="Validasi buta codebook tema v1 (100 komentar)")
+    sheet = DIR / "validasi_tema.xlsx"
+    if sheet.exists():  # never overwrite a sheet a validator may already be filling
+        print(f"{sheet} sudah ada, tidak ditimpa.")
+    else:
+        prep_kalibrasi.write_sheet(sample, sheet, title="Validasi buta codebook tema v1 (100 komentar)")
 
     print(json.dumps({k: summary[k] for k in ["n", "tema_utama", "tema_utama_pct", "n_with_tema_kedua"]},
                      indent=2, ensure_ascii=False))

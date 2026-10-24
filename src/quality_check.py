@@ -17,8 +17,8 @@ Output (data/interim/):
   quality_report_<versi>.json    laporan yang sama dalam bentuk terstruktur
 
 Penggunaan:
-  python quality_check.py
-  python quality_check.py --raw-dir data/20260930 --version v1 --overwrite
+  python src/quality_check.py
+  python src/quality_check.py --raw-dir data/20260930 --version v1 --overwrite
 """
 
 from datetime import datetime, timezone
@@ -35,8 +35,8 @@ SCRIPT_VERSION = "1.0"
 
 DEFAULT_RAW_DIR = "data/20260930"
 INTERIM_DIR = Path("data/interim")
-MANIFEST_CSV = "videos_manifest.csv"
-OVERRIDES_CSV = "quality_overrides.csv"
+MANIFEST_CSV = "config/videos_manifest.csv"
+OVERRIDES_CSV = "config/quality_overrides.csv"
 
 # ---------------------------------------------------------------------------
 # Aturan (semua parameter ada di sini agar mudah dilaporkan)

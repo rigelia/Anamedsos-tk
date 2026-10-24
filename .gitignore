@@ -1,35 +1,31 @@
-# Secrets (API key and author-hash salt): never commit
+# Secrets (API key and author-hash salt): never commit, even in a private repo
 key.env
 *.env
 
-# Data: comment text stays off this public repo (shared with the team via Drive)
+# Pilot files from 2026-09-18: not anonymised (author names, raw channel IDs),
+# and data.zip (old backup of data/20260930). Never commit.
+archive/pilot_20260918/*
+!archive/pilot_20260918/explore_topics.py
+!archive/pilot_20260918/videos_url.txt
+
+# --- PUBLIC-REPO MODE -------------------------------------------------------
+# Remove this block only after the GitHub repo is private. It keeps comment
+# text, labels, models and course materials out of a public repository.
 data/
-data.zip
-
-# Pilot files from 2026-09-18: not anonymised (author names, raw channel IDs)
-comments_IXNas_31uvQ_20260918.csv
-raw_IXNas_31uvQ_20260918.json
-comments_with_topics_IXNas.csv
-representative_docs_IXNas.txt
-topic_info_IXNas.csv
-
-# Experiment outputs that contain comment text, labels or models
 experiments/**/*.csv
 experiments/**/*.xlsx
 experiments/**/*.npy
+experiments/**/*.zip
 experiments/**/model/
 experiments/**/topic_review.md
 experiments/**/reduce_outliers_check.md
+experiments/**/labelling/review_*.md
 !experiments/runs.csv
-
-# Course materials (not ours to publish)
-Tutorial 1 - Pengumpulan Data dengan YouTube Data API v3.ipynb
-social-media-analytics-modules-4-6.md
+docs/course/
+# ---------------------------------------------------------------------------
 
 # Python / editor
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
 ~$*
-experiments/**/*.zip
-experiments/**/labelling/review_*.md
