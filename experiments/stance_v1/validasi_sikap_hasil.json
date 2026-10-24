@@ -1,0 +1,34 @@
+{
+  "n_sample": 100,
+  "n_labelled_by_zillan": 99,
+  "n_blank": 1,
+  "agreement": 62,
+  "kappa": 0.235,
+  "zillan_counts": {
+    "tolak": 87,
+    "lain": 10,
+    "dukung": 2
+  },
+  "claude_counts": {
+    "tolak": 53,
+    "lain": 39,
+    "dukung": 7
+  },
+  "crosstab_claude_rows_zillan_cols": {
+    "dukung": {
+      "dukung": 2,
+      "lain": 1,
+      "tolak": 4
+    },
+    "lain": {
+      "dukung": 0,
+      "lain": 8,
+      "tolak": 31
+    },
+    "tolak": {
+      "dukung": 0,
+      "lain": 1,
+      "tolak": 52
+    }
+  }
+}

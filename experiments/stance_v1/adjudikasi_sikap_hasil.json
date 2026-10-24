@@ -1,0 +1,39 @@
+{
+  "n_adjudicated": 38,
+  "adjudication_sided_with": {
+    "claude": 25,
+    "zillan": 13
+  },
+  "final_counts": {
+    "tolak": 66,
+    "lain": 28,
+    "dukung": 6
+  },
+  "claude_v1_vs_final": {
+    "agreement": 87,
+    "n": 100,
+    "kappa": 0.757
+  },
+  "zillan_blind_vs_final": {
+    "agreement": 75,
+    "n": 99,
+    "kappa": 0.371
+  },
+  "crosstab_claude_rows_final_cols": {
+    "dukung": {
+      "dukung": 6,
+      "lain": 0,
+      "tolak": 1
+    },
+    "lain": {
+      "dukung": 0,
+      "lain": 28,
+      "tolak": 12
+    },
+    "tolak": {
+      "dukung": 0,
+      "lain": 0,
+      "tolak": 53
+    }
+  }
+}

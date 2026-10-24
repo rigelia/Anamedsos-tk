@@ -1,0 +1,35 @@
+# Secrets (API key and author-hash salt): never commit
+key.env
+*.env
+
+# Data: comment text stays off this public repo (shared with the team via Drive)
+data/
+data.zip
+
+# Pilot files from 2026-09-18: not anonymised (author names, raw channel IDs)
+comments_IXNas_31uvQ_20260918.csv
+raw_IXNas_31uvQ_20260918.json
+comments_with_topics_IXNas.csv
+representative_docs_IXNas.txt
+topic_info_IXNas.csv
+
+# Experiment outputs that contain comment text, labels or models
+experiments/**/*.csv
+experiments/**/*.xlsx
+experiments/**/*.npy
+experiments/**/model/
+experiments/**/topic_review.md
+experiments/**/reduce_outliers_check.md
+!experiments/runs.csv
+
+# Course materials (not ours to publish)
+Tutorial 1 - Pengumpulan Data dengan YouTube Data API v3.ipynb
+social-media-analytics-modules-4-6.md
+
+# Python / editor
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+~$*
+experiments/**/*.zip
+experiments/**/labelling/review_*.md

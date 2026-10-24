@@ -1,0 +1,16 @@
+slang,formal,reason
+mbg,mbg,Case name Makan Bergizi Gratis (lexicon maps to mbak)
+indo,indo,"'mi indo' is a nickname for Indomie (lexicon maps to indonesia)"
+x,x,Platform X/Twitter (lexicon maps to kali)
+ai,ai,Core term; never normalise
+ngapain,ngapain,Lexicon maps to mengapai (wrong meaning)
+si,si,Article as in 'si Budi' (lexicon maps to sih)
+klo,kalau,Lexicon maps to the slang form kalo
+kalo,kalau,Missing from lexicon
+kl,kalau,Keep consistent with kalo
+make,pakai,Indonesian slang for pakai; keep consistent with pake->pakai (lexicon maps to memakai)
+so,so,English word (lexicon maps to sok)
+ad,ad,English word (lexicon maps to ada)
+ngakak,ngakak,Lexicon maps to mengakak (not a real word)
+ngomong,ngomong,Lexicon maps to mengomong (not a real word)
+ngasih,kasih,Lexicon maps to mengasih (not a real word)

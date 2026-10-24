@@ -1,0 +1,76 @@
+{
+  "script": "reduce_outliers_pass1.py v1.0",
+  "run": "pass1_v1_nn15_mcs15_a",
+  "executed_at_utc": "2026-10-23T05:47:43Z",
+  "strategy": "cosine similarity to 768-d topic centroids (equivalent to reduce_outliers strategy='embeddings')",
+  "threshold": 0.555,
+  "threshold_rule": "default = 5th percentile of member-to-own-centroid similarity",
+  "n_docs": 3145,
+  "n_outliers_before": 1014,
+  "n_reassigned": 847,
+  "n_outliers_after": 167,
+  "reassigned_by_label": {
+    "relevant": 402,
+    "mixed": 364,
+    "not_relevant": 81
+  },
+  "route_counts": {
+    "relevant": 1749,
+    "check_comment": 1147,
+    "excluded": 249
+  },
+  "route_by_assigned_by": {
+    "hdbscan": {
+      "check_comment": 616,
+      "excluded": 168,
+      "relevant": 1347
+    },
+    "none": {
+      "check_comment": 167,
+      "excluded": 0,
+      "relevant": 0
+    },
+    "reduce_outliers": {
+      "check_comment": 364,
+      "excluded": 81,
+      "relevant": 402
+    }
+  },
+  "route_by_case": {
+    "C01": {
+      "check_comment": 163,
+      "excluded": 91,
+      "relevant": 376
+    },
+    "C02": {
+      "check_comment": 48,
+      "excluded": 8,
+      "relevant": 79
+    },
+    "C03": {
+      "check_comment": 221,
+      "excluded": 63,
+      "relevant": 414
+    },
+    "C04": {
+      "check_comment": 312,
+      "excluded": 30,
+      "relevant": 196
+    },
+    "C05": {
+      "check_comment": 36,
+      "excluded": 13,
+      "relevant": 62
+    },
+    "C06": {
+      "check_comment": 46,
+      "excluded": 5,
+      "relevant": 64
+    },
+    "C07": {
+      "check_comment": 321,
+      "excluded": 39,
+      "relevant": 558
+    }
+  }
+}

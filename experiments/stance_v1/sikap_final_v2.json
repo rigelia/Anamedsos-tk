@@ -1,0 +1,53 @@
+{
+  "n": 2288,
+  "n_changed_by_v2": 80,
+  "changes": [
+    {
+      "dari": "dukung",
+      "ke": "tolak",
+      "n": 2
+    },
+    {
+      "dari": "lain",
+      "ke": "tolak",
+      "n": 78
+    }
+  ],
+  "counts_v1": {
+    "tolak": 1534,
+    "lain": 600,
+    "dukung": 154
+  },
+  "counts_final": {
+    "tolak": 1627,
+    "lain": 510,
+    "dukung": 151
+  },
+  "tolak_pct_by_case": {
+    "C01": 60.4,
+    "C02": 70.7,
+    "C03": 87.6,
+    "C04": 61.1,
+    "C05": 93.9,
+    "C06": 79.1,
+    "C07": 65.6
+  },
+  "tolak_pct_by_org_type": {
+    "commercial": 67.5,
+    "government": 72.5
+  },
+  "tolak_pct_by_video_type": {
+    "reupload_archive": 87.2,
+    "third_party": 63.5
+  },
+  "dukung_pct_by_case": {
+    "C01": 16.8,
+    "C02": 1.1,
+    "C03": 0.4,
+    "C04": 1.6,
+    "C05": 0.0,
+    "C06": 4.4,
+    "C07": 8.9
+  },
+  "n_tolak": 1627
+}

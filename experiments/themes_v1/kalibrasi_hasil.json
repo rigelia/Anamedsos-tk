@@ -1,0 +1,113 @@
+{
+  "codebook_version": "v0",
+  "n": 50,
+  "n_coded_by_zillan": 49,
+  "typo_corrections": {
+    "KP": "PK"
+  },
+  "agreement_tema_utama": 28,
+  "kappa_tema_utama": 0.484,
+  "any_code_overlap": 33,
+  "zillan_counts": {
+    "EJ": 16,
+    "AK": 13,
+    "PK": 10,
+    "KV": 6,
+    "HC": 1,
+    "KO": 1,
+    "PB": 1,
+    "AU": 1
+  },
+  "claude_counts": {
+    "AK": 13,
+    "PK": 9,
+    "PB": 6,
+    "KV": 6,
+    "EJ": 6,
+    "KO": 5,
+    "HC": 2,
+    "AU": 2
+  },
+  "crosstab_claude_rows_zillan_cols": {
+    "AK": {
+      "AK": 10,
+      "AU": 0,
+      "EJ": 1,
+      "HC": 0,
+      "KO": 0,
+      "KV": 0,
+      "PB": 0,
+      "PK": 2
+    },
+    "AU": {
+      "AK": 0,
+      "AU": 1,
+      "EJ": 1,
+      "HC": 0,
+      "KO": 0,
+      "KV": 0,
+      "PB": 0,
+      "PK": 0
+    },
+    "EJ": {
+      "AK": 0,
+      "AU": 0,
+      "EJ": 6,
+      "HC": 0,
+      "KO": 0,
+      "KV": 0,
+      "PB": 0,
+      "PK": 0
+    },
+    "HC": {
+      "AK": 0,
+      "AU": 0,
+      "EJ": 1,
+      "HC": 0,
+      "KO": 0,
+      "KV": 1,
+      "PB": 0,
+      "PK": 0
+    },
+    "KO": {
+      "AK": 0,
+      "AU": 0,
+      "EJ": 2,
+      "HC": 1,
+      "KO": 1,
+      "KV": 0,
+      "PB": 0,
+      "PK": 1
+    },
+    "KV": {
+      "AK": 0,
+      "AU": 0,
+      "EJ": 2,
+      "HC": 0,
+      "KO": 0,
+      "KV": 3,
+      "PB": 1,
+      "PK": 0
+    },
+    "PB": {
+      "AK": 1,
+      "AU": 0,
+      "EJ": 3,
+      "HC": 0,
+      "KO": 0,
+      "KV": 2,
+      "PB": 0,
+      "PK": 0
+    },
+    "PK": {
+      "AK": 2,
+      "AU": 0,
+      "EJ": 0,
+      "HC": 0,
+      "KO": 0,
+      "KV": 0,
+      "PB": 0,
+      "PK": 7
+    }
+  }
+}
